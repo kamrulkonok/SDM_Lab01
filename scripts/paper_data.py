@@ -58,7 +58,7 @@ def get_papers_data(query, limit, fields):
     return papers_data
 fields = 'paperId,title,url,venue,publicationTypes,abstract,year,citationCount,journal'
 
-fields_queries = ['NLP', 'Quantum Computing', 'Graph Database']
+fields_queries = ['NLP','Machine Learning','LLM', 'Deep Learning', 'Quantum Computing', 'Graph Database',  'Data Management', 'Indexing', 'Data Modeling',' Big Data', 'Data Processing', 'Data Storage', 'Data Querying']
 all_papers_data = {}
 
 for field_query in fields_queries:
