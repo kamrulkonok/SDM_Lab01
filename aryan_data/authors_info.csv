@@ -1,0 +1,1666 @@
+authorId,name,Affiliations,Affiliation_type
+2815290,N. Houlsby,The University of Manchester,university
+1911881,A. Giurgiu,University of Toronto,university
+40569328,Stanislaw Jastrzebski,Columbia University,university
+68973833,Bruna Morrone,Phillips 66,company
+51985388,Quentin de Laroussilhe,UPS,company
+2813347,Andrea Gesmundo,Apple,company
+2809991,Mona Attariyan,EPFL,university
+1802148,S. Gelly,Dell Technologies,company
+2268272,Emma Strubell,The Australian National University,university
+47079359,Ananya Ganesh,Phillips 66,company
+143753639,A. McCallum,Imperial College London,university
+145222654,Patrick Lewis,Alphabet,company
+3439053,Ethan Perez,Columbia University,university
+1716179427,Aleksandara Piktus,Walmart,company
+40052301,F. Petroni,Johnson & Johnson,company
+2067091563,V. Karpukhin,"Nanyang Technological University, Singapore (NTU)",university
+39589154,Naman Goyal,Kroger,company
+103131985,Heinrich Kuttler,Humana,company
+35084211,M. Lewis,Lowe's,company
+144105277,Wen-tau Yih,McKesson,company
+2620211,Tim Rocktäschel,Cornell University,university
+48662861,Sebastian Riedel,Columbia University,university
+1743722,Douwe Kiela,Centene,company
+1705260,Yizhong Wang,EPFL,university
+1817207,Swaroop Mishra,Alphabet,company
+1805993128,Pegah Alipoormolabashi,Lowe's,company
+2156538832,Yeganeh Kordi,ExxonMobil,company
+2162779320,Amirreza Mirzaei,The University of New South Wales (UNSW Sydney),university
+1667817604,Anjana Arunkumar,Massachusetts Institute of Technology (MIT) ,university
+2063938464,Arjun Ashok,Cornell University,university
+2162779517,Arut Selvan Dhanasekaran,Institut Polytechnique de Paris,university
+2064353087,Atharva Naik,AT&T,company
+1689466093,David Stap,Marathon Petroleum,company
+2074097046,Eshaan Pathak,National University of Singapore (NUS),university
+8458211,Giannis Karamanolakis,Johnson & Johnson,company
+2162779839,Haizhi Gary Lai,JPMorgan Chase,company
+93841942,I. Purohit,ETH Zurich - Swiss Federal Institute of Technology,university
+9377739,Ishani Mondal,UPS,company
+2110871234,Jacob Anderson,Cardinal Health,company
+2158994272,Kirby Kuznia,McGill University,university
+2162779709,Krima Doshi,Home Depot,company
+81331041,Maitreya Patel,General Motors,company
+50494955,Kuntal Kumar Pal,Technical University of Munich,university
+40879549,M. Moradshahi,AmerisourceBergen,company
+1423660254,Mihir Parmar,Elevance Health,company
+1576655836,Mirali Purohit,Bank of America,company
+2067056655,Neeraj Varshney,Costco Wholesale,company
+2162781785,Phani Rohitha Kaza,Humana,company
+39765564,Pulkit Verma,Comcast,company
+2159207824,Ravsehaj Singh Puri,The University of Sydney,university
+72254820,Rushang Karia,Marathon Petroleum,company
+51479145,Shailaja Keyur Sampat,Valero Energy,company
+1380075136,Savan Doshi,New York University (NYU),university
+2112127876,S. Mishra,Apple,company
+2150098899,Sujan Reddy,AmerisourceBergen,company
+19255781,Sumanta Patro,Elevance Health,company
+2126503480,Tanay Dixit,University of British Columbia,university
+2144058688,Xudong Shen,Institut Polytechnique de Paris,university
+2064619864,Chitta Baral,The University of Hong Kong,university
+1699545,Yejin Choi,The University of Sydney,university
+144365875,Noah A. Smith,National University of Singapore (NUS),university
+2548384,Hannaneh Hajishirzi,Stanford University,university
+1783281,Daniel Khashabi,Centene,company
+2114887261,Shangbin Feng,King's College London,university
+50487261,Chan Young Park,Yale University,university
+2169159066,Yuhan Liu,Archer Daniels Midland,company
+2073587169,Yulia Tsvetkov,Kroger,company
+78846919,Marco Tulio Ribeiro,The University of Sydney,university
+35232494,Tongshuang Sherry Wu,Marathon Petroleum,company
+1730156,Carlos Guestrin,Costco Wholesale,company
+34650964,Sameer Singh,National University of Singapore (NUS),university
+1443788809,Arkil Patel,General Motors,company
+92954142,S. Bhattamishra,Columbia University,university
+144260125,Navin Goyal,King's College London,university
+6117577,Ian Tenney,Institut Polytechnique de Paris,university
+143790066,Dipanjan Das,University of Michigan-Ann Arbor,university
+2949185,Ellie Pavlick,Home Depot,company
+152913678,Steven Y. Feng,Walgreens Boots Alliance,company
+3375999,Varun Gangal,Verizon Communications,company
+144026731,Jason Wei,Ford Motor,company
+123607932,Sarath Chandar,Ford Motor,company
+1918441,Soroush Vosoughi,California Institute of Technology (Caltech),university
+1706595,T. Mitamura,University of Chicago,university
+144547315,E. Hovy,Dell Technologies,company
+2120664,Bishal Lamichhane,Walmart,company
+104406084,Adam Zaremba,Archer Daniels Midland,company
+16775568,Ender Demir,AT&T,company
+3422038,Su Lin Blodgett,The Australian National University,university
+2881033,Solon Barocas,Cardinal Health,company
+2065041692,Hal Daum'e,Columbia University,university
+1831395,Hanna M. Wallach,Comcast,company
+153769695,John X. Morris,Alphabet,company
+1453652787,Eli Lifland,University of Cambridge,university
+1693182792,Jin Yong Yoo,The University of Tokyo,university
+1829303908,J. Grigsby,CVS Health,company
+2068347799,Di Jin,Home Depot,company
+121817403,Yanjun Qi,Peking University,university
+47070483,Pratik M. Joshi,Johnson & Johnson,company
+50074956,Sebastin Santy,ETH Zurich - Swiss Federal Institute of Technology,university
+2410839,A. Budhiraja,"Nanyang Technological University, Singapore (NTU)",university
+3086996,Kalika Bali,Valero Energy,company
+143990839,M. Choudhury,Valero Energy,company
+41016275,Alon Jacovi,ETH Zurich - Swiss Federal Institute of Technology,university
+79775260,Yoav Goldberg,ETH Zurich - Swiss Federal Institute of Technology,university
+41052836,Anya Belz,University of Cambridge,university
+2122535749,Craig Thomson,EPFL,university
+2113922820,Ehud Reiter,Valero Energy,company
+17038002,Gavin Abercrombie,Archer Daniels Midland,company
+2151319597,J. Alonso-Moral,The University of Edinburgh,university
+9364658,Mohammad Arvan,University of British Columbia,university
+3159752,J. Cheung,AmerisourceBergen,company
+2648584,Mark Cieliebak,Verizon Communications,company
+40684993,Elizabeth Clark,Columbia University,university
+10708829,K. V. Deemter,Verizon Communications,company
+72115354,Tanvi Dinkar,"University of California, Los Angeles (UCLA)",university
+2544049,Ondrej Dusek,McKesson,company
+2620186,Steffen Eger,UCL,university
+1720986506,Qixiang Fang,Johns Hopkins University,university
+1700894,Albert Gatt,"University of California, Los Angeles (UCLA)",university
+2921637,Dimitra Gkatzia,McGill University,university
+2215866480,Javier Gonz'alez-Corbelle,The University of Manchester,university
+2022288,Dirk Hovy,Bank of America,company
+2165661802,Manuela Hurlimann,Verizon Communications,company
+119804885,Takumi Ito,Humana,company
+1380281888,John D. Kelleher,UPS,company
+3201315,Filip Klubicka,"University of California, Los Angeles (UCLA)",university
+66376493,Huiyuan Lai,Elevance Health,company
+50521235,Chris van der Lee,FedEx,company
+3192572,Emiel van Miltenburg,Meta Platforms,company
+2142159995,Yiru Li,FedEx,company
+2221260,Saad Mahamood,Columbia University,university
+2921990,Margot Mieskes,University of Cambridge,university
+2742475,M. Nissim,The University of Hong Kong,university
+2326758,Natalie Parde,Bank of America,company
+2201327940,Ondvrej Pl'atek,Comcast,company
+1681799,Verena Rieser,Walmart,company
+2150388522,Pablo Romero,McKesson,company
+2086973507,Joel Tetreault,JPMorgan Chase,company
+2065048323,Antonio Toral,Home Depot,company
+9714242,Xiao-Yi Wan,The University of Edinburgh,university
+9092408,L. Wanner,Verizon Communications,company
+145148787,Lewis J. Watson,Microsoft,company
+2143919864,Diyi Yang,The University of Edinburgh,university
+151207081,Shreyansh Goyal,National University of Singapore (NUS),university
+2072738714,Sumanth Doddapaneni,JPMorgan Chase,company
+2361078,Mitesh M. Khapra,Chevron,company
+2059566473,B. Ravindran,Archer Daniels Midland,company
+1743722,Douwe Kiela,"Nanyang Technological University, Singapore (NTU)",university
+153408953,Max Bartolo,Harvard University,university
+40383658,Yixin Nie,University of Cambridge,university
+9264826,Divyansh Kaushik,University of Oxford,university
+80833908,Atticus Geiger,Elevance Health,company
+47039337,Zhengxuan Wu,UPS,company
+2737827,Bertie Vidgen,The University of Edinburgh,university
+119869488,Grusha Prasad,Archer Daniels Midland,company
+1422035486,Pratik Ringshia,The University of Hong Kong,university
+1736107,Zhiyi Ma,Amazon,company
+1500242049,Tristan Thrush,Dell Technologies,company
+48662861,Sebastian Riedel,The University of Manchester,university
+2138053020,Zeerak Talat,Université PSL,university
+1918552,Pontus Stenetorp,UPS,company
+3422908,Robin Jia,McGill University,university
+143977268,Mohit Bansal,The University of Melbourne,university
+144922861,Christopher Potts,Berkshire Hathaway,company
+2110032535,Adina Williams,Comcast,company
+144112155,O. Khattab,McGill University,university
+50818255,Keshav Santhanam,McGill University,university
+32551341,Xiang Lisa Li,Berkshire Hathaway,company
+145385471,David Leo Wright Hall,Archer Daniels Midland,company
+145419642,Percy Liang,Cardinal Health,company
+144922861,Christopher Potts,Apple,company
+143834867,M. Zaharia,The University of Sydney,university
+48727916,Jay DeYoung,Harvard University,university
+49837811,Sarthak Jain,Lowe's,company
+8937909,Nazneen Rajani,Alphabet,company
+51172373,Eric P. Lehman,FedEx,company
+2228109,Caiming Xiong,Princeton University,university
+2166511,R. Socher,Lowe's,company
+1912476,Byron C. Wallace,Archer Daniels Midland,company
+2403712,A. Akbik,University of Oxford,university
+2077245166,Tanja Bergmann,FedEx,company
+2725328,Duncan A. J. Blythe,Amazon,company
+4565995,Kashif Rasul,University of Chicago,university
+134757625,Stefan Schweter,University of Pennsylvania,university
+2742129,Roland Vollgraf,Chevron,company
+8129718,Alham Fikri Aji,University of British Columbia,university
+9162688,Genta Indra Winata,McKesson,company
+2789148,Fajri Koto,Fannie Mae,company
+66986482,Samuel Cahyawijaya,FedEx,company
+2279712392,Ade Romadhony,Columbia University,university
+1935324,Rahmad Mahendra,McGill University,university
+46199596,Kemal Kurniawan,FedEx,company
+35722593,David Moeljadi,The University of Manchester,university
+2368148,Radityo Eko Prasojo,Apple,company
+145465286,Timothy Baldwin,Home Depot,company
+1800564,Jey Han Lau,Dell Technologies,company
+2124014463,Sebastian Ruder,General Motors,company
+2064295987,Daniel Hershcovich,The University of New South Wales (UNSW Sydney),university
+37922370,Stella Frank,Massachusetts Institute of Technology (MIT) ,university
+49568895,Heather Lent,University of Cambridge,university
+3295381,Miryam de Lhoneux,UnitedHealth Group,company
+30671790,Mostafa Abdou,Dell Technologies,company
+6547490,Stephanie Brandl,The University of Manchester,university
+83574123,Emanuele Bugliarello,Dell Technologies,company
+2093582149,Laura Cabello Piqueras,Meta Platforms,company
+2125376289,Ilias Chalkidis,Walmart,company
+1717462692,Ruixiang Cui,University of Toronto,university
+50110151,Constanza Fierro,Lowe's,company
+82259306,Katerina Margatina,Target,company
+1660797358,Phillip Rust,Massachusetts Institute of Technology (MIT) ,university
+1700187,Anders Søgaard,Stanford University,university
+32246932,Timo Schick,Tsinghua University,university
+40941940,Sahana Udupa,Institut Polytechnique de Paris,university
+144418438,Hinrich Schütze,The University of Manchester,university
+3449411,Dieuwke Hupkes,General Motors,company
+24068173,Mario Giulianelli,New York University (NYU),university
+74461595,Verna Dankers,Marathon Petroleum,company
+2347956,Mikel Artetxe,Imperial College London,university
+51131518,Yanai Elazar,Harvard University,university
+1388571351,Tiago Pimentel,Massachusetts Institute of Technology (MIT) ,university
+2718039,Christos Christodoulopoulos,"University of California, Berkeley (UCB)",university
+51121444,Karim Lasri,Cornell University,university
+2362960,Naomi Saphra,Kroger,company
+153915609,Arabella J. Sinclair,California Institute of Technology (Caltech),university
+133864309,Dennis Ulmer,Microsoft,company
+2187058204,Florian Schottmann,EPFL,university
+2049136,Khuyagbaatar Batsuren,University of Chicago,university
+2087314342,Kaiser Sun,Cornell University,university
+40910779,Koustuv Sinha,New York University (NYU),university
+50824937,Leila Khalatbari,Phillips 66,company
+1410648718,Maria Ryskina,Ford Motor,company
+1397300094,Rita Frieske,Cardinal Health,company
+2070989574,Ryan Cotterell,Cigna,company
+2111472502,Zhijing Jin,Walgreens Boots Alliance,company
+78846919,Marco Tulio Ribeiro,Cornell University,university
+23451726,Scott M. Lundberg,University of Pennsylvania,university
+2007064152,Yingqi Liu,Columbia University,university
+2052467415,Guangyu Shen,Berkshire Hathaway,company
+48927894,Guanhong Tao,Johns Hopkins University,university
+2072528961,Shengwei An,Johns Hopkins University,university
+2026855,Shiqing Ma,Marathon Petroleum,company
+1771551,X. Zhang,Centene,company
+145217343,Eric Wallace,University of Chicago,university
+2113511266,Shi Feng,McGill University,university
+1380266797,Nikhil Kandpal,Lowe's,company
+40642935,Matt Gardner,University of Michigan-Ann Arbor,university
+34650964,Sameer Singh,Institut Polytechnique de Paris,university
+2149798086,Rebecca Qian,University of British Columbia,university
+51519704,Candace Ross,Apple,company
+2166312768,Jude Fernandes,University of Chicago,university
+51324296,Eric Michael Smith,Amazon,company
+2111313627,Douwe Kiela,McKesson,company
+2110032535,Adina Williams,ExxonMobil,company
+2109404730,Yulong Chen,University of Michigan-Ann Arbor,university
+39798499,Yang Liu,UPS,company
+2152290059,Li Dong,Cardinal Health,company
+2992833,Shuohang Wang,General Motors,company
+8652308,Chenguang Zhu,Institut Polytechnique de Paris,university
+48262024,Michael Zeng,EPFL,university
+2145913600,Yue Zhang,Lowe's,company
+1416319999,C. Carrino,Princeton University,university
+2165226605,Joan Llop,Verizon Communications,company
+1850527789,Marc Pàmies,Microsoft,company
+2078772072,Asier Gutiérrez-Fandiño,AmerisourceBergen,company
+1405319696,Jordi Armengol-Estap'e,Microsoft,company
+2119543279,Joaquín Silveira-Ocampo,Tsinghua University,university
+2168853963,A. Valencia,Microsoft,company
+1403836100,Aitor Gonzalez-Agirre,Chevron,company
+2066499928,Marta Villegas,The University of Edinburgh,university
+145874489,Hamed Jelodar,Université PSL,university
+2107962574,Yongli Wang,University of Oxford,university
+2181308,Rita Orji,Université PSL,university
+50178505,Shucheng Huang,General Motors,company
+39819114,Siddharth Nath,Technical University of Munich,university
+2164300110,Abdullah Marie,Lowe's,company
+2090354013,S. Ellershaw,Chevron,company
+65739018,Edward Korot,Institut Polytechnique de Paris,university
+5638585,P. Keane,AmerisourceBergen,company
+38614754,Julian Michael,Centene,company
+14487640,Ari Holtzman,Yale University,university
+119389860,Alicia Parrish,The Australian National University,university
+49355602,Aaron Mueller,King's College London,university
+144906624,Alex Wang,Kroger,company
+13336152,Angelica Chen,UnitedHealth Group,company
+93811144,Divyam Madaan,McKesson,company
+10666396,Nikita Nangia,New York University (NYU),university
+46230016,Richard Yuanzhe Pang,Stanford University,university
+80842917,Jason Phang,Centene,company
+1799822,Sam Bowman,JPMorgan Chase,company
+1557391091,Qinyuan Ye,EPFL,university
+51583409,Bill Yuchen Lin,The University of Sydney,university
+145201124,Xiang Ren,Valero Energy,company
+2845020,Xiaoya Li,Walgreens Boots Alliance,company
+2109329406,Xiaofei Sun,The University of Hong Kong,university
+65844131,Yuxian Meng,Institut Polytechnique de Paris,university
+2115780454,Junjun Liang,EPFL,university
+144894837,Fei Wu,Imperial College London,university
+49298465,Jiwei Li,Bank of America,company
+80621550,Shaily Bhatt,"University of California, Los Angeles (UCLA)",university
+50991767,Sunipa Dev,The University of Hong Kong,university
+2406435,Partha P. Talukdar,California Institute of Technology (Caltech),university
+2160404,Shachi Dave,AmerisourceBergen,company
+3331141,Vinodkumar Prabhakaran,Yale University,university
+51236664,Hannah Devinney,Johnson & Johnson,company
+52604880,Jenny Björklund,AT&T,company
+2077434671,H. Björklund,Apple,company
+9051130,John P. Lalor,Université PSL,university
+2143685866,Yi Yang,General Motors,company
+2152595932,Kendall Smith,Valero Energy,company
+3047212,Nicole Forsgren,AT&T,company
+144849629,A. Abbasi,The University of Hong Kong,university
+152446182,Andreas Madsen,McGill University,university
+145732771,Siva Reddy,Costco Wholesale,company
+144631588,A. Chandar,ETH Zurich - Swiss Federal Institute of Technology,university
+144508458,Da Yin,Phillips 66,company
+145307652,Li Dong,University of Pennsylvania,university
+47413820,Hao Cheng,Phillips 66,company
+46522098,Xiaodong Liu,Peking University,university
+2782886,Kai-Wei Chang,University of Chicago,university
+49807919,Furu Wei,Home Depot,company
+48441311,Jianfeng Gao,The University of Sydney,university
+1904906987,Qing Lyu,Phillips 66,company
+2817917,Marianna Apidianaki,Massachusetts Institute of Technology (MIT) ,university
+1763608,Chris Callison-Burch,Walgreens Boots Alliance,company
+48578729,Venkatesh Shankar,Massachusetts Institute of Technology (MIT) ,university
+2157384856,Sohil Parsana,University of Oxford,university
+41052836,Anya Belz,University of Michigan-Ann Arbor,university
+2162189986,Maja Popovi'c,Johns Hopkins University,university
+2738095,Simon Mille,Humana,company
+145046059,Anna Rogers,McGill University,university
+40642935,Matt Gardner,McKesson,company
+1736067,Isabelle Augenstein,Humana,company
+78846919,Marco Tulio Ribeiro,Costco Wholesale,company
+34650964,Sameer Singh,Institut Polytechnique de Paris,university
+1730156,Carlos Guestrin,JPMorgan Chase,company
+1822288,Karan Goel,The University of Sydney,university
+8937909,Nazneen Rajani,McKesson,company
+2056908,Jesse Vig,Centene,company
+145814654,Samson Tan,AmerisourceBergen,company
+2120253018,Jason M. Wu,Phillips 66,company
+3393918,Stephan Zheng,Phillips 66,company
+2228109,Caiming Xiong,The Australian National University,university
+143977268,Mohit Bansal,UCL,university
+2061444681,Christopher R'e,Verizon Communications,company
+3422872,Dan Hendrycks,Cardinal Health,company
+90909974,Collin Burns,Bank of America,company
+2111074131,Anya Chen,University of Chicago,university
+2052356393,Spencer Ball,Fannie Mae,company
+2064295987,Daniel Hershcovich,UPS,company
+2023644816,Nicolas Webersinke,"University of California, Berkeley (UCB)",university
+2156865999,Mathias Kraus,The University of Tokyo,university
+2006205621,J. Bingler,Elevance Health,company
+3073566,Markus Leippold,Costco Wholesale,company
+2715774,Dan Ofer,ExxonMobil,company
+6822067,Nadav Brandes,Harvard University,university
+32427977,M. Linial,Johns Hopkins University,university
+151207081,Shreyansh Goyal,UnitedHealth Group,company
+2072738714,Sumanth Doddapaneni,University of Pennsylvania,university
+2158819331,Mitesh M.Khapra,Fannie Mae,company
+2059566473,B. Ravindran,"University of California, Los Angeles (UCLA)",university
+145217343,Eric Wallace,EPFL,university
+145914976,Tony Zhao,Humana,company
+144588144,Shi Feng,Comcast,company
+34650964,Sameer Singh,Archer Daniels Midland,company
+49889487,Yuhao Zhang,General Motors,company
+49889860,Yuhui Zhang,McKesson,company
+50531624,Peng Qi,Stanford University,university
+144783904,Christopher D. Manning,JPMorgan Chase,company
+2356307,C. Langlotz,Harvard University,university
+3077104,G. Moreira,Centene,company
+83517571,Sara Rabhi,FedEx,company
+2146040755,Jeongmin Lee,Home Depot,company
+2050446873,R. Ak,Johns Hopkins University,university
+79722739,Even Oldridge,National University of Singapore (NUS),university
+2088548557,Ismael Garrido-Muñoz,Microsoft,company
+1405764003,A. Montejo-Ráez,The University of Hong Kong,university
+1403976340,F. Martínez-Santiago,McKesson,company
+1405764024,Alfonso Ureña-López,Alphabet,company
+2120801160,Wenkai Yang,UPS,company
+49192881,Lei Li,"University of California, Berkeley (UCB)",university
+50317060,Zhiyuan Zhang,Kroger,company
+19169659,Xuancheng Ren,The Australian National University,university
+11774802,Xu Sun,The University of Melbourne,university
+1631386300,Bin He,"Nanyang Technological University, Singapore (NTU)",university
+1524732527,Xuezhi Wang,Kroger,company
+49528192,Haohan Wang,Marathon Petroleum,company
+2143919864,Diyi Yang,FedEx,company
+47739850,Jiaao Chen,The University of Manchester,university
+1390031652,Derek Tam,UCL,university
+2402716,Colin Raffel,Apple,company
+143977268,Mohit Bansal,Apple,company
+2143919864,Diyi Yang,Harvard University,university
+1708726,I. Tetko,McGill University,university
+1399383114,Pavel Karpov,Columbia University,university
+39976976,Ruud Van Deursen,Stanford University,university
+47373104,G. Godin,"University of California, Berkeley (UCB)",university
+2789148,Fajri Koto,Lowe's,company
+2953039,Afshin Rahimi,Cardinal Health,company
+1800564,Jey Han Lau,General Motors,company
+145465286,Timothy Baldwin,Apple,company
+2083807,B. Hutchinson,ExxonMobil,company
+3331141,Vinodkumar Prabhakaran,"University of California, Berkeley (UCB)",university
+40081727,Emily L. Denton,EPFL,university
+20825661,Kellie Webster,Lowe's,company
+2112887022,Yu Zhong,JPMorgan Chase,company
+1667883461,Stephen Denuyl,Massachusetts Institute of Technology (MIT) ,university
+2429723,Zenun Kastrati,Cornell University,university
+2035596,F. Dalipi,Cigna,company
+89182458,Krenare Pireva Nuçi,Chevron,company
+15971377,M. A. Wani,Dell Technologies,company
+2699105,Jonathan Bragg,Johns Hopkins University,university
+2527954,Arman Cohan,The University of Sydney,university
+46258841,Kyle Lo,Centene,company
+46181066,Iz Beltagy,University of Cambridge,university
+37574242,Avijit Thawani,Imperial College London,university
+2634786,J. Pujara,Columbia University,university
+144171096,Pedro A. Szekely,"Nanyang Technological University, Singapore (NTU)",university
+2512264,Filip Ilievski,Ford Motor,company
+27689253,Sabrina J. Mielke,Centene,company
+25098419,Zaid Alyafeai,Université PSL,university
+3448427,Elizabeth Salesky,University of Pennsylvania,university
+2402716,Colin Raffel,Walgreens Boots Alliance,company
+1879591269,Manan Dey,University of Chicago,university
+2907260,Matthias Gallé,Target,company
+2048082186,Arun Raja,UnitedHealth Group,company
+152358188,Chenglei Si,Bank of America,company
+2183377987,Wilson Y. Lee,Phillips 66,company
+68990982,Benoît Sagot,Walgreens Boots Alliance,company
+145814654,Samson Tan,Harvard University,university
+1723636206,Alan Ramponi,University of British Columbia,university
+2022124,Barbara Plank,Elevance Health,company
+1693182792,Jin Yong Yoo,National University of Singapore (NUS),university
+121817403,Yanjun Qi,New York University (NYU),university
+51125639,Haoxiang Zhong,Walmart,company
+51131083,Chaojun Xiao,Centene,company
+2652217,Cunchao Tu,University of Michigan-Ann Arbor,university
+145086110,T. Zhang,Walgreens Boots Alliance,company
+49293587,Zhiyuan Liu,Microsoft,company
+1753344,Maosong Sun,Marathon Petroleum,company
+49713890,Anjalie Field,UPS,company
+3422038,Su Lin Blodgett,Cornell University,university
+2138053020,Zeerak Talat,Tsinghua University,university
+145317727,Yulia Tsvetkov,ETH Zurich - Swiss Federal Institute of Technology,university
+103441820,N. Boucher,University of Chicago,university
+47473421,Ilia Shumailov,Princeton University,university
+40171469,Ross Anderson,Cardinal Health,company
+1967156,Nicolas Papernot,The University of New South Wales (UNSW Sydney),university
+35437368,Andrea Zanelli,Alphabet,company
+2057413,A. Domahidi,Microsoft,company
+30521589,J. Jerez,The University of Sydney,university
+144746954,M. Morari,CVS Health,company
+2110042101,Yue Kang,Chevron,company
+2113440494,Zhao Cai,University of British Columbia,university
+33593082,Chee‐Wee Tan,The University of Sydney,university
+144158674,Qian Huang,Cardinal Health,company
+2748728,Hefu Liu,McGill University,university
+3074811,Or Sharir,EPFL,university
+2064067229,Barak Peleg,AT&T,company
+1701353,Y. Shoham,Apple,company
+8804828,M. Schlichtkrull,National University of Singapore (NUS),university
+41019080,Nicola De Cao,McKesson,company
+144889265,Ivan Titov,University of Cambridge,university
+6117577,Ian Tenney,EPFL,university
+49556437,James Wexler,California Institute of Technology (Caltech),university
+1994065972,Jasmijn Bastings,Microsoft,company
+2843215,Tolga Bolukbasi,University of Toronto,university
+1388485917,Andy Coenen,Walgreens Boots Alliance,company
+3159346,Sebastian Gehrmann,Fannie Mae,company
+122064392,Ellen Jiang,Alphabet,company
+51478016,Mahima Pushkarna,Yale University,university
+146419516,Carey Radebaugh,University of Oxford,university
+49849144,Emily Reif,JPMorgan Chase,company
+2061016887,Ann Yuan,Dell Technologies,company
+2120801160,Wenkai Yang,McKesson,company
+2149202150,Yankai Lin,Lowe's,company
+50492525,Peng Li,Johns Hopkins University,university
+2108485106,Jie Zhou,University of Oxford,university
+2130282986,Xu Sun,California Institute of Technology (Caltech),university
+5781518,Kangjie Chen,Amazon,company
+65844131,Yuxian Meng,FedEx,company
+2109329406,Xiaofei Sun,Lowe's,company
+16042895,Shangwei Guo,General Motors,company
+2146331573,Tianwei Zhang,UPS,company
+49298465,Jiwei Li,The University of Tokyo,university
+2093474992,Chun Fan,University of Cambridge,university
+1380557800,Boaz Shmueli,Cardinal Health,company
+115300694,Jan Fell,Walgreens Boots Alliance,company
+2072404217,Soumya Ray,Costco Wholesale,company
+1746959,Lun-Wei Ku,CVS Health,company
+147783277,Paula Czarnowska,Yale University,university
+2065005,Yogarshi Vyas,Berkshire Hathaway,company
+39888194,Kashif Shah,Tsinghua University,university
+2111538614,Hyunjin Choi,The University of Sydney,university
+2125022424,Judong Kim,Princeton University,university
+2046999993,Seongho Joe,Cornell University,university
+2163133,Youngjune Gwon,Valero Energy,company
+145217343,Eric Wallace,Berkshire Hathaway,company
+1705260,Yizhong Wang,National University of Singapore (NUS),university
+48831399,Sujian Li,Technical University of Munich,university
+34650964,Sameer Singh,Archer Daniels Midland,company
+40642935,Matt Gardner,Technical University of Munich,university
+9433771,Piyawat Lertvittayakumjorn,Marathon Petroleum,company
+49973505,Francesca Toni,Verizon Communications,company
+26940961,Aparna Elangovan,Harvard University,university
+150147667,Jiayuan He,Harvard University,university
+1404100607,K. Verspoor,Meta Platforms,company
+2043232919,Paul Röttger,Berkshire Hathaway,company
+2737827,Bertie Vidgen,Columbia University,university
+2022288,Dirk Hovy,Home Depot,company
+1970864,J. Pierrehumbert,The University of Sydney,university
+49298465,Jiwei Li,National University of Singapore (NUS),university
+39717886,Xinlei Chen,Princeton University,university
+144547315,E. Hovy,UPS,company
+1746807,Dan Jurafsky,Walgreens Boots Alliance,company
+35823986,Sarah Wiegreffe,University of Chicago,university
+3451494,Ana Marasović,UCL,university
+144118452,Pengfei Liu,Humana,company
+41037252,Jinlan Fu,"Nanyang Technological University, Singapore (NTU)",university
+2116642640,Yanghua Xiao,The University of New South Wales (UNSW Sydney),university
+30300197,Weizhe Yuan,Walgreens Boots Alliance,company
+46923811,Shuaichen Chang,Verizon Communications,company
+2087363104,Junqi Dai,The University of Hong Kong,university
+2108176413,Yixin Liu,Verizon Communications,company
+1796245019,Zihuiwen Ye,Costco Wholesale,company
+14199369,Zi-Yi Dou,ETH Zurich - Swiss Federal Institute of Technology,university
+1700325,Graham Neubig,Stanford University,university
+2141026590,Sushant Singh,Walmart,company
+143794144,A. Mahmood,General Motors,company
+2120801160,Wenkai Yang,Technical University of Munich,university
+2149202150,Yankai Lin,Marathon Petroleum,company
+50492525,Peng Li,University of Pennsylvania,university
+2108485135,Jie Zhou,Valero Energy,company
+11774802,Xu Sun,California Institute of Technology (Caltech),university
+66395694,Zhengxiao Du,Université PSL,university
+5606742,Yujie Qian,Amazon,company
+2111312892,Xiao Liu,Massachusetts Institute of Technology (MIT) ,university
+2055623340,Ming Ding,The University of Sydney,university
+40125294,J. Qiu,Marathon Petroleum,company
+2109512754,Zhilin Yang,California Institute of Technology (Caltech),university
+2109541439,Jie Tang,AT&T,company
+144244743,Tu Vu,Technical University of Munich,university
+1664686681,Tong Wang,Apple,company
+2227827,Tsendsuren Munkhdalai,Amazon,company
+2041695,Alessandro Sordoni,Harvard University,university
+3382568,Adam Trischler,Marathon Petroleum,company
+1401265033,Andrew Mattarella-Micke,The University of Manchester,university
+35208858,Subhransu Maji,Cornell University,university
+2136562,Mohit Iyyer,Elevance Health,company
+145009056,Pedro Rodriguez,The University of Melbourne,university
+40080808,Joe Barrow,Cigna,company
+49462969,Alexander Miserlis Hoyle,Marathon Petroleum,company
+9051130,John P. Lalor,Walgreens Boots Alliance,company
+3422908,Robin Jia,JPMorgan Chase,company
+1389036863,Jordan L. Boyd-Graber,Technical University of Munich,university
+151257231,Xiaoyi Chen,University of Chicago,university
+66697271,A. Salem,Valero Energy,company
+144588806,M. Backes,"University of California, Los Angeles (UCLA)",university
+2026855,Shiqing Ma,ExxonMobil,company
+2145954003,Yang Zhang,Chevron,company
+151257231,Xiaoyi Chen,Kroger,company
+66697271,A. Salem,Chevron,company
+153642281,Dingfan Chen,Verizon Communications,company
+144588806,M. Backes,The Australian National University,university
+2118869261,Shiqing Ma,University of British Columbia,university
+40238834,Qingni Shen,Tsinghua University,university
+2109716565,Zhonghai Wu,Université PSL,university
+2145954003,Yang Zhang,Cigna,company
+120174856,Aleksandra Piktus,CVS Health,company
+40052301,F. Petroni,Technical University of Munich,university
+2067091563,V. Karpukhin,Institut Polytechnique de Paris,university
+113568063,Dmytro Okhonko,"University of California, Los Angeles (UCLA)",university
+2966239,Samuel Broscheit,Lowe's,company
+1410231361,Gautier Izacard,Technical University of Munich,university
+145222654,Patrick Lewis,Humana,company
+1628391446,Barlas Ouguz,Berkshire Hathaway,company
+3024698,Edouard Grave,Chevron,company
+2072801764,Wen-tau Yih,Tsinghua University,university
+48662861,Sebastian Riedel,The University of Melbourne,university
+1410401413,A. Soliman,Alphabet,company
+31935859,Kareem Eissa,New York University (NYU),university
+1399214738,S. El-Beltagy,Cornell University,university
+1452678825,Simran Khanuja,Archer Daniels Midland,company
+34725175,Sandipan Dandapat,The University of New South Wales (UNSW Sydney),university
+48180698,A. Srinivasan,University of Cambridge,university
+3010457,Sunayana Sitaram,UPS,company
+143990839,M. Choudhury,Cornell University,university
+2683903,Marco Polignano,Fannie Mae,company
+1731651,Pierpaolo Basile,Johnson & Johnson,company
+1873109,M. Degemmis,National University of Singapore (NUS),university
+145467353,G. Semeraro,Institut Polytechnique de Paris,university
+3101511,Valerio Basile,Cornell University,university
+1785372925,Tianlu Wang,CVS Health,company
+2143919864,Diyi Yang,King's College London,university
+1524732527,Xuezhi Wang,University of Toronto,university
+35618308,Leilei Gan,Cardinal Health,company
+49298465,Jiwei Li,UPS,company
+2146331573,Tianwei Zhang,CVS Health,company
+48570150,Xiaoya Li,Alphabet,company
+65844131,Yuxian Meng,The University of Edinburgh,university
+144894837,Fei Wu,University of Cambridge,university
+16042895,Shangwei Guo,Institut Polytechnique de Paris,university
+2093474992,Chun Fan,University of British Columbia,university
+2313130,J. Preskill,Massachusetts Institute of Technology (MIT) ,university
+2117853329,Youngseok Kim,University of Cambridge,university
+21078769,A. Eddins,Yale University,university
+51177395,Sajant Anand,AT&T,company
+38914626,K. X. Wei,The University of Edinburgh,university
+115850808,Ewout van den Berg,Costco Wholesale,company
+47468634,S. Rosenblatt,New York University (NYU),university
+2220056783,Hasan Nayfeh,King's College London,university
+2209603376,Yantao Wu,ExxonMobil,company
+31817360,M. Zaletel,UPS,company
+1882551,K. Temme,Meta Platforms,company
+5817392,A. Kandala,UCL,university
+2126066742,Dylan Herman,UCL,university
+2149406716,Cody Googin,Princeton University,university
+2111038440,Xiaoyuan Liu,UnitedHealth Group,company
+2116970494,Yue Sun,Cornell University,university
+4271239,A. Galda,Archer Daniels Midland,company
+1444724539,Ilya Safro,Columbia University,university
+134455051,Marco Pistoia,The Australian National University,university
+2143727,Y. Alexeev,University of Cambridge,university
+3912023,A. D. Meglio,Meta Platforms,company
+2054133447,K. Jansen,AmerisourceBergen,company
+2815974,I. Tavernelli,Dell Technologies,company
+1686740,C. Alexandrou,Costco Wholesale,company
+145480730,Srinivasan Arunachalam,Johnson & Johnson,company
+39905093,C. Bauer,The University of Edinburgh,university
+2262771794,K. Borras,UCL,university
+2674972,S. Carrazza,Home Depot,company
+2161242162,Arianna Crippa,Chevron,company
+152450818,V. Croft,Walmart,company
+100762864,R. D. Putter,Ford Motor,company
+2056165056,Andrea Delgado,UnitedHealth Group,company
+2878563,V. Dunjko,Johnson & Johnson,company
+2037814,D. Egger,Cornell University,university
+2158753939,E. Fernandez-Combarro,UnitedHealth Group,company
+152174781,Elina Fuchs,Costco Wholesale,company
+103152554,L. Funcke,CVS Health,company
+2221315513,Daniel González-Cuadra,Cardinal Health,company
+41132173,M. Grossi,Alphabet,company
+8967839,Jad C. Halimeh,Peking University,university
+1382738725,Zoe Holmes,University of Michigan-Ann Arbor,university
+2095290229,S. Kuhn,University of Cambridge,university
+39506143,D. Lacroix,Microsoft,company
+144672944,R. Lewis,McKesson,company
+47115364,D. Lucchesi,Kroger,company
+104245417,Miriam Lucio Martínez,University of Cambridge,university
+82313802,F. Meloni,Walmart,company
+3590574,Antonio Mezzacapo,Humana,company
+2224040,S. Montangero,Chevron,company
+1713793962,Lento Nagano,Comcast,company
+9911456,V. Radescu,UCL,university
+48954645,Enrique Rico Ortega,Cardinal Health,company
+39073218,A. Roggero,AmerisourceBergen,company
+2076228334,Julian Schuhmacher,Johns Hopkins University,university
+47020260,J. Seixas,Verizon Communications,company
+14568531,P. Silvi,JPMorgan Chase,company
+48021694,P. Spentzouris,Peking University,university
+35321583,F. Tacchino,The University of New South Wales (UNSW Sydney),university
+1882551,K. Temme,California Institute of Technology (Caltech),university
+94071871,K. Terashi,Home Depot,company
+102602824,Jordi Tura i Brugués,Université PSL,university
+2122318289,Cenk Tüysüz,Imperial College London,university
+3425469,S. Vallecorsa,University of Pennsylvania,university
+144128518,U. Wiese,University of Pennsylvania,university
+2282774,Shinjae Yoo,The University of Hong Kong,university
+2107952921,Jinglei Zhang,"University of California, Los Angeles (UCLA)",university
+2249759901,Hong Qiao,AT&T,company
+15642782,É. Dumur,The University of New South Wales (UNSW Sydney),university
+2249761102,Gustav Andersson,The Australian National University,university
+2282113562,Haoxiong Yan,University of British Columbia,university
+143717184,M. Chou,Cardinal Health,company
+92647195,J. Grebel,Amazon,company
+36460588,C. Conner,Berkshire Hathaway,company
+1499289559,Yash J. Joshi,Lowe's,company
+2206684539,Jacob M. Miller,Ford Motor,company
+102445836,R. Povey,Imperial College London,university
+2175142898,Xuntao Wu,Technical University of Munich,university
+2249760489,Andrew N. Cleland,Fannie Mae,company
+2083534745,Frederik F. Flöther,The University of Tokyo,university
+1726247,S. Bravyi,Verizon Communications,company
+35081540,O. Dial,Dell Technologies,company
+34654804,J. Gambetta,Johnson & Johnson,company
+2060054898,Dario Gil,Princeton University,university
+10046884,Z. Nazario,The University of Melbourne,university
+2126066742,Dylan Herman,"Nanyang Technological University, Singapore (NTU)",university
+2149406716,Cody Googin,CVS Health,company
+2111038440,Xiaoyuan Liu,AT&T,company
+4271239,A. Galda,JPMorgan Chase,company
+1444724539,Ilya Safro,"Nanyang Technological University, Singapore (NTU)",university
+2116970494,Yue Sun,Verizon Communications,company
+134455051,Marco Pistoia,UPS,company
+2143727,Y. Alexeev,University of British Columbia,university
+145147015,Yue Wu,The University of New South Wales (UNSW Sydney),university
+6808545,S. Kolkowitz,The University of New South Wales (UNSW Sydney),university
+49895624,S. Puri,Costco Wholesale,company
+2109870049,J. Thompson,Marathon Petroleum,company
+2103454094,Nils Quetschlich,The University of New South Wales (UNSW Sydney),university
+121839134,Lukas Burgholzer,Home Depot,company
+144385184,R. Wille,UnitedHealth Group,company
+2145958,N. S. Blunt,JPMorgan Chase,company
+2064652655,Joan Camps,Ford Motor,company
+79678750,O. Crawford,AT&T,company
+2167315235,R'obert Izs'ak,Home Depot,company
+2106780217,S. Leontica,University of Toronto,university
+2142470161,Arjun Mirani,Amazon,company
+102516370,Alexandra E. Moylett,FedEx,company
+1978071856,Sam A. Scivier,UCL,university
+103182524,Christoph Sunderhauf,UnitedHealth Group,company
+97489290,P. Schopf,Meta Platforms,company
+2110747638,Jacob M. Taylor,JPMorgan Chase,company
+5086587,Nicole Holzmann,Massachusetts Institute of Technology (MIT) ,university
+1728331,A. Kavokin,Massachusetts Institute of Technology (MIT) ,university
+102747909,T. Liew,Microsoft,company
+144590277,Christian Schneider,The University of New South Wales (UNSW Sydney),university
+6790917,P. Lagoudakis,Université PSL,university
+7585460,S. Klembt,The University of Sydney,university
+2166154912,S. Hoefling,Peking University,university
+114370700,Heliang Huang,Université PSL,university
+2180190154,Xiao-Yue Xu,The University of Hong Kong,university
+26685135,Chu Guo,McGill University,university
+7345166,Guojing Tian,Fannie Mae,company
+48241245,Shijie Wei,Humana,company
+2198485182,Xiaoming Sun,Harvard University,university
+3041439,Wansu Bao,The University of Melbourne,university
+144135402,G. Long,The University of Manchester,university
+31347453,M. Perelshtein,Costco Wholesale,company
+2087046300,Asel Sagingalieva,Cigna,company
+2164706014,Karan Pinto,University of Michigan-Ann Arbor,university
+2557591,Vishal Shete,Lowe's,company
+1388013676,A. Pakhomchik,The Australian National University,university
+2050228932,A. Melnikov,University of British Columbia,university
+2065938,F. Neukart,The University of Edinburgh,university
+2140212060,Georg Gesek,ETH Zurich - Swiss Federal Institute of Technology,university
+47610941,A. Melnikov,FedEx,company
+143700248,V. Vinokur,Lowe's,company
+34702644,M. Caleffi,UnitedHealth Group,company
+1746877,M. Amoretti,University of Chicago,university
+1974998016,Davide Ferrari,Walgreens Boots Alliance,company
+1509419973,Daniele Cuomo,McGill University,university
+2127107412,Jessica Illiano,The University of Melbourne,university
+2069729,A. Manzalini,Harvard University,university
+3062937,Angela Sara Cacciapuoti,Lowe's,company
+2161241855,Nicolas Heurtel,UCL,university
+2078675007,A. Fyrillas,Archer Daniels Midland,company
+2161242301,Gr'egoire de Gliniasty,FedEx,company
+2161242145,Raphael Le Bihan,Imperial College London,university
+2161242134,S'ebastien Malherbe,Valero Energy,company
+2161241528,Marceau Pailhas,Archer Daniels Midland,company
+5344810,E. Bertasi,Dell Technologies,company
+102509601,Boris Bourdoncle,New York University (NYU),university
+88251701,P. Emeriau,The University of Manchester,university
+103146051,Rawad Mezher,The Australian National University,university
+50738985,Luka Music,"University of California, Los Angeles (UCLA)",university
+48700430,N. Belabas,AmerisourceBergen,company
+2591230,B. Valiron,University of Oxford,university
+47627363,P. Senellart,Walgreens Boots Alliance,company
+33091515,Shane Mansfield,ETH Zurich - Swiss Federal Institute of Technology,university
+48530805,J. Senellart,Kroger,company
+40273028,N. D. de Leon,New York University (NYU),university
+32715158,K. Itoh,McGill University,university
+122204505,Dohun Kim,Walmart,company
+32852422,K. Mehta,Princeton University,university
+4383060,T. Northup,Stanford University,university
+38089043,H. Paik,The University of Manchester,university
+31676699,B. Palmer,Ford Motor,company
+4581776,N. Samarth,Institut Polytechnique de Paris,university
+5139824,S. Sangtawesin,Elevance Health,company
+5038754,D. Steuerman,University of Chicago,university
+32519404,R. Keijzer,Cigna,company
+144910138,O. Tse,California Institute of Technology (Caltech),university
+153538835,S. Kokkelmans,Archer Daniels Midland,company
+2108514980,Arifa Ali Khan,Centene,company
+2717758,Aakash Ahmad,The University of New South Wales (UNSW Sydney),university
+2059292970,M. Waseem,Comcast,company
+81049321,Peng-Jun Liang,AT&T,company
+2440461,M. Fahmideh,Yale University,university
+1754218,T. Mikkonen,Humana,company
+52015060,P. Abrahamsson,Elevance Health,company
+1610941057,Hamza Jnane,Tsinghua University,university
+107857248,Brennan Undseth,Massachusetts Institute of Technology (MIT) ,university
+48569063,Z. Cai,Amazon,company
+1864960,S. Benjamin,Centene,company
+3834416,Bálint Koczor,Verizon Communications,company
+2147184066,Jernej Rudi Finžgar,Cornell University,university
+2105502136,Philipp Ross,Kroger,company
+9653883,J. Klepsch,The University of Melbourne,university
+50631038,André Luckow,The University of Edinburgh,university
+2238024,E. Osaba,University of Toronto,university
+1399096304,Esther Villar-Rodriguez,Princeton University,university
+14103249,I. Oregi,JPMorgan Chase,company
+8787467,A. Glos,EPFL,university
+38306014,Aleksandra Krawiec,Marathon Petroleum,company
+5610051,Z. Zimborás,Humana,company
+8229638,P. Jurcevic,University of Pennsylvania,university
+1403854898,Ali Javadi-Abhari,King's College London,university
+6938183,L. Bishop,UPS,company
+2070142719,I. Lauer,UCL,university
+10252809,D. Bogorin,Cornell University,university
+40410373,M. Brink,Harvard University,university
+35587859,L. Capelluto,Université PSL,university
+1797584,O. Günlük,Cornell University,university
+2144633,Toshinari Itoko,CVS Health,company
+2113593160,Naoki Kanazawa,ExxonMobil,company
+5817392,A. Kandala,University of Pennsylvania,university
+35045656,G. Keefe,Home Depot,company
+98912691,Kevin Krsulich,Microsoft,company
+2077322874,W. Landers,Meta Platforms,company
+2473749,Eric P Lewandowski,University of Cambridge,university
+47636692,D. McClure,Humana,company
+2314381,G. Nannicini,Apple,company
+1885345754,Adinath Narasgond,Humana,company
+2300158,H. Nayfeh,The University of Melbourne,university
+46187943,E. Pritchett,McKesson,company
+2768424,M. Rothwell,Alphabet,company
+143996832,S. Srinivasan,Peking University,university
+46195445,N. Sundaresan,"University of California, Berkeley (UCB)",university
+2135729344,Cindy Wang,Ford Motor,company
+38914626,K. X. Wei,Lowe's,company
+2068110895,C. J. Wood,Costco Wholesale,company
+21113799,J. Yau,Walmart,company
+2054909843,E. Zhang,Valero Energy,company
+35081540,O. Dial,Lowe's,company
+37400490,J. Chow,Institut Polytechnique de Paris,university
+34654804,J. Gambetta,Costco Wholesale,company
+2055318525,Siyuan Niu,Princeton University,university
+3182535,A. Todri,Walgreens Boots Alliance,company
+2170477645,H. A. Bhat,Institut Polytechnique de Paris,university
+11725498,F. A. Khanday,Humana,company
+2054115,Brajesh Kumar Kaushik,Johns Hopkins University,university
+48301520,F. Bashir,AT&T,company
+23634484,K. Shah,The University of Tokyo,university
+9486227,Roman Rietsche,Comcast,company
+3902966,Christian Dremel,Ford Motor,company
+2075122637,Samuel Bosch,The University of New South Wales (UNSW Sydney),university
+47408905,Léa Steinacker,Ford Motor,company
+98771715,Miriam Meckel,Verizon Communications,company
+1737216,J. Leimeister,Lowe's,company
+32666186,Daniel Jaschke,Cigna,company
+2224040,S. Montangero,"University of California, Berkeley (UCB)",university
+1741486,Claudio Cicconetti,Ford Motor,company
+2288804757,M. Conti,FedEx,company
+1739490,A. Passarella,University of Michigan-Ann Arbor,university
+153709686,Yazhen Wang,UPS,company
+2121308660,Hong-Zhi Liu,Université PSL,university
+3904395,C. Bruzewicz,The University of Melbourne,university
+3149798,J. Chiaverini,Bank of America,company
+143750697,R. McConnell,Dell Technologies,company
+5954485,J. Sage,"Nanyang Technological University, Singapore (NTU)",university
+9315039,K. Kaswan,Elevance Health,company
+1396821265,Jagjit Singh Dhatterwal,Princeton University,university
+70927945,Anupam Baliyan,Bank of America,company
+2119163865,S. Rani,Elevance Health,company
+103271000,Ivan Pogorelov,University of Pennsylvania,university
+15287013,T. Feldker,Amazon,company
+103005447,Christian D. Marciniak,Johns Hopkins University,university
+13507410,L. Postler,The University of New South Wales (UNSW Sydney),university
+2227474866,Georg Jacob,McGill University,university
+103365921,O. Krieglsteiner,AmerisourceBergen,company
+2227474762,Verena Podlesnic,Home Depot,company
+4393951,M. Meth,Amazon,company
+4392329,V. Negnevitsky,Imperial College London,university
+50077937,M. Stadler,Walgreens Boots Alliance,company
+49771193,B. Hofer,Cornell University,university
+33322114,Christophe Wachter,The Australian National University,university
+15431744,Kirill Lakhmanskiy,The University of Sydney,university
+144817429,R. Blatt,General Motors,company
+144096525,P. Schindler,National University of Singapore (NUS),university
+6588605,T. Monz,The University of Manchester,university
+72891735,Tom Lubinski,University of Oxford,university
+12511250,S. Johri,Harvard University,university
+5085096,P. Varosy,UnitedHealth Group,company
+2053430987,J. Coleman,Tsinghua University,university
+46586624,Luning Zhao,Microsoft,company
+2131136566,Jason Necaise,The Australian National University,university
+48966499,C. Baldwin,University of Chicago,university
+2059169375,K. Mayer,New York University (NYU),university
+2295708,T. Proctor,Microsoft,company
+2136404111,Koon Hoo Teo,Institut Polytechnique de Paris,university
+1591127176,Yuhao Zhang,Humana,company
+2059328,N. Chowdhury,Imperial College London,university
+34796787,S. Rakheja,Home Depot,company
+144114221,R. Ma,Microsoft,company
+2055458813,Q. Xie,Johnson & Johnson,company
+5659515,E. Yagyu,Peking University,university
+144095348,K. Yamanaka,Dell Technologies,company
+49243552,Kexin Li,Verizon Communications,company
+2072224588,Tomás Palacios,Dell Technologies,company
+2268163114,Albert Meige,Walgreens Boots Alliance,company
+2289354602,Rick Eagar,AT&T,company
+2289354600,Lucas Könnecke,McGill University,university
+48292986,C. Couteau,FedEx,company
+40305147,Stefanie Barz,Columbia University,university
+2831482,T. Durt,University of Cambridge,university
+46954689,T. Gerrits,Ford Motor,company
+49757151,J. Huwer,The University of New South Wales (UNSW Sydney),university
+4465611,R. Prevedel,Centene,company
+144611561,J. Rarity,Massachusetts Institute of Technology (MIT) ,university
+4629805,A. Shields,UPS,company
+2473920,G. Weihs,Dell Technologies,company
+2594417,Francesco Bova,Cigna,company
+3156782,Avi Goldfarb,"Nanyang Technological University, Singapore (NTU)",university
+3422513,R. Melko,California Institute of Technology (Caltech),university
+38304775,Stefano Mangini,Ford Motor,company
+35321583,F. Tacchino,"Nanyang Technological University, Singapore (NTU)",university
+145179879,D. Gerace,Columbia University,university
+2472580,D. Bajoni,Apple,company
+2013837,C. Macchiavello,The University of Sydney,university
+15745895,Andreas Bayerstadler,Apple,company
+92972370,Guillaume Becquin,Cornell University,university
+2140276706,Julia Binder,Marathon Petroleum,company
+4730738,T. Botter,Dell Technologies,company
+1784980,H. Ehm,"Nanyang Technological University, Singapore (NTU)",university
+6996711,T. Ehmer,National University of Singapore (NUS),university
+2140325675,Marvin Erdmann,The University of Melbourne,university
+2140343982,Norbert Gaus,Ford Motor,company
+34645132,P. Harbach,Johnson & Johnson,company
+2053080936,Maximilian Hess,Archer Daniels Midland,company
+9653883,J. Klepsch,National University of Singapore (NUS),university
+50464368,M. Leib,Fannie Mae,company
+2077109076,S. Luber,University of British Columbia,university
+50631038,André Luckow,General Motors,company
+2140297805,M. Mansky,Berkshire Hathaway,company
+2865965,W. Mauerer,Verizon Communications,company
+2065938,F. Neukart,Cigna,company
+1876916,C. Niedermeier,"University of California, Berkeley (UCB)",university
+2140304858,Lilly Palackal,University of Toronto,university
+2140323791,Ruben Pfeiffer,Chevron,company
+2140304856,Carsten Polenz,Target,company
+81216495,J. Sepúlveda,University of Pennsylvania,university
+2140343989,Tammo Sievers,The University of Sydney,university
+123412323,Brian Standen,Berkshire Hathaway,company
+82911375,Michael Streif,Technical University of Munich,university
+7365051,T. Strohm,Imperial College London,university
+1398954311,Clemens Utschig-Utschig,New York University (NYU),university
+37757661,D. Volz,Technical University of Munich,university
+2141807182,Horst Weiss,Yale University,university
+2059015075,Fabian D. Winter,Technical University of Munich,university
+2313130,J. Preskill,University of Pennsylvania,university
+47280747,M. Motta,Costco Wholesale,company
+2201681,J. Rice,Institut Polytechnique de Paris,university
+51459951,Yuchen Wang,CVS Health,company
+2219676008,Zixuan Hu,University of Michigan-Ann Arbor,university
+34655154,B. Sanders,Meta Platforms,company
+1699217,S. Kais,UPS,company
+2037814,D. Egger,Dell Technologies,company
+40914530,Claudio Gambella,CVS Health,company
+2128242,Jakub Marecek,Harvard University,university
+2537039,S. McFaddin,Meta Platforms,company
+40371976,M. Mevissen,The University of Tokyo,university
+118721801,Rudy Raymond,Johns Hopkins University,university
+1918877,Andrea Simonetto,The University of Hong Kong,university
+50539732,Stefan Woerner,Humana,company
+2083333844,Elena Yndurain,Imperial College London,university
+49674917,H. Bombin,ExxonMobil,company
+40026378,Isaac H. Kim,California Institute of Technology (Caltech),university
+93761083,D. Litinski,Cigna,company
+38462857,Naomi H. Nickerson,"University of California, Berkeley (UCB)",university
+102479055,M. Pant,University of Chicago,university
+2610119,F. Pastawski,Princeton University,university
+2112234547,Sam Roberts,Institut Polytechnique de Paris,university
+145852716,T. Rudolph,"University of California, Berkeley (UCB)",university
+2124881898,Weikang Li,Apple,company
+32628182,Sirui Lu,"University of California, Berkeley (UCB)",university
+5204254,D. Deng,Walgreens Boots Alliance,company
+1398907758,T. Fernández-Caramés,The Australian National University,university
+1401263185,Paula Fraga-Lamas,Dell Technologies,company
+2142766693,Lawrence Z Cohen,King's College London,university
+40026378,Isaac H. Kim,University of Toronto,university
+3029700,S. Bartlett,Humana,company
+46610676,Benjamin J. Brown,Chevron,company
+14020982,Vera von Burg,Fannie Mae,company
+1917423,G. Low,ExxonMobil,company
+3393711,Thomas Häner,Massachusetts Institute of Technology (MIT) ,university
+3393324,Damian S. Steiger,Verizon Communications,company
+2656595,M. Reiher,Johns Hopkins University,university
+46278269,M. Roetteler,The University of Tokyo,university
+1752096,M. Troyer,McKesson,company
+2216467,Yudong Cao,The University of Manchester,university
+119889392,J. Romero,Valero Energy,company
+32442462,Jonathan Olson,Dell Technologies,company
+13619977,M. Degroote,Yale University,university
+143688757,Peter D. Johnson,UPS,company
+12047931,M. Kieferová,"University of California, Berkeley (UCB)",university
+24643287,I. Kivlichan,University of Chicago,university
+144776222,Tim Menke,University of Oxford,university
+3670995,B. Peropadre,Peking University,university
+47116463,Nicolas P. D. Sawaya,Cornell University,university
+35374750,Sukin Sim,The University of Sydney,university
+9941491,L. Veis,Dell Technologies,company
+1380248954,Alán Aspuru-Guzik,Johnson & Johnson,company
+46512011,E. Rinaldi,Ford Motor,company
+152996852,Xizhi Han,Johns Hopkins University,university
+120849343,Mohammad Hassan,King's College London,university
+82722511,Yuan Feng,University of Oxford,university
+2901754,F. Nori,Technical University of Munich,university
+145552462,M. McGuigan,McGill University,university
+8163911,M. Hanada,University of Cambridge,university
+2066109087,Manuela Weigold,Johnson & Johnson,company
+2890261,Johanna Barzen,Columbia University,university
+1688415,F. Leymann,CVS Health,company
+51418452,Marie Olivia Salm,Microsoft,company
+114370700,Heliang Huang,California Institute of Technology (Caltech),university
+1752545942,Dachao Wu,"Nanyang Technological University, Singapore (NTU)",university
+2054266852,D. Fan,Imperial College London,university
+2218990522,Xiaobo Zhu,Verizon Communications,company
+2074099273,Koustubh Phalak,FedEx,company
+153329056,Abdullah Ash Saki,Home Depot,company
+71667767,M. Alam,Archer Daniels Midland,company
+144695135,R. Topaloglu,Phillips 66,company
+144505057,Swaroop Ghosh,Columbia University,university
+52221692,Stephen Diadamo,Johns Hopkins University,university
+2697097,Marco Ghibaudi,Tsinghua University,university
+32610684,J. Cruise,The University of Hong Kong,university
+145553035,S. Cohen,Institut Polytechnique de Paris,university
+2109870049,J. Thompson,Elevance Health,company
+1509419973,Daniele Cuomo,Johnson & Johnson,company
+34702644,M. Caleffi,University of British Columbia,university
+3062937,Angela Sara Cacciapuoti,University of Oxford,university
+145673316,R. Rasool,Berkshire Hathaway,company
+2088138377,H. F. Ahmad,McGill University,university
+26352398,Wajid Rafique,Costco Wholesale,company
+2146174432,Adnan Qayyum,FedEx,company
+2139199675,Junaid Qadir,"Nanyang Technological University, Singapore (NTU)",university
+2213873418,Zahid Anwar,Microsoft,company
+31043248,S. S. Gill,Harvard University,university
+1712222777,Adarsh Kumar,University of British Columbia,university
+2174992457,Harvinder Singh,Harvard University,university
+2414016,Manmeet Singh,Imperial College London,university
+49577231,K. Kaur,Target,company
+2143665076,Muhammad Usman,JPMorgan Chase,company
+1709598,R. Buyya,McKesson,company
+3062937,Angela Sara Cacciapuoti,UCL,university
+34702644,M. Caleffi,CVS Health,company
+40046900,F. Cataliotti,ETH Zurich - Swiss Federal Institute of Technology,university
+1933922,S. Gherardini,University of Cambridge,university
+2218979994,D. Tan,Cigna,company
+2259796,J. Cong,Kroger,company
+100782743,Carolyn ten Holter,Apple,company
+2092826,P. Inglesant,Cornell University,university
+1771117,M. Jirotka,ExxonMobil,company
+3393711,Thomas Häner,Peking University,university
+3393324,Damian S. Steiger,Costco Wholesale,company
+1713648,T. Hoefler,Alphabet,company
+1752096,M. Troyer,University of Pennsylvania,university
+2110279525,Hongbin Liu,The University of Melbourne,university
+1917423,G. Low,Bank of America,company
+3393324,Damian S. Steiger,National University of Singapore (NUS),university
+3393711,Thomas Häner,Costco Wholesale,company
+2656595,M. Reiher,Harvard University,university
+1752096,M. Troyer,Comcast,company
+37459194,A. Giani,Cornell University,university
+2797120,Gokul Subramanian Ravi,Université PSL,university
+103072467,L. Henriet,ExxonMobil,company
+25829448,L. Beguin,Humana,company
+19358600,A. Signoles,Walmart,company
+35256358,T. Lahaye,Technical University of Munich,university
+5416478,A. Browaeys,Comcast,company
+2007384,G. Reymond,Walgreens Boots Alliance,company
+91674610,C. Jurczak,Elevance Health,company
+2126465230,Matteo Paltenghi,Chevron,company
+1884064,Michael Pradel,The University of Melbourne,university
+1737836,K. Bertels,Johnson & Johnson,company
+144330671,A. Sarkar,Harvard University,university
+145594823,I. Ashraf,ExxonMobil,company
+50631038,André Luckow,King's College London,university
+9653883,J. Klepsch,Amazon,company
+1456173110,Josef Pichlmeier,Comcast,company
+51112526,C. Outeiral,University of Pennsylvania,university
+4912649,M. Strahm,Princeton University,university
+1741697,Jiye Shi,Meta Platforms,company
+49331106,G. Morris,The University of Edinburgh,university
+1864960,S. Benjamin,New York University (NYU),university
+145808074,C. Deane,The University of Melbourne,university
+2101209,Stuart M. Harwood,The University of Sydney,university
+2903972,Dimitar Trenev,Fannie Mae,company
+4000217,Spencer T. Stober,ETH Zurich - Swiss Federal Institute of Technology,university
+3434129,P. Barkoutsos,The University of Sydney,university
+5382855,Tanvi P. Gujarati,University of Cambridge,university
+47129449,S. Mostame,UnitedHealth Group,company
+121482399,Donny Greenberg,The University of Edinburgh,university
+66415249,P. Nimbe,The University of Tokyo,university
+1870529,B. Weyori,Walgreens Boots Alliance,company
+51966799,Adebayo Felix Adekoya,ExxonMobil,company
+144923793,C. Chamberland,Valero Energy,company
+8996478,E. Campbell,Yale University,university
+4213293,V. Marx,The University of Edinburgh,university
+51175614,Xiruo Yan,UCL,university
+2099895658,Sebastian Gitt,Verizon Communications,company
+2088574721,B. Lin,Humana,company
+2071496326,Donald Witt,Université PSL,university
+9515582,Mahssa Abdolahi,Apple,company
+150890242,Abdelrahman E. Afifi,University of Michigan-Ann Arbor,university
+2077048565,Adan Azem,Yale University,university
+1446224834,A. Darcie,Costco Wholesale,company
+51174213,Jingda Wu,UCL,university
+6867828,Kashif M. Awan,Cigna,company
+2088695408,Matthew Mitchell,EPFL,university
+13378174,A. Pfenning,Walmart,company
+3039873,L. Chrostowski,Elevance Health,company
+144223808,Jeff F. Young,Institut Polytechnique de Paris,university
+1509419973,Daniele Cuomo,McKesson,company
+34702644,M. Caleffi,AmerisourceBergen,company
+98912691,Kevin Krsulich,Walgreens Boots Alliance,company
+10719003,F. Tramonto,Target,company
+2148614280,Gabriele Agliardi,FedEx,company
+48994822,E. Prati,CVS Health,company
+3062937,Angela Sara Cacciapuoti,Technical University of Munich,university
+98858638,Shi-Yao Hou,Phillips 66,company
+47570377,Guanru Feng,"University of California, Berkeley (UCB)",university
+2109685537,Zipeng Wu,Amazon,company
+2023920626,Hongyang Zou,Amazon,company
+2153422632,Wei Shi,Comcast,company
+2072982858,Jinfeng Zeng,Fannie Mae,company
+95563777,Chenfeng Cao,McGill University,university
+2112274448,Shengqiang Yu,Target,company
+2047284215,Zikai Sheng,ETH Zurich - Swiss Federal Institute of Technology,university
+2070350403,Xin Rao,King's College London,university
+2064646994,Bing Ren,AmerisourceBergen,company
+2111831374,Dawei Lu,Lowe's,company
+2114313047,Junting Zou,The University of Edinburgh,university
+2059208191,Guoxing Miao,CVS Health,company
+2057476365,Jingen Xiang,Imperial College London,university
+27351842,B. Zeng,JPMorgan Chase,company
+115799034,Rhea Parekh,AT&T,company
+2061202877,Andrea Ricciardi,Walgreens Boots Alliance,company
+2042703517,Ahmed Darwish,Home Depot,company
+52221692,Stephen Diadamo,AT&T,company
+5744388,F. V. Massoli,Meta Platforms,company
+2151249444,Lucia Vadicamo,The University of Hong Kong,university
+144514869,G. Amato,Tsinghua University,university
+1846129,F. Falchi,Home Depot,company
+2051785482,Joseph C. Aulicino,Bank of America,company
+1387873032,Trevor Keen,Johns Hopkins University,university
+145560079,Bo Peng,UnitedHealth Group,company
+23114835,Pauline J. Ollitrault,Lowe's,company
+2122960383,Alexander Miessen,Bank of America,company
+2815974,I. Tavernelli,Target,company
+1657667709,Inga Seidler,Johns Hopkins University,university
+148244326,Tom Struck,The University of Edinburgh,university
+2133696151,Ran Xue,McKesson,company
+144888963,N. Focke,Verizon Communications,company
+2353407,S. Trellenkamp,Home Depot,company
+49643723,H. Bluhm,AmerisourceBergen,company
+50016968,L. Schreiber,Elevance Health,company
+1398475409,M. F. Gonzalez-Zalba,AmerisourceBergen,company
+30639586,S. D. Franceschi,The University of Sydney,university
+144713024,E. Charbon,Kroger,company
+144654574,T. Meunier,Marathon Petroleum,company
+1680219,M. Vinet,Phillips 66,company
+2769334,A. Dzurak,McKesson,company
+1949572253,S. Stein,The University of Hong Kong,university
+1766680,Yufei Ding,UCL,university
+3253856,N. Wiebe,Technical University of Munich,university
+145560079,Bo Peng,AmerisourceBergen,company
+143924199,K. Kowalski,The University of Tokyo,university
+1743474,Nathan A. Baker,UCL,university
+2107856766,James Ang,FedEx,company
+2112839155,A. Li,CVS Health,company
+2133630,M. V. Larsen,University of Oxford,university
+5771223,Xueshi Guo,McGill University,university
+102230461,Casper R. Breum,University of Michigan-Ann Arbor,university
+1388035132,Jonas S Neergaard-Nielsen,Walgreens Boots Alliance,company
+2068992,U. Andersen,University of Pennsylvania,university
+93761083,D. Litinski,Amazon,company
+1478399348,Furkan Oz,Cornell University,university
+151196900,Rohit K. S. S. Vuppala,Imperial College London,university
+30869714,Kursat Kara,McKesson,company
+2678759,F. Gaitan,Yale University,university
+3219108,H. Riel,The Australian National University,university
+2124015766,D.-S. Wang,The Australian National University,university
+145395184,Sanjib Ghosh,UnitedHealth Group,company
+102747909,T. Liew,JPMorgan Chase,company
+1474569575,Benjamin Weder,University of Toronto,university
+2890261,Johanna Barzen,Lowe's,company
+1688415,F. Leymann,Johns Hopkins University,university
+51418452,Marie Olivia Salm,Costco Wholesale,company
+1565015599,Karoline Wild,CVS Health,company
+49615584,S. Takeda,EPFL,university
+3289333,A. Furusawa,Walmart,company
+3444643,J. Bardin,University of Pennsylvania,university
+34877666,D. Slichter,University of Oxford,university
+38647698,D. Reilly,Kroger,company
+2064371218,Daniel Mills,Yale University,university
+72130782,Seyon Sivarajah,Humana,company
+71321956,Travis L. Scholten,University of British Columbia,university
+1831894,Ross Duncan,Meta Platforms,company
+103282093,N. N. Hegade,Walgreens Boots Alliance,company
+47793550,Koushik Paul,King's College London,university
+51149096,Yongcheng Ding,AmerisourceBergen,company
+144998275,M. Sanz,Valero Energy,company
+1404962794,F. Albarr'an-Arriagada,University of Cambridge,university
+10749029,E. Solano,Cigna,company
+2145307105,Xi Chen,Fannie Mae,company
+5046165,Sangil Kwon,Cigna,company
+101304541,A. Tomonaga,The University of Manchester,university
+2124830998,Gopika Lakshmi Bhai,Johns Hopkins University,university
+2939492,S. Devitt,UPS,company
+46464547,J. Tsai,Stanford University,university
+2218979994,D. Tan,King's College London,university
+2259796,J. Cong,ETH Zurich - Swiss Federal Institute of Technology,university
+10116889,A. Grimsmo,University of Chicago,university
+2325302,J. Combes,Archer Daniels Midland,company
+10147686,B. Baragiola,Peking University,university
+144352362,W. Martens,JPMorgan Chase,company
+2879007,Matthias Niewerth,Centene,company
+2164445100,Tina Popp,Massachusetts Institute of Technology (MIT) ,university
+2261302914,Carlos Rojas,Lowe's,company
+1709642,Stijn Vansummeren,The Australian National University,university
+2434366,D. Vrgoc,Home Depot,company
+1663632797,Matteo Kamm,Verizon Communications,company
+2868147,Manuel Rigger,Imperial College London,university
+1625425838,Chengyu Zhang,Columbia University,university
+38319925,Z. Su,Walmart,company
+2171106811,Ziyue Hua,Alphabet,company
+49661434,Weisheng Lin,Stanford University,university
+31131132,Luyao Ren,Tsinghua University,university
+2118207557,Zongyang Li,University of Michigan-Ann Arbor,university
+144281339,Lu Zhang,Cardinal Health,company
+5779643,Wenpin Jiao,Dell Technologies,company
+2057038192,Tao Xie,National University of Singapore (NUS),university
+2158585032,Yingying Zheng,The University of Manchester,university
+2964640,Wensheng Dou,Centene,company
+134898163,Yicheng Wang,Johnson & Johnson,company
+2093481779,Zheng Qin,National University of Singapore (NUS),university
+2131285720,Leile Tang,Phillips 66,company
+2118120527,Yu Gao,California Institute of Technology (Caltech),university
+2152692124,Dong Wang,Columbia University,university
+40231586,Wei Wang,Ford Motor,company
+144525882,Jun Wei,AmerisourceBergen,company
+144615268,Sakshi Srivastava,McKesson,company
+2140474907,A. Singh,Harvard University,university
+2111817551,Xiyang Feng,Stanford University,university
+2071131429,Guodong Jin,Tsinghua University,university
+2192514693,Ziyi Chen,The University of Edinburgh,university
+2118484279,Chang Liu,Université PSL,university
+1783781,S. Salihoglu,The University of Hong Kong,university
+2144151933,Min Wu,Apple,company
+2147140724,Xing Yi,ExxonMobil,company
+2118682854,Huijun Yu,AmerisourceBergen,company
+2155144192,Yu Liu,Dell Technologies,company
+2170508170,Yujue Wang,Apple,company
+2113275665,Hui Feng,University of British Columbia,university
+9379946,Meigen Huang,The University of Edinburgh,university
+2132365308,M. Elsabagh,Ford Motor,company
+2145413970,Changji Li,Imperial College London,university
+2108844303,Hongzhi Chen,Verizon Communications,company
+2167037428,Shuai Zhang,Bank of America,company
+1490915504,Ying-Xin Hu,Comcast,company
+2145763285,Chao Chen,Columbia University,university
+2109512262,Zhenjie Zhang,AT&T,company
+123816348,Meng,University of Cambridge,university
+2088215217,Li,Meta Platforms,company
+2193954145,Xiangchen Li,UnitedHealth Group,company
+32058742,Dongqing Han,EPFL,university
+2116124684,Xiaohui Chen,University of Chicago,university
+2144671306,Xudong Wang,Université PSL,university
+2424392,Hui-dong Zhu,New York University (NYU),university
+2182246691,Xu-Dong Fu,Chevron,company
+2112662828,Ting Wu,Yale University,university
+2184079980,Hongfei Tan,EPFL,university
+113398129,Hengtian Ding,Costco Wholesale,company
+2695617,Meng-Ti Liu,Walgreens Boots Alliance,company
+2174235132,Kang Wang,The Australian National University,university
+2112409349,Ting Ye,"Nanyang Technological University, Singapore (NTU)",university
+46255707,Lei Li,University of Michigan-Ann Arbor,university
+2157513188,Xin Li,AmerisourceBergen,company
+2153604994,Yu Wang,FedEx,company
+2113918898,Chen Zheng,Costco Wholesale,company
+50841357,Han Yang,King's College London,university
+2116502347,James Cheng,The University of Edinburgh,university
+2054289955,Zijun Mao,FedEx,company
+101108644,Hongyun Yao,The University of Sydney,university
+2054838160,Qi Zou,AT&T,company
+1492120545,Weiting Zhang,Berkshire Hathaway,company
+2115905112,Ying Dong,University of Oxford,university
+1725650,S. Ferilli,Cardinal Health,company
+2146041856,Jie Wang,Comcast,company
+150238039,Min Wu,UCL,university
+2155815886,Xuhui Huang,Valero Energy,company
+2152719037,Li Wang,University of Cambridge,university
+2108965351,Sophia Zhang,New York University (NYU),university
+2146671969,Hui Liu,Centene,company
+2115692258,Jie Zheng,Archer Daniels Midland,company
+2434366,D. Vrgoc,University of Michigan-Ann Arbor,university
+2059572334,Carlos Rojas,Imperial College London,university
+2772109,Renzo Angles,Phillips 66,company
+144658846,M. Arenas,Bank of America,company
+1754091,Diego Arroyuelo,Centene,company
+34652974,Carlos Buil Aranda,The University of Melbourne,university
+144007515,A. Hogan,Université PSL,university
+143678972,G. Navarro,University of Pennsylvania,university
+1706922,Cristian Riveros,Imperial College London,university
+134212079,Juan Romero,Humana,company
+143935761,A. Fabregat,JPMorgan Chase,company
+3375933,Florian Korninger,Cornell University,university
+3526830,Guilherme Viteri,Marathon Petroleum,company
+1988267,K. Sidiropoulos,EPFL,university
+1401943939,P. Marín-García,Archer Daniels Midland,company
+3023770,P. Ping,Imperial College London,university
+2519682,Guanming Wu,Lowe's,company
+24917093,L. Stein,McKesson,company
+1398276274,P. D’Eustachio,Phillips 66,company
+1785886,H. Hermjakob,The University of Edinburgh,university
+1505708061,Pranjal Gupta,Chevron,company
+26391899,Amine Mhedhbi,"University of California, Los Angeles (UCLA)",university
+1783781,S. Salihoglu,University of Toronto,university
+70209653,Debachudamani Prusti,"University of California, Berkeley (UCB)",university
+2070468032,Daisy Das,Kroger,company
+7790877,S. K. Rath,Archer Daniels Midland,company
+98831679,Bing-Cang Yang,McGill University,university
+2153317609,Miaosi Dong,UnitedHealth Group,company
+2142659443,Congjun Wang,"Nanyang Technological University, Singapore (NTU)",university
+30188257,Boda Liu,The University of Tokyo,university
+2108248686,Zhichen Wang,"University of California, Los Angeles (UCLA)",university
+2117925465,Binghan Zhang,Target,company
+92089600,Gonçalo Carnaz,University of Michigan-Ann Arbor,university
+2560362,V. Nogueira,Tsinghua University,university
+2103992921,M. Antunes,Princeton University,university
+2116441064,Baozhu Liu,The University of Melbourne,university
+122024145,Xin Wang,McKesson,company
+152814510,Pengkai Liu,McKesson,company
+2118153844,Sizhuo Li,The University of Sydney,university
+2113771309,Qiang Fu,JPMorgan Chase,company
+2332105,Yunpeng Chai,Amazon,company
+36790376,Syed Ahmad Chan Bukhari,Institut Polytechnique de Paris,university
+51461059,S. Pawar,Walmart,company
+90947354,Jeff Mandell,Apple,company
+3275359,S. Kleinstein,McGill University,university
+143896305,K. Cheung,Walgreens Boots Alliance,company
+153314895,Mei Chen,"University of California, Los Angeles (UCLA)",university
+66327914,Seth Poulsen,UPS,company
+2051972259,Ridha Alkhabaz,Microsoft,company
+2517099,Abdussalam Alawini,The University of New South Wales (UNSW Sydney),university
+2697611,Milan Cermák,Princeton University,university
+2082303711,Denisa Sramkova,Marathon Petroleum,company
+46694091,Lingchao Gao,University of Chicago,university
+2047926221,Qifan Yang,Target,company
+2064360636,Baoping Zou,Berkshire Hathaway,company
+2154976675,Qing Liu,The University of Manchester,university
+48586730,Chuanjiang Wang,University of Oxford,university
+50136367,Alin Deutsch,Yale University,university
+47103320,Yu Xu,Cardinal Health,company
+1738190,Mingxi Wu,Peking University,university
+2058056841,Victor E. Lee,McKesson,company
+79470079,Bintao Yuan,CVS Health,company
+80752053,Zulie Pan,The University of Melbourne,university
+1596817678,Fan Shi,UCL,university
+1672530059,Zhenhan Li,Target,company
+2772109,Renzo Angles,The University of Edinburgh,university
+2115256817,Ran Wang,Columbia University,university
+150358651,Zhengyi Yang,"University of California, Los Angeles (UCLA)",university
+19262604,W. Zhang,AT&T,company
+2873542,Xuemin Lin,Peking University,university
+1790681,C. Buragohain,Meta Platforms,company
+1904916,Knut Magne Risvik,Fannie Mae,company
+2089990776,P. Brett,Yale University,university
+73527512,M. Castro,Cornell University,university
+2070951368,Wonhee Cho,University of Oxford,university
+1630331317,Joshua Cowhig,"University of California, Los Angeles (UCLA)",university
+1630330861,Nikolas Gloy,Archer Daniels Midland,company
+40444389,Karthik Kalyanaraman,Home Depot,company
+1630293705,Richendra Khanna,Meta Platforms,company
+1630330434,John Pao,FedEx,company
+2238313,Matthew J. Renzelmann,Ford Motor,company
+40443723,A. Shamis,CVS Health,company
+2069452048,Timothy Tan,Cornell University,university
+2111073292,Shuheng Zheng,Cigna,company
+2069559207,Victor Ermolaev,Université PSL,university
+1903751380,Indrek Klangberg,Elevance Health,company
+40915325,Yash Madhwal,Stanford University,university
+1904203865,Silver Vapper,Columbia University,university
+1904199594,Sjoerd Wels,EPFL,university
+1500655986,Y. Yanovich,Cardinal Health,company
+152781515,Anupam Das,Apple,company
+46501582,A. Mitra,Costco Wholesale,company
+105003008,Surendra Nath Bhagat,University of Toronto,university
+152125305,Subrata Paul,McGill University,university
+3425847,Yijian Cheng,Johns Hopkins University,university
+151167094,Pengjie Ding,The Australian National University,university
+2116679709,Tongtong Wang,Comcast,company
+51255623,W. Lu,Alphabet,company
+144589756,Xiaoyong Du,Marathon Petroleum,company
+2148303656,M. Massri,Bank of America,company
+66913593,Parvedy Philippe Raipin,Berkshire Hathaway,company
+3010622,Pierre Meye,Massachusetts Institute of Technology (MIT) ,university
+2158490269,Pengcheng Liu,"University of California, Los Angeles (UCLA)",university
+2118798587,Yinliang Huang,Amazon,company
+2152209915,Ping Wang,University of Toronto,university
+1877327478,Qifan Zhao,FedEx,company
+145104321,Juan Nie,University of Michigan-Ann Arbor,university
+145843448,Yuyang Tang,Ford Motor,company
+2157681212,Lebin Sun,Apple,company
+2157843743,Hailei Wang,Microsoft,company
+47149500,Xuelian Wu,Phillips 66,company
+2108691840,Wenbo Li,CVS Health,company
+115694632,Pieter Cailliau,"Nanyang Technological University, Singapore (NTU)",university
+2069668457,Tim Davis,Stanford University,university
+74882299,V. Gadepally,Verizon Communications,company
+3257323,J. Kepner,Institut Polytechnique de Paris,university
+113272803,Roi Lipman,McGill University,university
+114367405,Jeffrey Lovitz,ETH Zurich - Swiss Federal Institute of Technology,university
+2310211,Keren Ouaknine,The University of Sydney,university
+3372924,Shangqi Lai,UCL,university
+3032058,Xingliang Yuan,Archer Daniels Midland,company
+2044382,Shifeng Sun,JPMorgan Chase,company
+1416519437,Joseph K. Liu,Marathon Petroleum,company
+46398863,Yuhong Liu,Marathon Petroleum,company
+2729382,Dongxi Liu,Verizon Communications,company
+2091606411,Punam Nikam,University of Chicago,university
+98614145,Sachin Bhoite,"University of California, Los Angeles (UCLA)",university
+2091747991,Anuj Shenoy,King's College London,university
+1727622943,Sedick Baker Effendi,University of Toronto,university
+2403851,Brink van der Merwe,Home Depot,company
+1720266,Wolf-Tilo Balke,Technical University of Munich,university
+2129795635,Haibo Liu,Apple,company
+13324446,Guoyi Jiang,Archer Daniels Midland,company
+2000860679,Linhua Su,The University of Sydney,university
+2108097584,Yang Cao,Columbia University,university
+2000992985,Fengxin Diao,McKesson,company
+2162074006,Lipeng Mi,University of Chicago,university
+3420212,R. Candell,Columbia University,university
+2049649,M. Kashef,National University of Singapore (NUS),university
+1979284,Yongkang Liu,University of Michigan-Ann Arbor,university
+151500725,Karl Montgomery,JPMorgan Chase,company
+1784025,S. Foufou,Centene,company
+2289824,Florin Rusu,Yale University,university
+2116718,E. Malinverni,UPS,company
+51386512,B. Naticchia,Costco Wholesale,company
+2126581481,Jose Luis Lerma Garcia,Columbia University,university
+2005442184,A. Gorreja,Tsinghua University,university
+2126602785,Joaquin Lopez Uriarte,Archer Daniels Midland,company
+2123810691,F. Di Stefano,University of British Columbia,university
+2144179313,Jinhua Chen,Cigna,company
+2112702515,Qingyu Song,The University of Manchester,university
+1563986763,Can Zhao,Walmart,company
+3580276,Zhiheng Li,Ford Motor,company
+2052840328,Amitabha Bhattacharyya,Verizon Communications,company
+1996173264,Durgapada Chakravarty,Columbia University,university
+2094667365,Lars Diederichsen,Peking University,university
+2840539,Kim-Kwang Raymond Choo,JPMorgan Chase,company
+1388632905,Nhien-An Le-Khac,CVS Health,company
+1500659107,Patricia E. Nalwoga Lutu,FedEx,company
+6065199,C. Sabiu,Cornell University,university
+3375709,B. Hoyle,University of British Columbia,university
+47964672,Juhan Kim,UCL,university
+2118899136,Xiaodong Li,Cigna,company
+4676179,G. Hu,ExxonMobil,company
+2257265000,M. K. Secario,Target,company
+2257265000,M. K. Secario,Princeton University,university
+2143890051,Chi-Ming Chen,Amazon,company
+1785288,G. Fette,Fannie Mae,company
+98034859,Mathias Kaspar,ETH Zurich - Swiss Federal Institute of Technology,university
+40992258,Leon Liman,University of Chicago,university
+38827385,Maximilian Ertl,Centene,company
+145222303,Jonathan Krebs,UCL,university
+1755795,S. Störk,Johnson & Johnson,company
+1707592,F. Puppe,Centene,company
+150352201,Yuhan Sun,Kroger,company
+1769421,Mohamed Sarwat,Marathon Petroleum,company
+1394550182,Natalia Yerashenia,University of Toronto,university
+144031464,A. Bolotov,"Nanyang Technological University, Singapore (NTU)",university
+152125305,Subrata Paul,National University of Singapore (NUS),university
+46501582,A. Mitra,University of Cambridge,university
+2744320,C. Koner,Home Depot,company
+152124680,R. Vaz,The University of Tokyo,university
+2289291819,Jones Dhyemison Quito de Oliveira,Harvard University,university
+2288913923,Leonardo Ribeiro,Walgreens Boots Alliance,company
+2058456649,T. Kovács,Ford Motor,company
+2057440722,Gábor Simon,The University of New South Wales (UNSW Sydney),university
+144521155,G. Mezei,The University of New South Wales (UNSW Sydney),university
+71778404,Zhihong Nan,Institut Polytechnique de Paris,university
+2114140713,Xue Bai,Apple,company
+2604647,Chen Yang,Alphabet,company
+1737629,B. Baets,King's College London,university
+2016236,C. Lachat,Microsoft,company
+2440282,Igor Fosic,Alphabet,company
+1835136,K. Solic,National University of Singapore (NUS),university
+51488437,Wisal Khan,Dell Technologies,company
+2056158839,Waqas Ahmad,CVS Health,company
+2151264132,Bin Luo,Fannie Mae,company
+2061173271,E. Ahmed,UPS,company
+2574504,Matteo Lissandrini,The University of Manchester,university
+3415440,Martin Brugnara,Verizon Communications,company
+2163752,Yannis Velegrakis,University of Cambridge,university
+3515169,Byoung-Ha Yoon,King's College London,university
+2248549493,Seon-Kyu Kim,The University of Tokyo,university
+2249671765,Seon-Young Kim,Peking University,university
+98182097,C. Kankanamge,The University of Hong Kong,university
+32455748,Siddhartha Sahu,McKesson,company
+10754597,Amine Mhedbhi,Walgreens Boots Alliance,company
+2115896116,J. Chen,Alphabet,company
+1783781,S. Salihoglu,King's College London,university
+2053475163,A. Messina,ETH Zurich - Swiss Federal Institute of Technology,university
+1726596,A. Fiannaca,Institut Polytechnique de Paris,university
+48270780,L. Paglia,Berkshire Hathaway,company
+145345939,M. L. Rosa,University of Pennsylvania,university
+1706102,A. Urso,AmerisourceBergen,company
+51417783,Faming Gong,Institut Polytechnique de Paris,university
+2115736466,Yuhui Ma,University of Cambridge,university
+2510306,Wenjuan Gong,Stanford University,university
+2108756985,Xiaoran Li,Bank of America,company
+145510499,C. Li,Elevance Health,company
+51917504,Xiangbing Yuan,"University of California, Los Angeles (UCLA)",university
+145716796,N. S. Patil,University of Michigan-Ann Arbor,university
+143838349,P. Kiran,The University of Hong Kong,university
+143717738,N. P. Kiran,University of Pennsylvania,university
+2113272586,K. Patel,Lowe's,company
+2149052018,Hao Chen,Stanford University,university
+2074432,Maria Vasardani,Cornell University,university
+145285033,S. Winter,AmerisourceBergen,company
+1686534,Martin Tomko,Home Depot,company
+31006182,Zhangxin Zhou,UnitedHealth Group,company
+144285759,Chen Yuan,"University of California, Los Angeles (UCLA)",university
+32535832,Ziyan Yao,Meta Platforms,company
+2905127,J. Dai,UPS,company
+121865955,Guangyi Liu,The University of Sydney,university
+39823538,Renchang Dai,JPMorgan Chase,company
+2009571363,Zhiwei Wang,AT&T,company
+50775223,Garng M. Huang,Marathon Petroleum,company
+2599800,Xiaoling Tao,Marathon Petroleum,company
+2152802371,Yang Liu,Elevance Health,company
+2087912383,Feng Zhao,The University of Sydney,university
+1739380877,Changsong Yang,Ford Motor,company
+2153953921,Yong Wang,FedEx,company
+2089508093,Yelda Unal,Imperial College London,university
+9207924,H. Oguztuzun,Elevance Health,company
+1414019666,Noa Roy-Hubara,Cigna,company
+1732091,L. Rokach,ExxonMobil,company
+1762969,Bracha Shapira,Cardinal Health,company
+1753089,P. Shoval,Humana,company
+145366422,Richard J. Hall,Target,company
+32682297,C. Murray,Valero Energy,company
+2462060,M. Verdonk,McKesson,company
+20590156,P. Wood,"University of California, Berkeley (UCB)",university
+51471694,L. Siddharth,Harvard University,university
+1906960,L. Blessing,Peking University,university
+2053320598,Kristin L. Wood,National University of Singapore (NUS),university
+145990580,Jianxi Luo,Humana,company
+2948428,Syed Zain R. Rizvi,Institut Polytechnique de Paris,university
+144259319,Philip W. L. Fong,Cardinal Health,company
+3304707,Stephan Mennicke,McKesson,company
+3245041,Jan-Christoph Kalo,Johnson & Johnson,company
+79691050,Denis Nagel,"University of California, Berkeley (UCB)",university
+77790220,H. Kroll,ExxonMobil,company
+1720266,Wolf-Tilo Balke,Marathon Petroleum,company
+143758771,A. Hor,King's College London,university
+39894237,G. Sohn,ETH Zurich - Swiss Federal Institute of Technology,university
+3240937,P. Claudio,Stanford University,university
+1483744000,M. Jadidi,Apple,company
+89129886,A. Afnan,The Australian National University,university
+71520533,Surajit Medhi,"University of California, Los Angeles (UCLA)",university
+2895860,H. Baruah,Walgreens Boots Alliance,company
+46255467,N. Yi,Centene,company
+49673164,Chunfang Li,University of Chicago,university
+2112638989,Xin Feng,Apple,company
+34701398,Minyong Shi,Centene,company
+2108129412,Seulgi Lee,McKesson,company
+9460711,Hyeisun Cho,Massachusetts Institute of Technology (MIT) ,university
+153378387,Nakhyun Kim,The Australian National University,university
+2151900144,Byungik Kim,Fannie Mae,company
+2109139810,Junhyung Park,The University of Edinburgh,university
+37385913,Holm Smidt,University of British Columbia,university
+16447865,Matsu Thornton,AmerisourceBergen,company
+35189602,R. Ghorbani,Kroger,company
+10766342,Safikureshi Mondal,Alphabet,company
+145199334,N. Mukherjee,The University of Manchester,university
+30492227,G. Ravikumar,McGill University,university
+2893252,S. Khaparde,UCL,university
+8613913,Irina Balaur,University of Michigan-Ann Arbor,university
+50701671,M. Saqi,Cigna,company
+47631235,Ana Barat,Meta Platforms,company
+36994619,A. Lysenko,The University of Hong Kong,university
+48107154,A. Mazein,The University of Melbourne,university
+31590259,C. Rawlings,McGill University,university
+1679216,H. Ruskin,Harvard University,university
+48662628,C. Auffray,Dell Technologies,company
+82008243,V. Bajaj,Marathon Petroleum,company
+150281558,Rajat Panda,Costco Wholesale,company
+3357166,Chetna Dabas,Peking University,university
+2081215,Parmeet Kaur,McGill University,university
+49573525,Ilie Gabriel Tanase,ETH Zurich - Swiss Federal Institute of Technology,university
+2231831,T. Suzumura,The University of Edinburgh,university
+2108602524,Jinho Lee,ETH Zurich - Swiss Federal Institute of Technology,university
+48239920,Chun-Fu Chen,Alphabet,company
+2059069849,Jason Crawford,AT&T,company
+3166546,H. Kanezashi,Harvard University,university
+2108965391,Song Zhang,The University of Edinburgh,university
+35638374,Warut D. Vijitbenjaronk,Massachusetts Institute of Technology (MIT) ,university
+2507242,Marco Brandizi,New York University (NYU),university
+2117776059,Ajit Singh,Home Depot,company
+31590259,C. Rawlings,Princeton University,university
+1398327640,K. Hassani‐Pak,The University of Manchester,university
+46266394,Guohao Zhang,General Motors,company
+1410897553,Hoi-Fung Ng,Ford Motor,company
+41022905,W. Wen,The University of New South Wales (UNSW Sydney),university
+2631044,L. Hsu,The University of Edinburgh,university
+2204964,B. Kan,Walgreens Boots Alliance,company
+3256994,Wendong Zhu,Amazon,company
+121865955,Guangyi Liu,General Motors,company
+2145308743,Xi Chen,Humana,company
+2064971594,D. Shi,Amazon,company
+143627522,Weiqing Yu,Alphabet,company
+2677700,Zhisong Fu,Imperial College London,university
+7806657,Zhengwei Wu,The University of Melbourne,university
+3358986,Houyi Li,AT&T,company
+1943322867,Yize Li,The University of Manchester,university
+2144151933,Min Wu,UCL,university
+2108966388,Xiaojie Chen,Institut Polytechnique de Paris,university
+2114147314,Xiaomeng Ye,Chevron,company
+24812041,Benquan Yu,Imperial College London,university
+2218569240,Xi Hu,Stanford University,university
+29908197,Sajid Mughal,Cigna,company
+3410738,Ismail Moghul,Kroger,company
+1624701041,Jing Yu,General Motors,company
+2055223031,Tristan Clark,University of Chicago,university
+14700512,D. S. Gregory,University of Toronto,university
+48573031,Nikolas Pontikos,Alphabet,company
+31998245,D. Rawat,Johnson & Johnson,company
+2072022549,Navneet Kumar Kashyap,Centene,company
+8507683,Linjiang Zheng,Peking University,university
+2145295170,Longhui Zhou,Peking University,university
+2145734797,Xin Zhao,Bank of America,company
+2053831005,Li Liao,Alphabet,company
+48152160,Weining Liu,University of Chicago,university
+2059684397,M. Haeusler,The University of Tokyo,university
+1768034,Thomas Trojer,The University of Sydney,university
+2061622257,Johannes Kessler,Johnson & Johnson,company
+2540495,Matthias Farwick,"Nanyang Technological University, Singapore (NTU)",university
+143909963,Emmanuel Nowakowski,AmerisourceBergen,company
+1778015,R. Breu,Bank of America,company
+121066428,I. Dharmawan,The University of Hong Kong,university
+2803317,R. Sarno,ETH Zurich - Swiss Federal Institute of Technology,university
+39565667,T. Konno,EPFL,university
+2967478,Runhe Huang,Johnson & Johnson,company
+26150038,Tao Ban,Meta Platforms,company
+1801384,Chuanhe Huang,Phillips 66,company
+2741023,Miyuru Dayarathna,Dell Technologies,company
+35709316,S. Bandara,Archer Daniels Midland,company
+35433878,N. Jayamaha,Berkshire Hathaway,company
+49627183,Mahen Herath,Bank of America,company
+35367497,Achala Madhushan,Home Depot,company
+1971912,Sanath Jayasena,Alphabet,company
+2231831,T. Suzumura,Target,company
+2981793,Yemna Sayeb,King's College London,university
+1596123047,Radhouane Ayari,"University of California, Los Angeles (UCLA)",university
+1596120258,Sarra Naceur,Fannie Mae,company
+1732949,H. Ghézala,Archer Daniels Midland,company
+2158624,G. Hurlburt,Humana,company
+145078593,G. Thiruvathukal,Humana,company
+119631208,Maria R. Lee,Massachusetts Institute of Technology (MIT) ,university
+145280961,A. Chadzynski,Costco Wholesale,company
+2544119,Nenad B. Krdzavac,University of Chicago,university
+2422137,Feroz Farazi,The University of Edinburgh,university
+94623991,Mei Qi Lim,Imperial College London,university
+2135778121,Shiying Li,"Nanyang Technological University, Singapore (NTU)",university
+1729684244,Ayda Grisiute,The University of Manchester,university
+71366148,P. Herthogs,UnitedHealth Group,company
+29914287,A. V. Richthofen,Institut Polytechnique de Paris,university
+2091940634,Stephen Cairns,The University of Edinburgh,university
+2062455872,Markus Kraft,Amazon,company
+49962651,S. H. Nguyen,Yale University,university
+14701859,Zhihang Yao,Technical University of Munich,university
+9283083,T. H. Kolbe,Walmart,company
