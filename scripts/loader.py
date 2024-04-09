@@ -22,6 +22,16 @@ class DataLoader:
         a.affiliationType = row.Affiliation_type
         """
         tx.run(query)
+    @staticmethod
+    def _load_papers(tx, csv_filename):
+        query_papers = f"""
+        LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
+        MERGE (p:Paper {{paperId: row.paperId}})
+        ON CREATE SET p.title = row.title, p.url = row.url, p.abstract = row.abstract,
+                    p.year = toInteger(row.year), p.citationCount = toInteger(row.citationCount),
+                    p.keywords = row.keywords
+        """
+        tx.run(query_papers)
 
     @staticmethod
 
@@ -62,7 +72,7 @@ class DataLoader:
         query = f"""
         LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
         MATCH (p:Paper {{paperId: row.paperId}})
-        UNWIND apoc.convert.fromJsonList(row.citations) AS citation
+        UNWIND split(row.citations, ',') AS citation
         MATCH (cited:Paper {{paperId: citation}})
         MERGE (p)-[:CITES]->(cited)
         """
@@ -84,7 +94,7 @@ class DataLoader:
     def _load_keywords(tx, csv_filename):
         query = f"""
         LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
-        UNWIND split(row.keywords, ';') AS keyword
+        UNWIND split(row.keywords, ',') AS keyword
         MERGE (k:Keyword {{text: keyword}})
         """
         tx.run(query)
@@ -95,7 +105,7 @@ class DataLoader:
         query = f"""
         LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
         MATCH (p:Paper {{paperId: row.paperId}})
-        UNWIND split(row.reviewers, ';') AS reviewerId
+        UNWIND split(row.reviewers, ',') AS reviewerId
         MATCH (r:Author {{authorId: reviewerId}})
         MERGE (r)-[:REVIEWED]->(p)
         ON CREATE SET p.approved = row.approved, p.comments = row.comments
@@ -106,20 +116,17 @@ if __name__ == "__main__":
     user = "neo4j"
     password = "propertygraph"
     loader = DataLoader(uri, user, password)
-
-    # Corrected calls to include label for venue relations
+    loader.load_csv_data("conference_info.csv", DataLoader._load_papers)
+    loader.load_csv_data("journal_info.csv", DataLoader._load_papers)
+    loader.load_csv_data("workshop_info.csv", DataLoader._load_papers)
     loader.load_csv_data("conference_info.csv", lambda tx, path: DataLoader._load_venue_relations(tx, path, 'Conference'))
     loader.load_csv_data("journal_info.csv", lambda tx, path: DataLoader._load_venue_relations(tx, path, 'Journal'))
     loader.load_csv_data("workshop_info.csv", lambda tx, path: DataLoader._load_venue_relations(tx, path, 'Workshop'))
-
-    # Assuming that _load_authors_relations, _load_corresponding_author_relations, and _load_citation_relations
-    # do not require additional arguments besides the csv_filename, those calls remain as is.
     loader.load_csv_data("authors_info.csv", DataLoader._load_authors)
     loader.load_csv_data("conference_info.csv", DataLoader._load_authors_relations)
     loader.load_csv_data("conference_info.csv", DataLoader._load_corresponding_author_relations)
     loader.load_csv_data("citations_info.csv", DataLoader._load_citations)
-
-    loader.close()
-
-
+    loader.load_csv_data("conference_info.csv", DataLoader._load_reviews)
+    loader.load_csv_data("journal_info.csv", DataLoader._load_reviews)
+    loader.load_csv_data("workshop_info.csv", DataLoader._load_reviews)
     loader.close()
