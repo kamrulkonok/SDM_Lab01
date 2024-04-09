@@ -22,28 +22,29 @@ class DataLoader:
         a.affiliationType = row.Affiliation_type
         """
         tx.run(query)
+
     @staticmethod
     def _load_papers(tx, csv_filename):
         query_papers = f"""
         LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
         MERGE (p:Paper {{paperId: row.paperId}})
         ON CREATE SET p.title = row.title, p.url = row.url, p.abstract = row.abstract,
-                    p.year = toInteger(row.year), p.citationCount = toInteger(row.citationCount)
+        p.year = toInteger(row.year), p.citationCount = toInteger(row.citationCount)
         """
         tx.run(query_papers)
 
     @staticmethod
-
     def _load_authors_relations(tx, csv_filename):
         query_authors = f"""
-    LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
-    MATCH (p:Paper {{paperId: row.paperId}})
-    UNWIND split(row.authorIds, ',') AS authorId
-    MATCH (a:Author {{authorId: trim(authorId)}})
-    MERGE (a)-[r:WROTE]->(p)
-    SET r.corresponding = CASE WHEN row.corresponding_author = authorId THEN true ELSE false END
-    """
+        LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
+        MATCH (p:Paper {{paperId: row.paperId}})
+        UNWIND split(row.authorIds, ',') AS authorId
+        MATCH (a:Author {{authorId: trim(authorId)}})
+        MERGE (a)-[r:WROTE]->(p)
+        SET r.corresponding = CASE WHEN row.corresponding_author = authorId THEN true ELSE false END
+        """
         tx.run(query_authors)
+
     @staticmethod
     def _load_publication_venues(tx, csv_filename, venue_type):
         name_property = 'journal_name' if venue_type == 'Journal' else 'proceedings'
@@ -111,21 +112,8 @@ class DataLoader:
         UNWIND split(row.reviewers, ',') AS reviewerId
         MATCH (r:Author {{authorId: reviewerId}})
         MERGE (r)-[:REVIEWED]->(p)
-        ON CREATE SET p.approved = row.approved, p.comments = row.comments
         """
         tx.run(query)
-    @staticmethod
-    def _load_authors_and_affiliations(tx, csv_filename):
-        query = f"""
-        LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
-        MERGE (a:Author {{authorId: row.authorId}})
-        ON CREATE SET a.name = row.name, a.affiliationType = row.Affiliation_type
-        WITH a, row
-        MERGE (o:Organization {{name: row.Affiliations}})
-        MERGE (a)-[:AFFILIATED_TO]->(o)
-        """
-        tx.run(query)
-
 
 if __name__ == "__main__":
     uri = "bolt://localhost:7687"
@@ -148,7 +136,6 @@ if __name__ == "__main__":
     loader.load_csv_data("conference_info.csv", DataLoader._load_reviews)
     loader.load_csv_data("journal_info.csv", DataLoader._load_reviews)
     loader.load_csv_data("workshop_info.csv", DataLoader._load_reviews)
-    loader.load_csv_data("authors_info.csv", DataLoader._load_authors_and_affiliations)
     loader.load_csv_data("conference_info.csv", lambda tx, path: DataLoader._load_keywords_and_relations(tx, path))
     loader.load_csv_data("journal_info.csv", lambda tx, path: DataLoader._load_keywords_and_relations(tx, path))
     loader.load_csv_data("workshop_info.csv", lambda tx, path: DataLoader._load_keywords_and_relations(tx, path))
