@@ -37,46 +37,26 @@ class DataLoader:
 
     def _load_authors_relations(tx, csv_filename):
         query_authors = f"""
-        LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
-        MATCH (p:Paper {{paperId: row.paperId}})
-        UNWIND split(row.authorIds, ';') AS authorId
-        MATCH (a:Author {{authorId: authorId}})
-        MERGE (a)-[:WROTE]->(p)
-        """
+    LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
+    MATCH (p:Paper {{paperId: row.paperId}})
+    UNWIND split(row.authorIds, ',') AS authorId
+    MATCH (a:Author {{authorId: trim(authorId)}})
+    MERGE (a)-[r:WROTE]->(p)
+    SET r.corresponding = CASE WHEN row.corresponding_author = authorId THEN true ELSE false END
+    """
         tx.run(query_authors)
 
     @staticmethod
-    def _load_corresponding_author_relations(tx, csv_filename):
-        query_corresponding = f"""
-        LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
-        MATCH (p:Paper {{paperId: row.paperId}})
-        MATCH (a:Author {{authorId: row.corresponding_author}})
-        MERGE (a)-[:CORRESPONDING_AUTHOR]->(p)
-        """
-        tx.run(query_corresponding)
-
-    @staticmethod
-    def _load_venue_relations(tx, csv_filename, label):
+    def _load_venue_relations(tx, csv_filename):
         query_venue = f"""
         LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
         MATCH (p:Paper {{paperId: row.paperId}})
-        MERGE (v:{label} {{name: row.venue}})
-        ON CREATE SET v.year = toInteger(row.year), v.volume = row.journal_volume,
-                    v.edition = row.edition
+        MERGE (v:Venue {{type: row.publicationTypes, name: row.venue}})
+        ON CREATE SET v.year = toInteger(row.year), v.volume = row.journal_volume, v.edition = row.edition
         MERGE (p)-[:PUBLISHED_IN]->(v)
         """
         tx.run(query_venue)
 
-    @staticmethod
-    def _load_citations(tx, csv_filename):
-        query = f"""
-        LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
-        MATCH (p:Paper {{paperId: row.paperId}})
-        UNWIND split(row.citations, ',') AS citation
-        MATCH (cited:Paper {{paperId: citation}})
-        MERGE (p)-[:CITES]->(cited)
-        """
-        tx.run(query)
 
         # Method to load conferences, journals, and workshops
     @staticmethod
@@ -86,6 +66,19 @@ class DataLoader:
         MERGE (v:{label} {{name: row.name}})
         ON CREATE SET v.year = toInteger(row.year), v.volume = row.volume, 
                       v.edition = row.edition
+        """
+        tx.run(query)
+
+    @staticmethod
+    def _load_citations(tx, csv_filename):
+        query = f"""
+        LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
+        MATCH (p:Paper {{paperId: row.paperId}})
+        WHERE row.Citations IS NOT NULL AND row.Citations <> ''
+        UNWIND split(row.Citations, ',') AS citationId
+        WITH p, trim(citationId) AS trimmedCitationId
+        MERGE (cited:Paper {{paperId: trimmedCitationId}})
+        MERGE (p)-[:CITES]->(cited)
         """
         tx.run(query)
     
@@ -98,7 +91,18 @@ class DataLoader:
         MERGE (k:Keyword {{text: keyword}})
         """
         tx.run(query)
-
+    @staticmethod
+    def _load_keywords_and_relations(tx, csv_filename, delimiter=','):
+        query = f"""
+        LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
+        MATCH (p:Paper {{paperId: row.paperId}})
+        UNWIND split(row.keywords, '{delimiter}') AS keyword
+        WITH p, trim(keyword) AS trimmedKeyword
+        WHERE trimmedKeyword IS NOT NULL AND trimmedKeyword <> '' 
+        MERGE (k:Keyword {{text: trimmedKeyword}})
+        MERGE (p)-[:CONTAINS]->(k)
+        """
+        tx.run(query)
     # Method to create 'Reviewed' relationships
     @staticmethod
     def _load_reviews(tx, csv_filename):
@@ -111,6 +115,19 @@ class DataLoader:
         ON CREATE SET p.approved = row.approved, p.comments = row.comments
         """
         tx.run(query)
+    @staticmethod
+    def _load_authors_and_affiliations(tx, csv_filename):
+        query = f"""
+        LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
+        MERGE (a:Author {{authorId: row.authorId}})
+        ON CREATE SET a.name = row.name, a.affiliationType = row.Affiliation_type
+        WITH a, row
+        MERGE (o:Organization {{name: row.Affiliations}})
+        MERGE (a)-[:AFFILIATED_TO]->(o)
+        """
+        tx.run(query)
+
+
 if __name__ == "__main__":
     uri = "bolt://localhost:7687"
     user = "neo4j"
@@ -119,14 +136,19 @@ if __name__ == "__main__":
     loader.load_csv_data("conference_info.csv", DataLoader._load_papers)
     loader.load_csv_data("journal_info.csv", DataLoader._load_papers)
     loader.load_csv_data("workshop_info.csv", DataLoader._load_papers)
-    loader.load_csv_data("conference_info.csv", lambda tx, path: DataLoader._load_venue_relations(tx, path, 'Conference'))
-    loader.load_csv_data("journal_info.csv", lambda tx, path: DataLoader._load_venue_relations(tx, path, 'Journal'))
-    loader.load_csv_data("workshop_info.csv", lambda tx, path: DataLoader._load_venue_relations(tx, path, 'Workshop'))
+    loader.load_csv_data("conference_info.csv", DataLoader._load_venue_relations)
+    loader.load_csv_data("journal_info.csv", DataLoader._load_venue_relations)
+    loader.load_csv_data("workshop_info.csv", DataLoader._load_venue_relations)
     loader.load_csv_data("authors_info.csv", DataLoader._load_authors)
     loader.load_csv_data("conference_info.csv", DataLoader._load_authors_relations)
-    loader.load_csv_data("conference_info.csv", DataLoader._load_corresponding_author_relations)
-    loader.load_csv_data("citations_info.csv", DataLoader._load_citations)
+    loader.load_csv_data("conference_info.csv", DataLoader._load_citations)
+    loader.load_csv_data("journal_info.csv", DataLoader._load_citations)
+    loader.load_csv_data("workshop_info.csv", DataLoader._load_citations)
     loader.load_csv_data("conference_info.csv", DataLoader._load_reviews)
     loader.load_csv_data("journal_info.csv", DataLoader._load_reviews)
     loader.load_csv_data("workshop_info.csv", DataLoader._load_reviews)
+    loader.load_csv_data("authors_info.csv", DataLoader._load_authors_and_affiliations)
+    loader.load_csv_data("conference_info.csv", lambda tx, path: DataLoader._load_keywords_and_relations(tx, path))
+    loader.load_csv_data("journal_info.csv", lambda tx, path: DataLoader._load_keywords_and_relations(tx, path))
+    loader.load_csv_data("workshop_info.csv", lambda tx, path: DataLoader._load_keywords_and_relations(tx, path))
     loader.close()

@@ -62,7 +62,7 @@ fields_queries = ['NLP','Machine Learning','LLM', 'Deep Learning', 'Quantum Comp
 all_papers_data = {}
 
 for field_query in fields_queries:
-    all_papers_data[field_query] = get_papers_data(field_query, 100, fields)
+    all_papers_data[field_query] = get_papers_data(field_query, 150, fields)
     time.sleep(1)
 headers = [
     'field_query', 'paperId', 'title', 'url', 'venue', 'publicationTypes',
