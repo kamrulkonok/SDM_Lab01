@@ -28,8 +28,7 @@ class DataLoader:
         LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
         MERGE (p:Paper {{paperId: row.paperId}})
         ON CREATE SET p.title = row.title, p.url = row.url, p.abstract = row.abstract,
-                    p.year = toInteger(row.year), p.citationCount = toInteger(row.citationCount),
-                    p.keywords = row.keywords
+                    p.year = toInteger(row.year), p.citationCount = toInteger(row.citationCount)
         """
         tx.run(query_papers)
 
@@ -49,15 +48,24 @@ class DataLoader:
     def _load_publication_venues(tx, csv_filename, venue_type):
         name_property = 'journal_name' if venue_type == 'Journal' else 'proceedings'
 
-        # Cypher query to create nodes and relationships
+        relationship_properties = {
+            'Conference': ", edition: toInteger(row.edition), venue: row.venue",
+            'Journal': ", edition: toInteger(row.edition), journal_volume: row.journal_volume, venue: row.venue",
+            'Workshop': ", edition: toInteger(row.edition), venue: row.venue"
+        }
         query_venue = f"""
         LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
         MATCH (p:Paper {{paperId: row.paperId}})
         WHERE NOT row.{name_property} IS NULL AND row.{name_property} <> ''
         MERGE (v:{venue_type} {{name: row.{name_property}}})
-        ON CREATE SET v.year = toInteger(row.year), v.venueLocation = row.venue
-        MERGE (p)-[:PUBLISHED_IN]->(v)
+        WITH p, v, row
+        MERGE (p)-[r:PUBLISHED_IN]->(v)
+        SET r.year = toInteger(row.year), r.edition = toInteger(row.edition), r.venue = row.venue
         """
+
+        if venue_type == 'Journal':
+            query_venue += "SET r.journal_volume = row.journal_volume"
+        
         tx.run(query_venue)
 
     @staticmethod
@@ -131,6 +139,8 @@ if __name__ == "__main__":
     loader.load_csv_data("journal_info.csv", lambda tx, csv_path: DataLoader._load_publication_venues(tx, csv_path, 'Journal'))
     loader.load_csv_data("workshop_info.csv", lambda tx, csv_path: DataLoader._load_publication_venues(tx, csv_path, 'Workshop'))
     loader.load_csv_data("authors_info.csv", DataLoader._load_authors)
+    loader.load_csv_data("journal_info.csv", DataLoader._load_authors_relations)
+    loader.load_csv_data("workshop_info.csv", DataLoader._load_authors_relations)
     loader.load_csv_data("conference_info.csv", DataLoader._load_authors_relations)
     loader.load_csv_data("conference_info.csv", DataLoader._load_citations)
     loader.load_csv_data("journal_info.csv", DataLoader._load_citations)
