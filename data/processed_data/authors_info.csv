@@ -153,7 +153,6 @@ authorId,name,Affiliations,Affiliation_type
 145419642,Percy Liang,Stanford University,university
 144922861,Christopher Potts,ETH Zurich - Swiss Federal Institute of Technology,university
 143834867,M. Zaharia,UnitedHealth Group,company
-1743722,Douwe Kiela,Meta Platforms,company
 153408953,Max Bartolo,California Institute of Technology (Caltech),university
 40383658,Yixin Nie,Wells Fargo,company
 9264826,Divyansh Kaushik,Walgreens Boots Alliance,company
@@ -164,12 +163,10 @@ authorId,name,Affiliations,Affiliation_type
 1422035486,Pratik Ringshia,The University of Hong Kong,university
 1736107,Zhiyi Ma,University of Michigan-Ann Arbor,university
 1500242049,Tristan Thrush,Dell Technologies,company
-48662861,Sebastian Riedel,ExxonMobil,company
 2138053020,Zeerak Talat,Ford Motor,company
 1918552,Pontus Stenetorp,Yale University,university
 3422908,Robin Jia,Université PSL,university
 143977268,Mohit Bansal,Cigna,company
-144922861,Christopher Potts,The University of Tokyo,university
 2110032535,Adina Williams,Marathon Petroleum,company
 48727916,Jay DeYoung,The London School of Economics and Political Science (LSE),university
 49837811,Sarthak Jain,AmerisourceBergen,company
@@ -233,7 +230,6 @@ authorId,name,Affiliations,Affiliation_type
 1397300094,Rita Frieske,Home Depot,company
 2070989574,Ryan Cotterell,Walgreens Boots Alliance,company
 2111472502,Zhijing Jin,Meta Platforms,company
-78846919,Marco Tulio Ribeiro,The Australian National University,university
 23451726,Scott M. Lundberg,The University of Sydney,university
 2007064152,Yingqi Liu,The University of Hong Kong,university
 2052467415,Guangyu Shen,McGill University,university
@@ -245,7 +241,6 @@ authorId,name,Affiliations,Affiliation_type
 2113511266,Shi Feng,Phillips 66,company
 1380266797,Nikhil Kandpal,Wells Fargo,company
 40642935,Matt Gardner,Berkshire Hathaway,company
-34650964,Sameer Singh,The University of Melbourne,university
 1416319999,C. Carrino,Humana,company
 2165226605,Joan Llop,National University of Singapore (NUS),university
 1850527789,Marc Pàmies,University of Cambridge,university
@@ -267,7 +262,6 @@ authorId,name,Affiliations,Affiliation_type
 2166312768,Jude Fernandes,Ford Motor,company
 51324296,Eric Michael Smith,"Nanyang Technological University, Singapore (NTU)",university
 2111313627,Douwe Kiela,UCL,university
-2110032535,Adina Williams,"Nanyang Technological University, Singapore (NTU)",university
 145874489,Hamed Jelodar,The University of Queensland,university
 2107962574,Yongli Wang,The University of New South Wales (UNSW Sydney),university
 2181308,Rita Orji,UnitedHealth Group,company
@@ -322,7 +316,6 @@ authorId,name,Affiliations,Affiliation_type
 145732771,Siva Reddy,Microsoft,company
 144631588,A. Chandar,State Farm Insurance,company
 145046059,Anna Rogers,University of Cambridge,university
-40642935,Matt Gardner,Costco Wholesale,company
 1736067,Isabelle Augenstein,McGill University,university
 144508458,Da Yin,Meta Platforms,company
 145307652,Li Dong,UPS,company
@@ -333,33 +326,22 @@ authorId,name,Affiliations,Affiliation_type
 48441311,Jianfeng Gao,University of Chicago,university
 48578729,Venkatesh Shankar,General Electric,company
 2157384856,Sohil Parsana,Intel,company
-151207081,Shreyansh Goyal,Imperial College London,university
-2072738714,Sumanth Doddapaneni,Target,company
 2158819331,Mitesh M.Khapra,Marathon Petroleum,company
-2059566473,B. Ravindran,University of Chicago,university
-41052836,Anya Belz,Meta Platforms,company
 2162189986,Maja Popovi'c,FedEx,company
 2738095,Simon Mille,The University of Edinburgh,university
 3422872,Dan Hendrycks,Intel,company
 90909974,Collin Burns,"University of California, Berkeley (UCB)",university
 2111074131,Anya Chen,FedEx,company
 2052356393,Spencer Ball,Valero Energy,company
-78846919,Marco Tulio Ribeiro,CVS Health,company
-34650964,Sameer Singh,Walmart,company
-1730156,Carlos Guestrin,McKesson,company
 1822288,Karan Goel,General Electric,company
-8937909,Nazneen Rajani,Kroger,company
 2056908,Jesse Vig,Wells Fargo,company
 145814654,Samson Tan,Cardinal Health,company
 2120253018,Jason M. Wu,Université PSL,university
 3393918,Stephan Zheng,University of Cambridge,university
-2228109,Caiming Xiong,Walgreens Boots Alliance,company
-143977268,Mohit Bansal,New York University (NYU),university
 2061444681,Christopher R'e,Apple,company
 2715774,Dan Ofer,Home Depot,company
 6822067,Nadav Brandes,Delft University of Technology,university
 32427977,M. Linial,ExxonMobil,company
-2064295987,Daniel Hershcovich,Monash University,university
 2023644816,Nicolas Webersinke,University of Toronto,university
 2156865999,Mathias Kraus,MetLife,company
 2006205621,J. Bingler,University of Cambridge,university
@@ -374,10 +356,8 @@ authorId,name,Affiliations,Affiliation_type
 19169659,Xuancheng Ren,McKesson,company
 11774802,Xu Sun,Centene,company
 1631386300,Bin He,Chevron,company
-145217343,Eric Wallace,Pfizer,company
 145914976,Tony Zhao,The University of New South Wales (UNSW Sydney),university
 144588144,Shi Feng,Target,company
-34650964,Sameer Singh,JPMorgan Chase,company
 49889487,Yuhao Zhang,The Chinese University of Hong Kong (CUHK),university
 49889860,Yuhui Zhang,Lowe's,company
 50531624,Peng Qi,Northwestern University,university
@@ -391,25 +371,18 @@ authorId,name,Affiliations,Affiliation_type
 47739850,Jiaao Chen,National University of Singapore (NUS),university
 1390031652,Derek Tam,Cardinal Health,company
 2402716,Colin Raffel,General Electric,company
-143977268,Mohit Bansal,Johns Hopkins University,university
-2143919864,Diyi Yang,Zhejiang University,university
 2429723,Zenun Kastrati,Institut Polytechnique de Paris,university
 2035596,F. Dalipi,Ford Motor,company
 89182458,Krenare Pireva Nuçi,Verizon Communications,company
 15971377,M. A. Wani,University of Chicago,university
 1524732527,Xuezhi Wang,Delft University of Technology,university
 49528192,Haohan Wang,ETH Zurich - Swiss Federal Institute of Technology,university
-2143919864,Diyi Yang,Tsinghua University,university
 1708726,I. Tetko,Ford Motor,company
 1399383114,Pavel Karpov,Princeton University,university
 39976976,Ruud Van Deursen,Wells Fargo,company
 47373104,G. Godin,Centene,company
-2789148,Fajri Koto,Wells Fargo,company
 2953039,Afshin Rahimi,Home Depot,company
-1800564,Jey Han Lau,Verizon Communications,company
-145465286,Timothy Baldwin,Fudan University,university
 2083807,B. Hutchinson,University of Pennsylvania,university
-3331141,Vinodkumar Prabhakaran,Fannie Mae,company
 40081727,Emily L. Denton,University of Pennsylvania,university
 20825661,Kellie Webster,"Nanyang Technological University, Singapore (NTU)",university
 2112887022,Yu Zhong,IBM,company
@@ -420,11 +393,7 @@ authorId,name,Affiliations,Affiliation_type
 46181066,Iz Beltagy,Princeton University,university
 1723636206,Alan Ramponi,General Electric,company
 2022124,Barbara Plank,Procter & Gamble,company
-1693182792,Jin Yong Yoo,Home Depot,company
-121817403,Yanjun Qi,Intel,company
 49713890,Anjalie Field,The University of Tokyo,university
-3422038,Su Lin Blodgett,Comcast,company
-2138053020,Zeerak Talat,Valero Energy,company
 145317727,Yulia Tsvetkov,AT&T,company
 37574242,Avijit Thawani,Columbia University,university
 2634786,J. Pujara,Institut Polytechnique de Paris,university
@@ -433,14 +402,12 @@ authorId,name,Affiliations,Affiliation_type
 27689253,Sabrina J. Mielke,Delft University of Technology,university
 25098419,Zaid Alyafeai,Fannie Mae,company
 3448427,Elizabeth Salesky,California Institute of Technology (Caltech),university
-2402716,Colin Raffel,Bank of America,company
 1879591269,Manan Dey,Walgreens Boots Alliance,company
 2907260,Matthias Gallé,Costco Wholesale,company
 2048082186,Arun Raja,IBM,company
 152358188,Chenglei Si,Johnson & Johnson,company
 2183377987,Wilson Y. Lee,The University of Tokyo,university
 68990982,Benoît Sagot,CVS Health,company
-145814654,Samson Tan,University of Michigan-Ann Arbor,university
 103441820,N. Boucher,Amazon,company
 47473421,Ilia Shumailov,University of British Columbia,university
 40171469,Ross Anderson,Monash University,university
@@ -458,7 +425,6 @@ authorId,name,Affiliations,Affiliation_type
 3074811,Or Sharir,Delft University of Technology,university
 2064067229,Barak Peleg,The University of Queensland,university
 1701353,Y. Shoham,The University of New South Wales (UNSW Sydney),university
-2120801160,Wenkai Yang,"University of California, Berkeley (UCB)",university
 2149202150,Yankai Lin,Wells Fargo,company
 50492525,Peng Li,UnitedHealth Group,company
 2108485106,Jie Zhou,Chevron,company
@@ -474,7 +440,6 @@ authorId,name,Affiliations,Affiliation_type
 8804828,M. Schlichtkrull,Cornell University,university
 41019080,Nicola De Cao,Alphabet,company
 144889265,Ivan Titov,Johnson & Johnson,company
-6117577,Ian Tenney,Peking University,university
 49556437,James Wexler,Pfizer,company
 1994065972,Jasmijn Bastings,Phillips 66,company
 2843215,Tolga Bolukbasi,Marathon Petroleum,company
@@ -486,11 +451,8 @@ authorId,name,Affiliations,Affiliation_type
 49849144,Emily Reif,University of Cambridge,university
 2061016887,Ann Yuan,EPFL,university
 5781518,Kangjie Chen,JPMorgan Chase,company
-65844131,Yuxian Meng,Microsoft,company
-2109329406,Xiaofei Sun,AT&T,company
 16042895,Shangwei Guo,Institut Polytechnique de Paris,university
 2146331573,Tianwei Zhang,Ford Motor,company
-49298465,Jiwei Li,Seoul National University,university
 2093474992,Chun Fan,California Institute of Technology (Caltech),university
 2111538614,Hyunjin Choi,Dell Technologies,company
 2125022424,Judong Kim,Microsoft,company
@@ -500,28 +462,16 @@ authorId,name,Affiliations,Affiliation_type
 115300694,Jan Fell,University of Cambridge,university
 2072404217,Soumya Ray,JPMorgan Chase,company
 1746959,Lun-Wei Ku,McKesson,company
-145217343,Eric Wallace,Comcast,company
-1705260,Yizhong Wang,Imperial College London,university
 48831399,Sujian Li,Chevron,company
-34650964,Sameer Singh,Intel,company
-40642935,Matt Gardner,The University of Melbourne,university
 2043232919,Paul Röttger,Target,company
-2737827,Bertie Vidgen,EPFL,university
-2022288,Dirk Hovy,The University of Manchester,university
 1970864,J. Pierrehumbert,Bank of America,company
 9433771,Piyawat Lertvittayakumjorn,The London School of Economics and Political Science (LSE),university
 49973505,Francesca Toni,Archer Daniels Midland,company
-2120801160,Wenkai Yang,FedEx,company
-2149202150,Yankai Lin,Northwestern University,university
-50492525,Peng Li,Home Depot,company
 2108485135,Jie Zhou,Massachusetts Institute of Technology (MIT) ,university
-11774802,Xu Sun,UnitedHealth Group,company
 26940961,Aparna Elangovan,Centene,company
 150147667,Jiayuan He,Columbia University,university
 1404100607,K. Verspoor,Technical University of Munich,university
-49298465,Jiwei Li,Valero Energy,company
 39717886,Xinlei Chen,Université PSL,university
-144547315,E. Hovy,UCL,university
 1746807,Dan Jurafsky,Tsinghua University,university
 35823986,Sarah Wiegreffe,Lowe's,company
 3451494,Ana Marasović,Fudan University,university
@@ -553,21 +503,15 @@ authorId,name,Affiliations,Affiliation_type
 2109512754,Zhilin Yang,FedEx,company
 2109541439,Jie Tang,Pfizer,company
 120174856,Aleksandra Piktus,Northwestern University,university
-40052301,F. Petroni,Fudan University,university
-2067091563,Vladimir Karpukhin,Alphabet,company
 113568063,Dmytro Okhonko,UPS,company
 2966239,Samuel Broscheit,University of Chicago,university
 1410231361,Gautier Izacard,Microsoft,company
-145222654,Patrick Lewis,National University of Singapore (NUS),university
 1628391446,Barlas Ouguz,Valero Energy,company
 3024698,Edouard Grave,University of British Columbia,university
 2072801764,Wen-tau Yih,The University of Hong Kong,university
-48662861,Sebastian Riedel,The London School of Economics and Political Science (LSE),university
 145009056,Pedro Rodriguez,Alphabet,company
 40080808,Joe Barrow,Wells Fargo,company
 49462969,Alexander Miserlis Hoyle,Centene,company
-9051130,John P. Lalor,"University of California, Berkeley (UCB)",university
-3422908,Robin Jia,Yale University,university
 1389036863,Jordan L. Boyd-Graber,Elevance Health,company
 151257231,Xiaoyi Chen,Walmart,company
 66697271,A. Salem,Procter & Gamble,company
@@ -577,14 +521,7 @@ authorId,name,Affiliations,Affiliation_type
 40238834,Qingni Shen,IBM,company
 2109716565,Zhonghai Wu,AT&T,company
 2145954003,Yang Zhang,Lowe's,company
-151257231,Xiaoyi Chen,Verizon Communications,company
-66697271,A. Salem,JPMorgan Chase,company
-144588806,M. Backes,New York University (NYU),university
-2026855,Shiqing Ma,The Chinese University of Hong Kong (CUHK),university
-2145954003,Yang Zhang,"University of California, Los Angeles (UCLA)",university
 1785372925,Tianlu Wang,Cardinal Health,company
-2143919864,Diyi Yang,Peking University,university
-1524732527,Xuezhi Wang,The London School of Economics and Political Science (LSE),university
 1410401413,A. Soliman,ETH Zurich - Swiss Federal Institute of Technology,university
 31935859,Kareem Eissa,EPFL,university
 1399214738,S. El-Beltagy,AmerisourceBergen,company
@@ -592,15 +529,12 @@ authorId,name,Affiliations,Affiliation_type
 34725175,Sandipan Dandapat,Harvard University,university
 48180698,A. Srinivasan,The University of Queensland,university
 3010457,Sunayana Sitaram,State Farm Insurance,company
-143990839,M. Choudhury,Target,company
 2683903,Marco Polignano,Bank of America,company
 1731651,Pierpaolo Basile,Elevance Health,company
 1873109,M. Degemmis,Fannie Mae,company
 145467353,G. Semeraro,Université PSL,university
 3101511,Valerio Basile,The University of New South Wales (UNSW Sydney),university
 145642373,Han Xiao,University of Cambridge,university
-4565995,Kashif Rasul,University of Toronto,university
-2742129,Roland Vollgraf,University of Oxford,university
 2057642721,Martín Abadi,JPMorgan Chase,company
 144758007,P. Barham,Verizon Communications,company
 2108406634,Jianmin Chen,Citigroup,company
@@ -623,45 +557,25 @@ authorId,name,Affiliations,Affiliation_type
 35078078,M. Wicke,Amazon,company
 2117163698,Yuan Yu,Microsoft,company
 2108113547,Xiaoqiang Zhang,"University of California, Berkeley (UCB)",university
-2057642721,Martín Abadi,Dell Technologies,company
 2078528337,Ashish Agarwal,Université PSL,university
-144758007,P. Barham,Stanford University,university
 2445241,E. Brevdo,Northwestern University,university
-2545358,Z. Chen,King's College London,university
 48738717,C. Citro,Technical University of Munich,university
 32131713,G. Corrado,Yale University,university
-36347083,Andy Davis,Centene,company
-49959210,J. Dean,MetLife,company
-145139947,M. Devin,"University of California, Berkeley (UCB)",university
-1780892,Sanjay Ghemawat,The University of Tokyo,university
 153440022,I. Goodfellow,Phillips 66,company
 2064102917,A. Harp,AT&T,company
-2060655766,G. Irving,Walgreens Boots Alliance,company
-2090818,M. Isard,JPMorgan Chase,company
 39978391,Yangqing Jia,National University of Singapore (NUS),university
 1944541,R. Józefowicz,Chevron,company
 40527594,Lukasz Kaiser,Princeton University,university
-1942300,M. Kudlur,The Australian National University,university
-3369421,J. Levenberg,McGill University,university
 30415265,Dandelion Mané,Walgreens Boots Alliance,company
-3089272,R. Monga,General Electric,company
-144375552,Sherry Moore,Centene,company
-20154699,D. Murray,Archer Daniels Midland,company
 37232298,C. Olah,Northwestern University,university
 144927151,M. Schuster,University of Michigan-Ann Arbor,university
 1789737,Jonathon Shlens,The University of New South Wales (UNSW Sydney),university
-32163737,Benoit Steiner,University of Toronto,university
 1701686,I. Sutskever,Pfizer,company
 35210462,Kunal Talwar,Marathon Petroleum,company
-2080690,P. Tucker,Stanford University,university
 2657155,Vincent Vanhoucke,ETH Zurich - Swiss Federal Institute of Technology,university
-2053781980,Vijay Vasudevan,Technical University of Munich,university
 1765169,F. Viégas,Procter & Gamble,company
 1689108,O. Vinyals,"University of California, Los Angeles (UCLA)",university
-47941411,P. Warden,Wells Fargo,company
 145233583,M. Wattenberg,Dell Technologies,company
-35078078,M. Wicke,"Nanyang Technological University, Singapore (NTU)",university
-2117163698,Yuan Yu,IBM,company
 2152198093,Xiaoqiang Zheng,Intel,company
 3008587,Xingjian Shi,Kyoto University,university
 2192200,Zhourong Chen,The University of Sydney,university
@@ -701,9 +615,7 @@ authorId,name,Affiliations,Affiliation_type
 34828439,M. Stronati,Kroger,company
 3469125,Congzheng Song,UCL,university
 1723945,Vitaly Shmatikov,Marathon Petroleum,company
-1967156,Nicolas Papernot,AmerisourceBergen,company
 144061974,P. Mcdaniel,Walgreens Boots Alliance,company
-153440022,I. Goodfellow,The University of Sydney,university
 1680133,S. Jha,Wells Fargo,company
 144643812,Z. B. Celik,Kroger,company
 144231976,A. Swami,National University of Singapore (NUS),university
@@ -749,7 +661,6 @@ authorId,name,Affiliations,Affiliation_type
 2072784644,Shengyu Fu,Costco Wholesale,company
 1803054,Shujie Liu,McGill University,university
 145714153,Alexey Kurakin,Centene,company
-153440022,I. Goodfellow,Harvard University,university
 1751569,Samy Bengio,ETH Zurich - Swiss Federal Institute of Technology,university
 47896740,Hongyuan Lu,The London School of Economics and Political Science (LSE),university
 146482230,Daniel J. Diaz,Kyoto University,university
@@ -889,12 +800,9 @@ authorId,name,Affiliations,Affiliation_type
 2144035454,Li Shen,The University of Melbourne,university
 144259957,P. Zhao,State Farm Insurance,company
 1505828520,Yan Kang,Valero Energy,company
-1614034792,Yang Liu,UCL,university
 145711633,R. Raskar,Target,company
-153096457,Qiang Yang,Yale University,university
 145599558,M. Annavaram,Comcast,company
 121011351,S. Avestimehr,Bank of America,company
-2343654,Hsin-Yuan Huang,Lowe's,company
 96014865,M. Broughton,Amazon,company
 145233982,M. Mohseni,"Nanyang Technological University, Singapore (NTU)",university
 47066334,R. Babbush,National University of Singapore (NUS),university
@@ -916,7 +824,6 @@ authorId,name,Affiliations,Affiliation_type
 119628938,I. Cirac,The University of Manchester,university
 2258272369,Kyle Cranmer,The Chinese University of Hong Kong (CUHK),university
 1742040,L. Daudet,Walgreens Boots Alliance,company
-3048564,M. Schuld,Princeton University,university
 1777660,Naftali Tishby,Harvard University,university
 1445956232,Leslie Vogt-Maranto,Costco Wholesale,company
 2065813820,Lenka Zdeborov'a,The University of Sydney,university
@@ -938,7 +845,6 @@ authorId,name,Affiliations,Affiliation_type
 2262107,S. M. Kandathil,Imperial College London,university
 50881145,Lewis Moffat,McKesson,company
 2118729790,David T. Jones,Amazon,company
-48395540,C. Rudin,University of British Columbia,university
 2143786389,Zhi Chen,UnitedHealth Group,company
 2146285954,Haiyang Huang,EPFL,university
 151489878,Lesia Semenova,Alphabet,company
@@ -1149,7 +1055,6 @@ authorId,name,Affiliations,Affiliation_type
 2143911040,Jie Hu,Princeton University,university
 8365320,Joshua Romoff,Lowe's,company
 2563117,E. Brunskill,The University of Manchester,university
-1746807,Dan Jurafsky,The University of New South Wales (UNSW Sydney),university
 145134886,Joelle Pineau,Kyoto University,university
 17850015,Benjamin Kompa,Monash University,university
 144108062,Jasper Snoek,Chevron,company
@@ -1175,14 +1080,11 @@ authorId,name,Affiliations,Affiliation_type
 1727558,R. Guerraoui,The University of New South Wales (UNSW Sydney),university
 1718150,J. Stainer,Johns Hopkins University,university
 11413392,Nongnuch Artrith,FedEx,company
-3300287,K. Butler,Intel,company
 144646737,François-Xavier Coudert,FedEx,company
 1964642,Seungwu Han,Dell Technologies,company
-2385206,O. Isayev,FedEx,company
 2541031,Anubhav Jain,Ford Motor,company
 2143601680,Aron Walsh,Ford Motor,company
 145762777,S. Lloyd,Université PSL,university
-3048564,M. Schuld,Home Depot,company
 35323164,Aroosa Ijaz,Verizon Communications,company
 2070140,J. Izaac,Procter & Gamble,company
 3399181,N. Killoran,"Nanyang Technological University, Singapore (NTU)",university
@@ -1238,7 +1140,6 @@ authorId,name,Affiliations,Affiliation_type
 144154709,Jacob Eisenstein,MetLife,company
 28552618,M. Hoffman,Walmart,company
 2420527,F. Hormozdiari,Tsinghua University,university
-2815290,N. Houlsby,King's College London,university
 3108448,Shaobo Hou,Archer Daniels Midland,company
 3451901,Ghassen Jerfel,Marathon Petroleum,company
 6413143,A. Karthikesalingam,The University of Tokyo,university
@@ -1261,8 +1162,6 @@ authorId,name,Affiliations,Affiliation_type
 46537606,Harini Suresh,Meta Platforms,company
 2974320,Victor Veitch,Tsinghua University,university
 3316311,Max Vladymyrov,IBM,company
-1524732527,Xuezhi Wang,Technical University of Munich,university
-20825661,Kellie Webster,Comcast,company
 2856607,Steve Yadlowsky,Cardinal Health,company
 2520251,T. Yun,Princeton University,university
 2743563,Xiaohua Zhai,Stanford University,university
@@ -1347,7 +1246,6 @@ authorId,name,Affiliations,Affiliation_type
 144227650,Thorsten Holz,AT&T,company
 1739548,Mario Fritz,Kroger,company
 3239480,Tim Dettmers,AmerisourceBergen,company
-35084211,M. Lewis,Columbia University,university
 2037496520,Younes Belkada,Marathon Petroleum,company
 1982950,Luke Zettlemoyer,The University of Edinburgh,university
 1746466,A. Azaria,General Electric,company
@@ -1356,7 +1254,6 @@ authorId,name,Affiliations,Affiliation_type
 73776889,Gelei Deng,Intel,company
 22799258,Yuekang Li,The University of Manchester,university
 3088630,Kailong Wang,AT&T,company
-2146331573,Tianwei Zhang,The University of Manchester,university
 39584070,Yepang Liu,Home Depot,company
 51225422,Haoyu Wang,The Chinese University of Hong Kong (CUHK),university
 2124949853,Yanhong Zheng,CVS Health,company
@@ -1387,7 +1284,6 @@ authorId,name,Affiliations,Affiliation_type
 38656724,R. Lee,Fudan University,university
 1996394,Lidong Bing,Kroger,company
 1746416,Soujanya Poria,Technical University of Munich,university
-3239480,Tim Dettmers,Valero Energy,company
 2219555303,Ruslan Svirschevski,Fudan University,university
 52257721,Vage Egiazarian,ETH Zurich - Swiss Federal Institute of Technology,university
 2006108901,Denis Kuznedelev,UCL,university
@@ -1399,7 +1295,6 @@ authorId,name,Affiliations,Affiliation_type
 32528506,Deepanway Ghosal,The University of New South Wales (UNSW Sydney),university
 35122767,Navonil Majumder,Alphabet,company
 3391951,Ambuj Mehrish,General Electric,company
-1746416,Soujanya Poria,Bank of America,company
 49102717,Feilong Chen,ETH Zurich - Swiss Federal Institute of Technology,university
 49835220,Minglun Han,General Electric,company
 2112675689,Haozhi Zhao,Walmart,company
@@ -1421,7 +1316,6 @@ authorId,name,Affiliations,Affiliation_type
 2211469173,Xia Hu,General Motors,company
 2197076899,Dongfu Jiang,The University of Melbourne,university
 1384550891,Xiang Ren,Berkshire Hathaway,company
-51583409,Bill Yuchen Lin,Phillips 66,company
 2108024273,Yidong Wang,Humana,company
 2164113313,Zhuohao Yu,The Chinese University of Hong Kong (CUHK),university
 1557363420,Zhengran Zeng,Princeton University,university
@@ -1501,16 +1395,10 @@ authorId,name,Affiliations,Affiliation_type
 2822290,Suraj Srinivas,Cigna,company
 34389431,S. Feizi,Cornell University,university
 1892673,Himabindu Lakkaraju,Dell Technologies,company
-2237599228,Ziyu Guo,Tsinghua University,university
-2115713503,Renrui Zhang,"University of California, Los Angeles (UCLA)",university
 2237590429,Xiangyang Zhu,The Australian National University,university
 2193267071,Yiwen Tang,Procter & Gamble,company
 1387903470,Xianzheng Ma,"Nanyang Technological University, Singapore (NTU)",university
-150147382,Jiaming Han,Institut Polytechnique de Paris,university
-32811782,Ke Chen,Tsinghua University,university
-144740494,Peng Gao,The University of Queensland,university
 2237583550,Xianzhi Li,State Farm Insurance,company
-49404547,Hongsheng Li,The University of Tokyo,university
 1714602,P. Heng,UnitedHealth Group,company
 151261268,Yining Hong,Elevance Health,company
 2226286961,Haoyu Zhen,Fannie Mae,company
@@ -1550,19 +1438,9 @@ authorId,name,Affiliations,Affiliation_type
 2152050780,Xinhsuai Dong,University of Cambridge,university
 2237440339,Yashar Talebirad,Johnson & Johnson,company
 2163313042,Amirhossein Nadiri,CVS Health,company
-2149970173,Lianmin Zheng,ETH Zurich - Swiss Federal Institute of Technology,university
-2537924,Wei-Lin Chiang,AmerisourceBergen,company
-2209360681,Ying Sheng,Berkshire Hathaway,company
 2243906678,Tianle Li,Columbia University,university
-92721493,Siyuan Zhuang,Fannie Mae,company
-1390573666,Zhanghao Wu,Kroger,company
-2152482391,Yonghao Zhuang,Institut Polytechnique de Paris,university
-2141335450,Zhuohan Li,Harvard University,university
-143872641,Zi Lin,Intel,company
 2243336934,Eric P. Xing,Monash University,university
 49988044,Joseph E. Gonzalez,University of Toronto,university
-2055174324,Ion Stoica,National University of Singapore (NUS),university
-145140331,Haotong Zhang,Centene,company
 49468918,Xinghua Zhang,Johns Hopkins University,university
 48613402,Yu Bowen,Peking University,university
 46493167,Haiyang Yu,"University of California, Los Angeles (UCLA)",university
@@ -1573,17 +1451,12 @@ authorId,name,Affiliations,Affiliation_type
 1527090216,Yongbin Li,Archer Daniels Midland,company
 95329799,Yunfan Shao,Cornell University,university
 2107897400,Linyang Li,Meta Platforms,company
-2087363104,Junqi Dai,AmerisourceBergen,company
 2258552414,Xipeng Qiu,California Institute of Technology (Caltech),university
 2254166618,Qingyun Wu,University of Oxford,university
 2253477657,Gagan Bansal,FedEx,company
 2255209795,Jieyu Zhang,Kroger,company
-2115853457,Yiran Wu,Amazon,company
 2253991395,Beibin Li,UCL,university
 2253476816,Erkang Zhu,IBM,company
-2231868268,Li Jiang,Technical University of Munich,university
-2232024704,Xiaoyun Zhang,University of Toronto,university
-2116579935,Shaokun Zhang,National University of Singapore (NUS),university
 2253854104,Jiale Liu,Ford Motor,company
 2072795428,A. Awadallah,Amazon,company
 2253456955,Ryen W White,Citigroup,company
@@ -1622,8 +1495,6 @@ authorId,name,Affiliations,Affiliation_type
 1679704,Y. Liu,Institut Polytechnique de Paris,university
 2115218570,Gao Huang,Verizon Communications,company
 1492047220,Shuyin OuYang,Université PSL,university
-51250527,J Zhang,Humana,company
-145836176,M. Harman,University of Michigan-Ann Arbor,university
 2146058962,Meng Wang,Cigna,company
 143695559,Yu Cao,The University of Edinburgh,university
 2110924166,Lu Lin,General Motors,company
@@ -1723,7 +1594,6 @@ authorId,name,Affiliations,Affiliation_type
 2054744,Ali Modarressi,Walgreens Boots Alliance,company
 51894641,Ayyoob Imani,General Electric,company
 2133037029,Mohsen Fayyaz,Delft University of Technology,university
-144418438,Hinrich Schütze,Pfizer,company
 9551276,Xuhai Xu,Princeton University,university
 1490485182,Bingsheng Yao,Valero Energy,company
 2115461706,Yu Dong,Valero Energy,company
@@ -1733,7 +1603,6 @@ authorId,name,Affiliations,Affiliation_type
 2156149847,Dakuo Wang,Alphabet,company
 2166137151,Binwei Yao,Tsinghua University,university
 2152153638,Ming Jiang,Kyoto University,university
-2143919864,Diyi Yang,The University of Edinburgh,university
 2149221827,Junjie Hu,Technical University of Munich,university
 150270469,Qijiong Liu,UPS,company
 2257286538,Nuo Chen,The Australian National University,university
@@ -1756,18 +1625,12 @@ authorId,name,Affiliations,Affiliation_type
 143655216,Masahiro Kaneko,McGill University,university
 1764004,Naoaki Okazaki,CVS Health,company
 2220637583,Shih-yang Liu,Walmart,company
-2109370860,Zechun Liu,Stanford University,university
 2261688809,Xijie Huang,Home Depot,company
 2261493190,Pingcheng Dong,New York University (NYU),university
 2256381600,Kwang-Ting Cheng,Elevance Health,company
-73776889,Gelei Deng,MetLife,company
-2153627626,Yi Liu,Stanford University,university
 1947239202,V'ictor Mayoral-Vilches,Pfizer,company
 2217847684,Peng Liu,Yale University,university
-22799258,Yuekang Li,Verizon Communications,company
 2110355317,Yuan Xu,The University of Manchester,university
-2146331573,Tianwei Zhang,Walmart,company
-2152798056,Yang Liu,The University of Melbourne,university
 1775709,M. Pinzger,JPMorgan Chase,company
 1717963,S. Rass,MetLife,company
 2149615775,Myra Cheng,Amazon,company
@@ -1785,7 +1648,6 @@ authorId,name,Affiliations,Affiliation_type
 2243417222,Suyu Ge,FedEx,company
 2266920681,Chunting Zhou,"University of California, Berkeley (UCB)",university
 2266467782,Rui Hou,EPFL,university
-2072010,Madian Khabsa,Imperial College London,university
 2266748478,Yi-Chia Wang,Stanford University,university
 2266712798,Qifan Wang,Technical University of Munich,university
 2253929707,Jiawei Han,Alphabet,company
@@ -1796,7 +1658,6 @@ authorId,name,Affiliations,Affiliation_type
 2113610946,Rahul Kande,Valero Energy,company
 3437933,H. Pearce,The University of Tokyo,university
 143645422,Benjamin Tan,General Motors,company
-1398683279,Brendan Dolan-Gavitt,Microsoft,company
 2057985118,Shailja Thakur,Pfizer,company
 1707355,R. Karri,The University of Manchester,university
 2220547623,Jeyavijayan Rajendran Texas AM University,Chevron,company
@@ -1839,7 +1700,6 @@ authorId,name,Affiliations,Affiliation_type
 39729530,Han Lin,General Electric,company
 2008198436,Abhaysinh Zala,Apple,company
 2706729,Jaemin Cho,Johnson & Johnson,company
-143977268,Mohit Bansal,"University of California, Berkeley (UCB)",university
 116275985,Yuzhe Cai,McGill University,university
 35374367,Shaoguang Mao,Walmart,company
 51198241,Wenshan Wu,Alphabet,company
@@ -1873,9 +1733,7 @@ authorId,name,Affiliations,Affiliation_type
 1769675,Tadayoshi Kohno,Tsinghua University,university
 3268360,Franziska Roesner,AT&T,company
 2224017005,David Glukhov,University of Pennsylvania,university
-47473421,Ilia Shumailov,Archer Daniels Midland,company
 2681954,Y. Gal,Zhejiang University,university
-1967156,Nicolas Papernot,CVS Health,company
 2734935,V. Papyan,Tsinghua University,university
 2256816230,Jia-Yu Yao,ExxonMobil,company
 2253467098,Kun-Peng Ning,Massachusetts Institute of Technology (MIT) ,university
@@ -1883,8 +1741,6 @@ authorId,name,Affiliations,Affiliation_type
 2253434320,Munan Ning,Yale University,university
 2265968596,Li Yuan,UPS,company
 2161240241,Chenxi Whitehouse,AT&T,company
-143990839,M. Choudhury,Kyoto University,university
-8129718,Alham Fikri Aji,Phillips 66,company
 2144332771,Fuzhao Xue,UnitedHealth Group,company
 2117786875,Yao Fu,Johnson & Johnson,company
 150341221,Wangchunshu Zhou,Princeton University,university
@@ -1909,7 +1765,6 @@ authorId,name,Affiliations,Affiliation_type
 10707709,Martin Raison,Lowe's,company
 41203992,Alykhan Tejani,Comcast,company
 22236100,Sasank Chilamkurthy,UnitedHealth Group,company
-32163737,Benoit Steiner,Kroger,company
 152599430,Lu Fang,Massachusetts Institute of Technology (MIT) ,university
 2113829116,Junjie Bai,The University of Melbourne,university
 2127604,Soumith Chintala,Seoul National University,university
@@ -1923,17 +1778,10 @@ authorId,name,Affiliations,Affiliation_type
 1688882,Yann LeCun,Cigna,company
 1751762,Yoshua Bengio,UPS,company
 1695689,Geoffrey E. Hinton,Cardinal Health,company
-2681954,Y. Gal,Intel,company
 1744700,Zoubin Ghahramani,The Chinese University of Hong Kong (CUHK),university
 145401977,M. Raissi,General Motors,company
-3410970,P. Perdikaris,Valero Energy,company
-1720124,G. Karniadakis,Pfizer,company
-2057642721,Martín Abadi,Ford Motor,company
 1396184193,Andy Chu,Procter & Gamble,company
-153440022,I. Goodfellow,Imperial College London,university
-145057514,H. B. McMahan,IBM,company
 145591745,Ilya Mironov,Intel,company
-35210462,Kunal Talwar,Pfizer,company
 2152832173,Li Zhang,The London School of Economics and Political Science (LSE),university
 1565641737,François Chollet,Delft University of Technology,university
 3236386,Varun Gulshan,Columbia University,university
@@ -1947,7 +1795,6 @@ authorId,name,Affiliations,Affiliation_type
 10688956,T. Madams,Johns Hopkins University,university
 50162175,Jorge A Cuadros,New York University (NYU),university
 3423678,R. Kim,Cigna,company
-2035210,R. Raman,Elevance Health,company
 2057376568,Philip Nelson,Archer Daniels Midland,company
 5791678,J. Mega,Apple,company
 47191829,D. Webster,University of Chicago,university
@@ -1963,13 +1810,9 @@ authorId,name,Affiliations,Affiliation_type
 51011129,Simon A. A. Kohl,University of Toronto,university
 152800798,Jens Petersen,McGill University,university
 1397951928,Klaus Maier-Hein,University of Pennsylvania,university
-151505981,Chiyuan Zhang,Harvard University,university
-1751569,Samy Bengio,National University of Singapore (NUS),university
 1775622,Moritz Hardt,Peking University,university
 9229182,B. Recht,Harvard University,university
-1689108,O. Vinyals,MetLife,company
 47645184,Alex Kendall,The University of Melbourne,university
-2681954,Y. Gal,Walgreens Boots Alliance,company
 2281247548,Laith Alzubaidi,Princeton University,university
 1754598,Jinglan Zhang,AT&T,company
 9379106,Amjad J. Humaidi,Princeton University,university
@@ -2019,34 +1862,23 @@ authorId,name,Affiliations,Affiliation_type
 1688276,Daan Wierstra,Northwestern University,university
 143967473,Pushmeet Kohli,General Motors,company
 46378362,M. Botvinick,Bank of America,company
-1689108,O. Vinyals,University of Pennsylvania,university
 47002813,Yujia Li,"University of California, Berkeley (UCB)",university
 1996134,Razvan Pascanu,Lowe's,company
-1967156,Nicolas Papernot,Centene,company
-144061974,P. Mcdaniel,Home Depot,company
-1680133,S. Jha,The Australian National University,university
 2623167,Matt Fredrikson,AmerisourceBergen,company
-144643812,Z. B. Celik,The University of Tokyo,university
-144231976,A. Swami,ExxonMobil,company
 33698309,Zhong-Qiu Zhao,Cigna,company
 51132438,Shou-tao Xu,Microsoft,company
 1748808,Xindong Wu,Cigna,company
-144329939,C. Qi,Massachusetts Institute of Technology (MIT) ,university
 47782132,L. Yi,CVS Health,company
-144914140,Hao Su,Northwestern University,university
-51352814,L. Guibas,"Nanyang Technological University, Singapore (NTU)",university
 2164604,Shervin Minaee,Fannie Mae,company
 1692688,Yuri Boykov,Monash University,university
 29905643,F. Porikli,Delft University of Technology,university
 143767945,A. Plaza,Humana,company
 30567641,N. Kehtarnavaz,Valero Energy,company
 1750924,Demetri Terzopoulos,Walgreens Boots Alliance,company
-2068891,Alexander Mathis,University of Toronto,university
 41020817,Pranav Mamidanna,University of Toronto,university
 50283382,Kevin M. Cury,IBM,company
 39107109,Taiga Abe,ExxonMobil,company
 144440610,V. Murthy,Archer Daniels Midland,company
-4058359,Mackenzie W. Mathis,The University of Tokyo,university
 1731199,M. Bethge,Meta Platforms,company
 33666044,A. Senior,"University of California, Los Angeles (UCLA)",university
 2115604214,Richard Evans,Johnson & Johnson,company
@@ -2062,16 +1894,10 @@ authorId,name,Affiliations,Affiliation_type
 48348688,Stig Petersen,University of British Columbia,university
 34838386,K. Simonyan,University of Toronto,university
 3051369,Steve Crossan,MetLife,company
-143967473,Pushmeet Kohli,PepsiCo Beverages,company
 152898526,David T. Jones,Ford Motor,company
 145824029,David Silver,Technical University of Munich,university
 2645384,K. Kavukcuoglu,Fannie Mae,company
 48987704,D. Hassabis,JPMorgan Chase,company
-151505981,Chiyuan Zhang,AmerisourceBergen,company
-1751569,Samy Bengio,The University of New South Wales (UNSW Sydney),university
-1775622,Moritz Hardt,University of Pennsylvania,university
-9229182,B. Recht,Zhejiang University,university
-1689108,O. Vinyals,Columbia University,university
 2061550,Heng-Tze Cheng,Berkshire Hathaway,company
 40338695,L. Koc,Elevance Health,company
 2066076307,Jeremiah Harmsen,CVS Health,company
@@ -2079,7 +1905,6 @@ authorId,name,Affiliations,Affiliation_type
 2073806959,Tushar Chandra,The University of Hong Kong,university
 3312922,H. Aradhye,Archer Daniels Midland,company
 2064997996,Glen Anderson,Kroger,company
-32131713,G. Corrado,The University of Manchester,university
 2055400243,Wei Chai,The Chinese University of Hong Kong (CUHK),university
 37413761,M. Ispir,Target,company
 1508890387,Rohan Anil,University of Cambridge,university
@@ -2089,7 +1914,6 @@ authorId,name,Affiliations,Affiliation_type
 2109059862,Xiaobing Liu,Costco Wholesale,company
 2068799083,Hemal Shah,Phillips 66,company
 5770276,Daniel S. Kermany,McKesson,company
-5770276,Daniel S. Kermany,Target,company
 32618175,M. Goldbaum,General Electric,company
 1742203875,Wenjia Cai,The University of Edinburgh,university
 46378481,C. Valentim,University of Chicago,university
@@ -2102,12 +1926,10 @@ authorId,name,Affiliations,Affiliation_type
 2110852365,J. Dong,California Institute of Technology (Caltech),university
 2098117799,Made K. Prasadha,Université PSL,university
 50647030,Jacqueline Pei,Ford Motor,company
-50647030,Jacqueline Pei,Centene,company
 1404355353,M. Y. Ting,Harvard University,university
 2117122385,Jie Zhu,ETH Zurich - Swiss Federal Institute of Technology,university
 2109460538,Christina M. Li,Tsinghua University,university
 7835733,Sierra Hewett,The University of Hong Kong,university
-7835733,Sierra Hewett,Marathon Petroleum,company
 2223909949,Jason Dong,IBM,company
 2004395151,Ian Ziyar,Costco Wholesale,company
 39694555,Alexander Shi,University of British Columbia,university
@@ -2116,17 +1938,12 @@ authorId,name,Affiliations,Affiliation_type
 92904386,Rui Hou,AT&T,company
 2110900099,W. Shi,Imperial College London,university
 2119031658,Xin Fu,Tsinghua University,university
-2119031658,Xin Fu,Delft University of Technology,university
 49112028,Yaou Duan,Apple,company
 6069804,V. N. Huu,IBM,company
-6069804,V. N. Huu,Citigroup,company
 145608705,Cindy Wen,Seoul National University,university
 2112900508,Edward Zhang,Wells Fargo,company
-2112900508,Edward Zhang,Walmart,company
 12495012,Charlotte L. Zhang,Cigna,company
-12495012,Charlotte L. Zhang,State Farm Insurance,company
 1481767699,Oulan Li,University of Chicago,university
-1481767699,Oulan Li,University of Oxford,university
 2108114944,Xiaobo Wang,University of British Columbia,university
 2066653897,M. Singer,FedEx,company
 2708689,Xiaodong Sun,University of Toronto,university
@@ -2141,16 +1958,12 @@ authorId,name,Affiliations,Affiliation_type
 1736651,S. Levine,UnitedHealth Group,company
 26412983,Abien Fred Agarap,Fannie Mae,company
 46881670,Chelsea Finn,Meta Platforms,company
-1689992,P. Abbeel,Fudan University,university
-1736651,S. Levine,Ford Motor,company
 2285163580,François Chollet,The University of Edinburgh,university
 1732570,M. Bronstein,Comcast,company
 143627859,Joan Bruna,Harvard University,university
 2056266,Taco Cohen,Johns Hopkins University,university
 1742197495,Petar Velivckovi'c,CVS Health,company
-145057514,H. B. McMahan,"University of California, Berkeley (UCB)",university
 31449330,Eider Moore,University of Cambridge,university
-1878835,Daniel Ramage,State Farm Insurance,company
 37089174,S. Hampson,Institut Polytechnique de Paris,university
 2661025,B. A. Y. Arcas,Johns Hopkins University,university
 144838425,C. Zuo,University of Michigan-Ann Arbor,university
@@ -2168,27 +1981,19 @@ authorId,name,Affiliations,Affiliation_type
 1753223,Alex Graves,Walmart,company
 2542999,T. Lillicrap,The University of New South Wales (UNSW Sydney),university
 3367786,Tim Harley,Fudan University,university
-145824029,David Silver,Home Depot,company
-2645384,K. Kavukcuoglu,"Nanyang Technological University, Singapore (NTU)",university
 2676247,Mang Ye,Johnson & Johnson,company
 145953515,Jianbing Shen,University of Oxford,university
 2004689620,Gaojie Lin,Apple,company
 145406421,T. Xiang,Peking University,university
 144082425,Ling Shao,Target,company
 1741126,S. Hoi,State Farm Insurance,company
-2542999,T. Lillicrap,AT&T,company
 2323922,Jonathan J. Hunt,ExxonMobil,company
 1863250,A. Pritzel,The Australian National University,university
-2801204,N. Heess,Delft University of Technology,university
 1968210,Tom Erez,Valero Energy,company
 2109481,Yuval Tassa,Dell Technologies,company
-145824029,David Silver,The University of Queensland,university
-1688276,Daan Wierstra,The University of Queensland,university
 38909097,Alec Radford,Archer Daniels Midland,company
 2096458,Luke Metz,JPMorgan Chase,company
-2127604,Soumith Chintala,Amazon,company
 39353098,Kaiming He,The University of Melbourne,university
-1771551,X. Zhang,Columbia University,university
 3080683,Shaoqing Ren,University of Toronto,university
 144110274,K. Zhang,Columbia University,university
 1724520,W. Zuo,UCL,university
@@ -2197,12 +2002,10 @@ authorId,name,Affiliations,Affiliation_type
 36685537,Lei Zhang,Marathon Petroleum,company
 2844898,N. Keskar,General Electric,company
 2205699,Dheevatsa Mudigere,Ford Motor,company
-2784955,J. Nocedal,Kyoto University,university
 1711231,M. Smelyanskiy,Johns Hopkins University,university
 144669504,P. T. P. Tang,Columbia University,university
 1811529,A. Esteva,"Nanyang Technological University, Singapore (NTU)",university
 2364487,Alexandre Robicquet,Cardinal Health,company
-2378027,Bharath Ramsundar,EPFL,university
 145712106,Volodymyr Kuleshov,JPMorgan Chase,company
 2446263,M. DePristo,Alphabet,company
 2055632320,Katherine Chou,Kyoto University,university
@@ -2219,7 +2022,6 @@ authorId,name,Affiliations,Affiliation_type
 39231399,Oliver Wang,Cigna,company
 7634925,H. V. Hasselt,Cardinal Health,company
 35099444,A. Guez,The University of Sydney,university
-145824029,David Silver,Johnson & Johnson,company
 2594647,A. Voulodimos,McGill University,university
 120205775,N. Doulamis,ExxonMobil,company
 1746705,A. Doulamis,Johns Hopkins University,university
@@ -2241,7 +2043,6 @@ authorId,name,Affiliations,Affiliation_type
 34459632,Thomas J. Fuchs,The University of Manchester,university
 2061649994,Tom Young,Lowe's,company
 8223433,Devamanyu Hazarika,The University of Hong Kong,university
-1746416,Soujanya Poria,The University of Manchester,university
 49943757,E. Cambria,Seoul National University,university
 24178944,S. Mohanty,Wells Fargo,company
 2068146094,David P. Hughes,"University of California, Berkeley (UCB)",university
@@ -2254,20 +2055,15 @@ authorId,name,Affiliations,Affiliation_type
 51484149,Fabrizio Frasca,PepsiCo Beverages,company
 1775620,D. Eynard,Cigna,company
 2500309,Federico Monti,Ford Motor,company
-1732570,M. Bronstein,Meta Platforms,company
-1713648,T. Hoefler,Citigroup,company
-3311387,Dan Alistarh,UPS,company
 1402921119,Tal Ben-Nun,Harvard University,university
 2134146,Nikoli Dryden,University of Cambridge,university
 3341722,Alexandra Peste,Lowe's,company
 2213731536,Justin M. Johnson,Seoul National University,university
-1725285,T. Khoshgoftaar,Walgreens Boots Alliance,company
 133700412,Babak Ehteshami Bejnordi,Johnson & Johnson,company
 50028365,M. Veta,The University of Melbourne,university
 1399194046,Paul Johannes van Diest,AmerisourceBergen,company
 123637526,B. van Ginneken,Kyoto University,university
 1745574,N. Karssemeijer,King's College London,university
-145959882,G. Litjens,Cornell University,university
 145441238,J. A. van der Laak,Home Depot,company
 37793573,M. Hermsen,Cardinal Health,company
 7219708,Quirine F. Manson,AmerisourceBergen,company
@@ -2279,7 +2075,6 @@ authorId,name,Affiliations,Affiliation_type
 3556525,F. Beca,California Institute of Technology (Caltech),university
 2095652,Andrew H. Beck,Chevron,company
 2111244067,Dayong Wang,EPFL,university
-2556428,A. Khosla,Yale University,university
 3422275,Rishab Gargeya,Northwestern University,university
 48561119,H. Irshad,MetLife,company
 40153228,Aoxiao Zhong,Johns Hopkins University,university
@@ -2287,7 +2082,6 @@ authorId,name,Affiliations,Affiliation_type
 1762919,Quanzheng Li,UPS,company
 2149050162,Hao Chen,University of Chicago,university
 3277637,Huangjing Lin,Imperial College London,university
-1714602,P. Heng,"Nanyang Technological University, Singapore (NTU)",university
 145653419,C. Hass,Phillips 66,company
 2552871,Elia Bruni,McKesson,company
 2074828638,Q. Wong,Seoul National University,university
@@ -2331,25 +2125,18 @@ authorId,name,Affiliations,Affiliation_type
 66191732,O. Deniz,Walgreens Boots Alliance,company
 1742773,Daniel Racoceanu,Dell Technologies,company
 30740587,Rui Venâncio,"University of California, Los Angeles (UCLA)",university
-3255983,Volodymyr Mnih,Harvard University,university
-2645384,K. Kavukcuoglu,Columbia University,university
-145824029,David Silver,Lowe's,company
 2228824,Andrei A. Rusu,Tsinghua University,university
 144056327,J. Veness,Monash University,university
 1792298,Marc G. Bellemare,University of Michigan-Ann Arbor,university
-1753223,Alex Graves,University of Chicago,university
 3137672,Martin A. Riedmiller,ExxonMobil,company
 145600108,A. Fidjeland,California Institute of Technology (Caltech),university
 2273072,Georg Ostrovski,Columbia University,university
-48348688,Stig Petersen,AmerisourceBergen,company
 50388928,Charlie Beattie,Centene,company
 49813280,Amir Sadik,The University of Melbourne,university
 2460849,Ioannis Antonoglou,"Nanyang Technological University, Singapore (NTU)",university
 143776287,Helen King,General Motors,company
 2106164,D. Kumaran,State Farm Insurance,company
-1688276,Daan Wierstra,The University of Melbourne,university
 34313265,S. Legg,Johns Hopkins University,university
-48987704,D. Hassabis,University of Michigan-Ann Arbor,university
 2985328,Yulan Guo,MetLife,company
 2027137715,Hanyun Wang,The University of Sydney,university
 8163866,Qingyong Hu,Ford Motor,company
@@ -2359,7 +2146,6 @@ authorId,name,Affiliations,Affiliation_type
 35776445,Mingsheng Long,The University of Hong Kong,university
 2146174097,Yue Cao,University of Chicago,university
 2144499343,Jianmin Wang,Tsinghua University,university
-1694621,Michael I. Jordan,University of Oxford,university
 2706258,Pranav Rajpurkar,Kroger,company
 46559852,J. Irvin,Chevron,company
 29972904,Kaylie Zhu,The University of New South Wales (UNSW Sydney),university
@@ -2368,7 +2154,6 @@ authorId,name,Affiliations,Affiliation_type
 15069782,Tony Duan,Elevance Health,company
 51235411,D. Ding,Johns Hopkins University,university
 30043065,Aarti Bagul,Procter & Gamble,company
-2356307,C. Langlotz,The London School of Economics and Political Science (LSE),university
 3474704,K. Shpanskaya,University of Chicago,university
 4204731,M. Lungren,The London School of Economics and Political Science (LSE),university
 34699434,A. Ng,Delft University of Technology,university
@@ -2392,7 +2177,6 @@ authorId,name,Affiliations,Affiliation_type
 2066217301,U. Acharya,Elevance Health,company
 144531494,V. Makarenkov,Centene,company
 1743136,S. Nahavandi,PepsiCo Beverages,company
-48401711,B. Alipanahi,PepsiCo Beverages,company
 3203657,Andrew Delong,AT&T,company
 2671552,M. Weirauch,MetLife,company
 1749650,B. Frey,PepsiCo Beverages,company
@@ -2438,9 +2222,6 @@ authorId,name,Affiliations,Affiliation_type
 1700762,R. Gao,Chevron,company
 145771261,A. Wilson,Wells Fargo,company
 7991830,Pavel Izmailov,MetLife,company
-1732570,M. Bronstein,General Electric,company
-143627859,Joan Bruna,The University of Manchester,university
-1688882,Yann LeCun,University of British Columbia,university
 3149531,Arthur Szlam,Elevance Health,company
 1697397,P. Vandergheynst,University of Toronto,university
 9576855,Xingjun Ma,The Chinese University of Hong Kong (CUHK),university
@@ -2449,14 +2230,11 @@ authorId,name,Affiliations,Affiliation_type
 9035741,Simone Romano,AmerisourceBergen,company
 144757691,S. Erfani,The University of New South Wales (UNSW Sydney),university
 145148600,J. Bailey,Harvard University,university
-39695518,Li Liu,Dell Technologies,company
 3001348,Wanli Ouyang,Johnson & Johnson,company
 31843833,Xiaogang Wang,"University of California, Berkeley (UCB)",university
-1731709,P. Fieguth,Elevance Health,company
 50762381,Jie Chen,Archer Daniels Midland,company
 2108754292,Xinwang Liu,Cornell University,university
 145962204,M. Pietikäinen,Target,company
-3456687,Iqbal H. Sarker,King's College London,university
 34859953,Yisheng Lv,The Australian National University,university
 2241838,Y. Duan,CVS Health,company
 1903243,Wenwen Kang,Seoul National University,university
@@ -2464,19 +2242,12 @@ authorId,name,Affiliations,Affiliation_type
 143769760,Feiyue Wang,Berkshire Hathaway,company
 1764301,A. Kamilaris,Procter & Gamble,company
 1398263014,F. Prenafeta-Boldú,Yale University,university
-1811529,A. Esteva,Northwestern University,university
-2055632320,Katherine Chou,Ford Motor,company
 34149749,Serena Yeung,King's College London,university
 2047256670,N. Naik,The University of Queensland,university
 145822841,Ali Madani,General Electric,company
 145934658,A. Mottaghi,Tsinghua University,university
 2118113191,Yun Liu,CVS Health,company
 144758045,E. Topol,MetLife,company
-48448318,J. Dean,Home Depot,company
-2166511,R. Socher,Alphabet,company
-145441238,J. A. van der Laak,Ford Motor,company
-145959882,G. Litjens,Yale University,university
-143613202,F. Ciompi,PepsiCo Beverages,company
 9948572,R. Schirrmeister,Chevron,company
 2060551,J. T. Springenberg,Chevron,company
 1704186,L. Fiederer,Tsinghua University,university
@@ -2496,7 +2267,6 @@ authorId,name,Affiliations,Affiliation_type
 38183916,Pravir Kumar,The University of Sydney,university
 2128102841,Zhihao Wang,Centene,company
 2118446738,Jian Chen,EPFL,university
-1741126,S. Hoi,General Electric,company
 46521834,Xiangbin Liu,Target,company
 2150598816,Liping Song,Massachusetts Institute of Technology (MIT) ,university
 2108592735,Shuai Liu,Cigna,company
@@ -2535,8 +2305,6 @@ authorId,name,Affiliations,Affiliation_type
 2074289230,E. Williams,Phillips 66,company
 2542404,J. Pearson,The London School of Economics and Political Science (LSE),university
 2934141,N. Waddell,Johnson & Johnson,company
-150064574,Connor Shorten,National University of Singapore (NUS),university
-1725285,T. Khoshgoftaar,University of Michigan-Ann Arbor,university
 1749988,B. Furht,University of Toronto,university
 4427645,Zhaoyang Niu,JPMorgan Chase,company
 2421012,G. Zhong,University of Pennsylvania,university
@@ -2560,9 +2328,6 @@ authorId,name,Affiliations,Affiliation_type
 153004464,Dan Otter,Princeton University,university
 144932816,Julian R. Medina,National University of Singapore (NUS),university
 34694214,J. Kalita,UPS,company
-2164604,Shervin Minaee,Centene,company
-49943757,E. Cambria,King's College London,university
-48441311,Jianfeng Gao,Columbia University,university
 3098251,Muhan Zhang,The University of Sydney,university
 7217944,Zhicheng Cui,Amazon,company
 40059761,Marion Neumann,University of Pennsylvania,university
@@ -2576,12 +2341,9 @@ authorId,name,Affiliations,Affiliation_type
 1722252,Jianhua Yao,Marathon Petroleum,company
 1691549,D. Mollura,The University of New South Wales (UNSW Sydney),university
 144838131,R. Summers,The University of Manchester,university
-2149373363,Lu Lu,University of Oxford,university
 32526075,Xuhui Meng,Kroger,company
 14838210,Zhiping Mao,Apple,company
-1720124,G. Karniadakis,Chevron,company
 1745169,P. Bartlett,University of Pennsylvania,university
-145071265,A. Montanari,Dell Technologies,company
 1680046,A. Rakhlin,Procter & Gamble,company
 2313130,J. Preskill,AT&T,company
 2117853329,Youngseok Kim,Kyoto University,university
@@ -2641,7 +2403,6 @@ authorId,name,Affiliations,Affiliation_type
 14568531,P. Silvi,Massachusetts Institute of Technology (MIT) ,university
 48021694,P. Spentzouris,Citigroup,company
 35321583,F. Tacchino,University of Chicago,university
-1882551,K. Temme,Ford Motor,company
 94071871,K. Terashi,Humana,company
 102602824,Jordi Tura i Brugués,Archer Daniels Midland,company
 2122318289,Cenk Tüysüz,UPS,company
@@ -2667,14 +2428,6 @@ authorId,name,Affiliations,Affiliation_type
 34654804,J. Gambetta,General Electric,company
 2060054898,Dario Gil,Target,company
 10046884,Z. Nazario,AT&T,company
-2126066742,Dylan Herman,MetLife,company
-2149406716,Cody Googin,Costco Wholesale,company
-2111038440,Xiaoyuan Liu,Apple,company
-4271239,A. Galda,Peking University,university
-1444724539,Ilya Safro,AT&T,company
-2116970494,Yue Sun,Cardinal Health,company
-134455051,Marco Pistoia,Apple,company
-2143727,Y. Alexeev,Northwestern University,university
 145147015,Yue Wu,Bank of America,company
 6808545,S. Kolkowitz,University of Pennsylvania,university
 49895624,S. Puri,EPFL,university
@@ -2777,7 +2530,6 @@ authorId,name,Affiliations,Affiliation_type
 1797584,O. Günlük,FedEx,company
 2144633,Toshinari Itoko,Kroger,company
 2113593160,Naoki Kanazawa,The University of New South Wales (UNSW Sydney),university
-5817392,A. Kandala,Microsoft,company
 35045656,G. Keefe,Alphabet,company
 98912691,Kevin Krsulich,Centene,company
 2077322874,W. Landers,Cardinal Health,company
@@ -2791,13 +2543,10 @@ authorId,name,Affiliations,Affiliation_type
 143996832,S. Srinivasan,University of British Columbia,university
 46195445,N. Sundaresan,Home Depot,company
 2135729344,Cindy Wang,Fudan University,university
-38914626,K. X. Wei,McGill University,university
 2068110895,C. J. Wood,Dell Technologies,company
 21113799,J. Yau,Amazon,company
 2054909843,E. Zhang,MetLife,company
-35081540,O. Dial,California Institute of Technology (Caltech),university
 37400490,J. Chow,Peking University,university
-34654804,J. Gambetta,Kroger,company
 8787467,A. Glos,McGill University,university
 38306014,Aleksandra Krawiec,PepsiCo Beverages,company
 5610051,Z. Zimborás,The Australian National University,university
@@ -2815,7 +2564,6 @@ authorId,name,Affiliations,Affiliation_type
 98771715,Miriam Meckel,Comcast,company
 1737216,J. Leimeister,Imperial College London,university
 32666186,Daniel Jaschke,The University of Manchester,university
-2224040,S. Montangero,Walmart,company
 1741486,Claudio Cicconetti,"University of California, Berkeley (UCB)",university
 2288804757,M. Conti,The University of Tokyo,university
 1739490,A. Passarella,Imperial College London,university
@@ -2896,13 +2644,10 @@ authorId,name,Affiliations,Affiliation_type
 2140343982,Norbert Gaus,University of Cambridge,university
 34645132,P. Harbach,University of Cambridge,university
 2053080936,Maximilian Hess,The London School of Economics and Political Science (LSE),university
-9653883,Johannes Klepsch,The University of Queensland,university
 50464368,M. Leib,General Electric,company
 2077109076,S. Luber,The University of Melbourne,university
-50631038,André Luckow,CVS Health,company
 2140297805,M. Mansky,UnitedHealth Group,company
 2865965,W. Mauerer,Microsoft,company
-2065938,F. Neukart,National University of Singapore (NUS),university
 1876916,C. Niedermeier,State Farm Insurance,company
 2140304858,Lilly Palackal,Microsoft,company
 2140323791,Ruben Pfeiffer,Kyoto University,university
@@ -2927,7 +2672,6 @@ authorId,name,Affiliations,Affiliation_type
 3537088,A. Izmaylov,The University of New South Wales (UNSW Sydney),university
 1422193589,A. Aspuru‐Guzik,General Motors,company
 38304775,Stefano Mangini,Alphabet,company
-35321583,F. Tacchino,Valero Energy,company
 145179879,D. Gerace,PepsiCo Beverages,company
 2472580,D. Bajoni,Fannie Mae,company
 2013837,C. Macchiavello,Johnson & Johnson,company
@@ -2944,12 +2688,10 @@ authorId,name,Affiliations,Affiliation_type
 145852716,T. Rudolph,"University of California, Berkeley (UCB)",university
 1398907758,T. Fernández-Caramés,PepsiCo Beverages,company
 1401263185,Paula Fraga-Lamas,UnitedHealth Group,company
-2313130,J. Preskill,Cigna,company
 51459951,Yuchen Wang,MetLife,company
 2219676008,Zixuan Hu,McKesson,company
 34655154,B. Sanders,McKesson,company
 1699217,S. Kais,General Motors,company
-2037814,D. Egger,McKesson,company
 40914530,Claudio Gambella,General Motors,company
 2128242,Jakub Marecek,The University of Tokyo,university
 2537039,S. McFaddin,The University of Melbourne,university
@@ -2959,7 +2701,6 @@ authorId,name,Affiliations,Affiliation_type
 50539732,Stefan Woerner,Peking University,university
 2083333844,Elena Yndurain,New York University (NYU),university
 2142766693,Lawrence Z Cohen,Chevron,company
-40026378,Isaac H. Kim,General Electric,company
 3029700,S. Bartlett,University of Cambridge,university
 46610676,Benjamin J. Brown,The University of Hong Kong,university
 46512011,E. Rinaldi,Kyoto University,university
@@ -2979,26 +2720,22 @@ authorId,name,Affiliations,Affiliation_type
 2216467,Yudong Cao,The Australian National University,university
 119889392,J. Romero,University of British Columbia,university
 32442462,Jonathan Olson,Zhejiang University,university
-13619977,M. Degroote,Comcast,company
 143688757,Peter D. Johnson,Delft University of Technology,university
 12047931,M. Kieferová,The University of Hong Kong,university
 24643287,I. Kivlichan,Columbia University,university
 144776222,Tim Menke,The University of Queensland,university
 3670995,B. Peropadre,University of British Columbia,university
 47116463,Nicolas P. D. Sawaya,AT&T,company
-35374750,Sukin Sim,AT&T,company
 9941491,L. Veis,ExxonMobil,company
 1380248954,Alán Aspuru-Guzik,Humana,company
 2066109087,Manuela Weigold,Fannie Mae,company
 2890261,Johanna Barzen,University of Michigan-Ann Arbor,university
 1688415,F. Leymann,The University of New South Wales (UNSW Sydney),university
 51418452,Marie Olivia Salm,Centene,company
-114370700,Heliang Huang,Meta Platforms,company
 1752545942,Dachao Wu,Lowe's,company
 2054266852,D. Fan,The University of New South Wales (UNSW Sydney),university
 2218990522,Xiaobo Zhu,Yale University,university
 145553035,S. Cohen,Costco Wholesale,company
-2109870049,J. Thompson,Yale University,university
 2074099273,Koustubh Phalak,AmerisourceBergen,company
 153329056,Abdullah Ash Saki,The University of Melbourne,university
 71667767,M. Alam,The University of Queensland,university
@@ -3007,9 +2744,6 @@ authorId,name,Affiliations,Affiliation_type
 52221692,Stephen Diadamo,Comcast,company
 2697097,Marco Ghibaudi,Archer Daniels Midland,company
 32610684,J. Cruise,Johnson & Johnson,company
-1509419973,Daniele Cuomo,Microsoft,company
-34702644,M. Caleffi,McGill University,university
-3062937,Angela Sara Cacciapuoti,Humana,company
 145673316,R. Rasool,Fannie Mae,company
 2088138377,H. F. Ahmad,University of Toronto,university
 26352398,Wajid Rafique,AmerisourceBergen,company
@@ -3017,11 +2751,6 @@ authorId,name,Affiliations,Affiliation_type
 2139199675,Junaid Qadir,UCL,university
 2213873418,Zahid Anwar,The Chinese University of Hong Kong (CUHK),university
 2110279525,Hongbin Liu,Peking University,university
-1917423,G. Low,Ford Motor,company
-3393324,Damian S. Steiger,General Motors,company
-3393711,Thomas Häner,Home Depot,company
-2656595,M. Reiher,Peking University,university
-1752096,M. Troyer,University of British Columbia,university
 31043248,S. S. Gill,Ford Motor,company
 1712222777,Adarsh Kumar,MetLife,company
 2174992457,Harvinder Singh,The University of Queensland,university
@@ -3029,8 +2758,6 @@ authorId,name,Affiliations,Affiliation_type
 49577231,K. Kaur,ETH Zurich - Swiss Federal Institute of Technology,university
 2143665076,Muhammad Usman,University of Cambridge,university
 1709598,R. Buyya,UnitedHealth Group,company
-3062937,Angela Sara Cacciapuoti,The University of Hong Kong,university
-34702644,M. Caleffi,State Farm Insurance,company
 40046900,F. Cataliotti,General Electric,company
 1933922,S. Gherardini,Valero Energy,company
 2218979994,D. Tan,University of Michigan-Ann Arbor,university
@@ -3038,10 +2765,6 @@ authorId,name,Affiliations,Affiliation_type
 100782743,Carolyn ten Holter,Fudan University,university
 2092826,P. Inglesant,University of Oxford,university
 1771117,M. Jirotka,Chevron,company
-3393711,Thomas Häner,Target,company
-3393324,Damian S. Steiger,The Chinese University of Hong Kong (CUHK),university
-1713648,T. Hoefler,The University of Sydney,university
-1752096,M. Troyer,UPS,company
 37459194,A. Giani,Bank of America,company
 103072467,L. Henriet,The London School of Economics and Political Science (LSE),university
 25829448,L. Beguin,Marathon Petroleum,company
@@ -3054,14 +2777,11 @@ authorId,name,Affiliations,Affiliation_type
 1737836,K. Bertels,The University of Queensland,university
 144330671,A. Sarkar,The University of Queensland,university
 145594823,I. Ashraf,"Nanyang Technological University, Singapore (NTU)",university
-50631038,André Luckow,UnitedHealth Group,company
-9653883,Johannes Klepsch,Centene,company
 1456173110,Josef Pichlmeier,McGill University,university
 51112526,C. Outeiral,Walmart,company
 4912649,M. Strahm,CVS Health,company
 1741697,Jiye Shi,Pfizer,company
 49331106,G. Morris,CVS Health,company
-1864960,S. Benjamin,ExxonMobil,company
 145808074,C. Deane,"University of California, Berkeley (UCB)",university
 2101209,Stuart M. Harwood,Kroger,company
 2903972,Dimitar Trenev,Zhejiang University,university
@@ -3079,13 +2799,9 @@ authorId,name,Affiliations,Affiliation_type
 2151249444,Lucia Vadicamo,"University of California, Los Angeles (UCLA)",university
 144514869,G. Amato,McGill University,university
 1846129,F. Falchi,Intel,company
-1509419973,Daniele Cuomo,University of Oxford,university
-34702644,M. Caleffi,CVS Health,company
-98912691,Kevin Krsulich,The University of Hong Kong,university
 10719003,F. Tramonto,State Farm Insurance,company
 2148614280,Gabriele Agliardi,The University of Hong Kong,university
 48994822,E. Prati,Walgreens Boots Alliance,company
-3062937,Angela Sara Cacciapuoti,University of Oxford,university
 4213293,V. Marx,Kroger,company
 51175614,Xiruo Yan,The Australian National University,university
 2099895658,Sebastian Gitt,"University of California, Los Angeles (UCLA)",university
@@ -3104,14 +2820,10 @@ authorId,name,Affiliations,Affiliation_type
 2051785482,Joseph C. Aulicino,Cornell University,university
 1387873032,Trevor Keen,"University of California, Berkeley (UCB)",university
 145560079,Bo Peng,Microsoft,company
-2092826,P. Inglesant,Université PSL,university
-100782743,Carolyn ten Holter,Phillips 66,company
-1771117,M. Jirotka,Verizon Communications,company
 2149472612,Robin Williams,Marathon Petroleum,company
 115799034,Rhea Parekh,Columbia University,university
 2061202877,Andrea Ricciardi,ETH Zurich - Swiss Federal Institute of Technology,university
 2042703517,Ahmed Darwish,Marathon Petroleum,company
-52221692,Stephen Diadamo,Comcast,company
 1657667709,Inga Seidler,The Chinese University of Hong Kong (CUHK),university
 148244326,Tom Struck,Wells Fargo,company
 2133696151,Ran Xue,Institut Polytechnique de Paris,university
@@ -3121,7 +2833,6 @@ authorId,name,Affiliations,Affiliation_type
 50016968,L. Schreiber,Massachusetts Institute of Technology (MIT) ,university
 23114835,Pauline J. Ollitrault,MetLife,company
 2122960383,Alexander Miessen,Lowe's,company
-2815974,I. Tavernelli,University of Oxford,university
 1398475409,M. F. Gonzalez-Zalba,The University of Hong Kong,university
 30639586,S. D. Franceschi,FedEx,company
 144713024,E. Charbon,Fannie Mae,company
@@ -3131,7 +2842,6 @@ authorId,name,Affiliations,Affiliation_type
 1949572253,S. Stein,National University of Singapore (NUS),university
 1766680,Yufei Ding,Bank of America,company
 3253856,N. Wiebe,Wells Fargo,company
-145560079,Bo Peng,Berkshire Hathaway,company
 143924199,K. Kowalski,Meta Platforms,company
 1743474,Nathan A. Baker,Monash University,university
 2107856766,James Ang,Massachusetts Institute of Technology (MIT) ,university
@@ -3141,7 +2851,6 @@ authorId,name,Affiliations,Affiliation_type
 102230461,Casper R. Breum,King's College London,university
 1388035132,Jonas S Neergaard-Nielsen,Massachusetts Institute of Technology (MIT) ,university
 2068992,U. Andersen,Kyoto University,university
-93761083,D. Litinski,McGill University,university
 1478399348,Furkan Oz,Columbia University,university
 151196900,Rohit K. S. S. Vuppala,Kroger,company
 30869714,Kursat Kara,Pfizer,company
@@ -3149,18 +2858,12 @@ authorId,name,Affiliations,Affiliation_type
 2124015766,D.-S. Wang,UnitedHealth Group,company
 3219108,H. Riel,The Australian National University,university
 145395184,Sanjib Ghosh,CVS Health,company
-102747909,T. Liew,The London School of Economics and Political Science (LSE),university
 3444643,J. Bardin,IBM,company
 34877666,D. Slichter,Cigna,company
 38647698,D. Reilly,New York University (NYU),university
-2218979994,D. Tan,Costco Wholesale,company
-2259796,J. Cong,Columbia University,university
 1782146,L. Gyongyosi,Procter & Gamble,company
 145810321,S. Imre,Monash University,university
 1474569575,Benjamin Weder,MetLife,company
-2890261,Johanna Barzen,ETH Zurich - Swiss Federal Institute of Technology,university
-1688415,F. Leymann,King's College London,university
-51418452,Marie Olivia Salm,Target,company
 1565015599,Karoline Wild,Amazon,company
 49615584,S. Takeda,Walmart,company
 3289333,A. Furusawa,Technical University of Munich,university
@@ -3234,7 +2937,6 @@ authorId,name,Affiliations,Affiliation_type
 2054838160,Qi Zou,National University of Singapore (NUS),university
 1492120545,Weiting Zhang,University of British Columbia,university
 2115905112,Ying Dong,Walgreens Boots Alliance,company
-2434366,D. Vrgoc,Phillips 66,company
 2059572334,Carlos Rojas,Verizon Communications,company
 2772109,Renzo Angles,Imperial College London,university
 144658846,M. Arenas,Cardinal Health,company
@@ -3254,7 +2956,6 @@ authorId,name,Affiliations,Affiliation_type
 2115692258,Jie Zheng,Fannie Mae,company
 1505708061,Pranjal Gupta,IBM,company
 26391899,Amine Mhedhbi,McGill University,university
-1783781,S. Salihoglu,"Nanyang Technological University, Singapore (NTU)",university
 70209653,Debachudamani Prusti,IBM,company
 2070468032,Daisy Das,Massachusetts Institute of Technology (MIT) ,university
 7790877,S. K. Rath,Alphabet,company
@@ -3311,7 +3012,6 @@ authorId,name,Affiliations,Affiliation_type
 80752053,Zulie Pan,Meta Platforms,company
 1596817678,Fan Shi,Citigroup,company
 1672530059,Zhenhan Li,Microsoft,company
-2772109,Renzo Angles,The University of Melbourne,university
 2115256817,Ran Wang,The Australian National University,university
 150358651,Zhengyi Yang,"University of California, Los Angeles (UCLA)",university
 19262604,W. Zhang,McKesson,company
@@ -3409,8 +3109,6 @@ authorId,name,Affiliations,Affiliation_type
 145222303,Jonathan Krebs,Université PSL,university
 1755795,S. Störk,The University of New South Wales (UNSW Sydney),university
 1707592,F. Puppe,Peking University,university
-152125305,Subrata Paul,Fudan University,university
-46501582,A. Mitra,University of Pennsylvania,university
 2744320,C. Koner,FedEx,company
 152124680,R. Vaz,Institut Polytechnique de Paris,university
 2289291819,Jones Dhyemison Quito de Oliveira,Princeton University,university
@@ -3443,7 +3141,6 @@ authorId,name,Affiliations,Affiliation_type
 32455748,Siddhartha Sahu,University of Pennsylvania,university
 10754597,Amine Mhedbhi,Centene,company
 2115896116,J. Chen,King's College London,university
-1783781,S. Salihoglu,The Australian National University,university
 145716796,N. S. Patil,Comcast,company
 143838349,P. Kiran,Verizon Communications,company
 143717738,N. P. Kiran,Humana,company
@@ -3496,7 +3193,6 @@ authorId,name,Affiliations,Affiliation_type
 3245041,Jan-Christoph Kalo,FedEx,company
 79691050,Denis Nagel,New York University (NYU),university
 77790220,H. Kroll,Kroger,company
-1720266,Wolf-Tilo Balke,UPS,company
 2948428,Syed Zain R. Rizvi,University of Pennsylvania,university
 144259319,Philip W. L. Fong,The University of Manchester,university
 143758771,A. Hor,Comcast,company
@@ -3542,7 +3238,6 @@ authorId,name,Affiliations,Affiliation_type
 35638374,Warut D. Vijitbenjaronk,Harvard University,university
 2507242,Marco Brandizi,Lowe's,company
 2117776059,Ajit Singh,University of Toronto,university
-31590259,C. Rawlings,The University of New South Wales (UNSW Sydney),university
 1398327640,K. Hassani‐Pak,Cardinal Health,company
 46266394,Guohao Zhang,Walmart,company
 1410897553,Hoi-Fung Ng,McGill University,university
@@ -3550,7 +3245,6 @@ authorId,name,Affiliations,Affiliation_type
 2631044,L. Hsu,University of Toronto,university
 2204964,B. Kan,The University of Sydney,university
 3256994,Wendong Zhu,JPMorgan Chase,company
-121865955,Guangyi Liu,Home Depot,company
 2145308743,Xi Chen,Costco Wholesale,company
 2064971594,D. Shi,Intel,company
 143627522,Weiqing Yu,AT&T,company
@@ -3560,7 +3254,6 @@ authorId,name,Affiliations,Affiliation_type
 7806657,Zhengwei Wu,Zhejiang University,university
 3358986,Houyi Li,Northwestern University,university
 1943322867,Yize Li,Home Depot,company
-2144151933,Min Wu,Berkshire Hathaway,company
 2108966388,Xiaojie Chen,The University of Sydney,university
 2114147314,Xiaomeng Ye,Alphabet,company
 24812041,Benquan Yu,Apple,company
@@ -3598,7 +3291,6 @@ authorId,name,Affiliations,Affiliation_type
 49627183,Mahen Herath,General Electric,company
 35367497,Achala Madhushan,Massachusetts Institute of Technology (MIT) ,university
 1971912,Sanath Jayasena,Kyoto University,university
-2231831,T. Suzumura,Elevance Health,company
 2158624,G. Hurlburt,McKesson,company
 145078593,G. Thiruvathukal,UPS,company
 119631208,Maria R. Lee,The University of New South Wales (UNSW Sydney),university
@@ -3706,7 +3398,6 @@ authorId,name,Affiliations,Affiliation_type
 35056772,M. Horger,Fudan University,university
 4664340,N. Malek,Technical University of Munich,university
 143653424,K. Harter,Johnson & Johnson,company
-2220233,M. Bitzer,Valero Energy,company
 2088607,S. Nahnsen,UCL,university
 1406485922,V. Sáiz-Rubio,ETH Zurich - Swiss Federal Institute of Technology,university
 1402636333,F. Rovira-Más,Cigna,company
@@ -3851,7 +3542,6 @@ authorId,name,Affiliations,Affiliation_type
 2071346808,N. Rösch,PepsiCo Beverages,company
 1403759150,M. Al-Doori,Tsinghua University,university
 2418044,E. Stefanakis,Archer Daniels Midland,company
-1483744000,M. Jadidi,CVS Health,company
 2943819,Zehui Xiong,Cornell University,university
 2145954062,Yang Zhang,Humana,company
 3046954,Nguyen Cong Luong,Université PSL,university
@@ -3906,8 +3596,6 @@ authorId,name,Affiliations,Affiliation_type
 3324213,E. H. M. Ndoye,Fudan University,university
 101376223,V. Korotaev,"University of California, Los Angeles (UCLA)",university
 1871465,Theofanis P. Raptis,Delft University of Technology,university
-1739490,A. Passarella,Peking University,university
-2288804757,M. Conti,Kyoto University,university
 144886793,Peng-Ting Chen,University of Pennsylvania,university
 2146084427,Chia-Li Lin,MetLife,company
 2110051149,Wan-Ning Wu,University of Michigan-Ann Arbor,university
@@ -3919,14 +3607,12 @@ authorId,name,Affiliations,Affiliation_type
 144783437,Sarah Jones,University of Cambridge,university
 2810600,R. Pergl,Alphabet,company
 50371588,Rob W.W. Hooft,ExxonMobil,company
-1752597,Tomasz Miksa,University of British Columbia,university
 118034313,R. Samors,PepsiCo Beverages,company
 1399714527,J. Ungvári,Procter & Gamble,company
 48778183,Rowena I. Davis,National University of Singapore (NUS),university
 1724383,Tina Lee,Johnson & Johnson,company
 2109039649,Sumit Singh,Kroger,company
 1891038,E. Shehab,Humana,company
-1891038,E. Shehab,Seoul National University,university
 123445664,Nigel Higgins,Humana,company
 144782078,Kevin Fowler,Ford Motor,company
 2064304090,Dylan Reynolds,IBM,company
@@ -3965,23 +3651,11 @@ authorId,name,Affiliations,Affiliation_type
 143813668,Chenxu Wang,Target,company
 2115626527,Yawei Wang,Chevron,company
 2112264042,Lang Gao,Marathon Petroleum,company
-2956683,I. Chen,McGill University,university
-2285301474,Ken Chu,Walgreens Boots Alliance,company
-2412941,Krishna Palaniappan,Université PSL,university
 145460781,Manoj Pillay,Université PSL,university
-39517703,Anna Ratner,Cornell University,university
-2145739706,Jinghua Huang,McGill University,university
-2078394,Marcel Huntemann,MetLife,company
-3048429,N. Varghese,Peking University,university
 49884811,J. White,State Farm Insurance,company
-145841365,Rekha Seshadri,University of British Columbia,university
 2055146425,Tatyana Smirnova,The University of Edinburgh,university
 1697324,Edward Kirton,Berkshire Hathaway,company
 35059954,S. Jungbluth,Technical University of Munich,university
-2902641,T. Woyke,FedEx,company
-1396822962,E. Eloe-Fadrosh,Fannie Mae,company
-144490288,Natalia N. Ivanova,UCL,university
-2805081,N. Kyrpides,Lowe's,company
 2146750415,Sarah Heck,Walmart,company
 15978716,Saqib Shamim,MetLife,company
 2072981387,J. Zeng,General Motors,company
@@ -3990,7 +3664,6 @@ authorId,name,Affiliations,Affiliation_type
 1692039,Liehuang Zhu,Walmart,company
 50118198,Yulu Wu,Ford Motor,company
 2529746,Keke Gai,Citigroup,company
-2840539,Kim-Kwang Raymond Choo,Cornell University,university
 10995925,D. Dimitrov,University of Michigan-Ann Arbor,university
 2118890103,Xiaohuan Li,Procter & Gamble,company
 3116552,Xumin Huang,UCL,university
@@ -4007,10 +3680,8 @@ authorId,name,Affiliations,Affiliation_type
 144237796,Vincent Liu,Columbia University,university
 30894196,Ang Chen,UCL,university
 35206168,B. T. Loo,Université PSL,university
-1752597,Tomasz Miksa,University of Chicago,university
 145730688,S. Simms,State Farm Insurance,company
 1772144,D. Mietchen,Technical University of Munich,university
-144783437,Sarah Jones,Fannie Mae,company
 2108682982,Xiaoming Wang,The University of Tokyo,university
 2107299404,C. Williams,UCL,university
 1399980817,Z. Liu,Valero Energy,company
@@ -4069,8 +3740,6 @@ authorId,name,Affiliations,Affiliation_type
 4519924,Naomi Waithira,Cigna,company
 6296804,Brian Mutinda,AT&T,company
 14711734,P. Cheah,Cigna,company
-2810600,R. Pergl,Peking University,university
-50371588,Rob W.W. Hooft,The Australian National University,university
 69513411,M. Suchánek,Cornell University,university
 1394243406,Vojtěch Knaisl,General Motors,company
 1394243478,Jan Slifka,Costco Wholesale,company
@@ -4095,62 +3764,12 @@ authorId,name,Affiliations,Affiliation_type
 3110680,Nazim Taskin,McKesson,company
 2658897,D. Pauleen,Zhejiang University,university
 2072183966,Nur Azaliah Abu Bakar,Dell Technologies,company
-31764087,Mark D. Wilkinson,Valero Energy,company
-1736389,M. Dumontier,UPS,company
 1405172883,Ijsbrand Jan Aalbersberg,The University of Sydney,university
-74186014,Gabrielle Appleton,Humana,company
-4006952,M. Axton,Bank of America,company
-20313879,A. Baak,Verizon Communications,company
-2776517,N. Blomberg,The University of Hong Kong,university
-34945757,J. Boiten,MetLife,company
-115529154,Luiz Olavo Bonino da Silva Santos,Université PSL,university
-2048644,P. Bourne,University of Toronto,university
-47611747,J. Bouwman,Lowe's,company
-2160154,A. Brookes,The University of Hong Kong,university
-145469718,Tim Clark,Intel,company
-3000963,M. Crosas,State Farm Insurance,company
-145479127,I. Dillo,Cornell University,university
-116235596,Olivier Dumon,"University of California, Los Angeles (UCLA)",university
-1940242,S. Edmunds,JPMorgan Chase,company
-2185817,C. Evelo,McGill University,university
-2425367,R. Finkers,Kyoto University,university
-1401553965,Alejandra N. González-Beltrán,Meta Platforms,company
-34071005,A. Gray,University of Cambridge,university
 1727784,Paul T. Groth,Costco Wholesale,company
-46555127,C. Goble,Meta Platforms,company
-1736528,J. Grethe,UCL,university
-1699372,J. Heringa,University of Cambridge,university
 153449920,P. Hoen,Cardinal Health,company
-2359250,R. Hooft,The University of Queensland,university
-145727607,Tobias Kuhn,Stanford University,university
-47044989,Ruben G. Kok,University of Michigan-Ann Arbor,university
-1713683,J. Kok,EPFL,university
-4297975,S. Lusher,Harvard University,university
-2969738,M. Martone,Microsoft,company
-6027579,Albert Mons,The University of Sydney,university
-2455243,A. Packer,IBM,company
-2059300547,Bengt Persson,New York University (NYU),university
-1397958214,P. Rocca-Serra,Johnson & Johnson,company
-144140870,M. Roos,New York University (NYU),university
-51420525,Rene C. van Schaik,Home Depot,company
-1760490,Susanna-Assunta Sansone,Amazon,company
-1883372,E. Schultes,Ford Motor,company
-2510671,T. Sengstag,"University of California, Berkeley (UCB)",university
-38261192,Ted Slater,Target,company
-2013713,George O. Strawn,General Electric,company
-144034058,M. Swertz,The University of Manchester,university
-143962914,Mark Thompson,Pfizer,company
-84257307,J. van der Lei,ExxonMobil,company
-11563451,E. V. van Mulligen,Kyoto University,university
 1405172748,Jan Velterop,ETH Zurich - Swiss Federal Institute of Technology,university
-48709451,A. Waagmeester,Verizon Communications,company
-1681130,P. Wittenburg,Costco Wholesale,company
-143780913,K. Wolstencroft,The University of Manchester,university
-48019160,Jun Zhao,Stanford University,university
-1995836,B. Mons,The University of Queensland,university
 3378865,R. Higman,University of Oxford,university
 6944738,Daniel Bangert,The University of Sydney,university
-144783437,Sarah Jones,UCL,university
 2069982469,D. Hague,MetLife,company
 2058850807,Stephen Townsend,Ford Motor,company
 34545186,Lindsey Masters,King's College London,university
@@ -4188,8 +3807,6 @@ authorId,name,Affiliations,Affiliation_type
 3409962,Nic DePaula,Northwestern University,university
 3386057,M. Najafabadi,Fannie Mae,company
 2072957128,Jillian Palmer,University of British Columbia,university
-2189206,Ann Borda,King's College London,university
-144370168,K. Gray,"Nanyang Technological University, Singapore (NTU)",university
 2118638752,Yuqing Fu,Walmart,company
 145674068,Babak Salimi,Intel,company
 145557773,B. Howe,King's College London,university
@@ -4199,7 +3816,6 @@ authorId,name,Affiliations,Affiliation_type
 8846811,M. Poltavtseva,California Institute of Technology (Caltech),university
 1789869,D. Zegzhda,Yale University,university
 2662333,M. Kalinin,"University of California, Los Angeles (UCLA)",university
-11963660,Kristin A. Briney,EPFL,university
 143811079,A. Magdy,PepsiCo Beverages,company
 1394839557,Laila Abdelhafeez,Ford Motor,company
 66532878,Yunfan Kang,Centene,company
@@ -4218,18 +3834,10 @@ authorId,name,Affiliations,Affiliation_type
 145837053,M. Guizani,Yale University,university
 1389945327,Ala Al-Fuqaha,The University of Tokyo,university
 1396822935,David Páez-Espino,Dell Technologies,company
-52161096,S. Roux,Lowe's,company
-2956683,I. Chen,Humana,company
-2412941,Krishna Palaniappan,The University of Hong Kong,university
-39517703,Anna Ratner,University of British Columbia,university
-2285301474,Ken Chu,Centene,company
-2078394,Marcel Huntemann,JPMorgan Chase,company
 144896762,T. Reddy,University of Chicago,university
 2254214902,Joan Carles Pons,Peking University,university
 1702316,M. Llabrés,CVS Health,company
-1396822962,E. Eloe-Fadrosh,Tsinghua University,university
 2241382793,Natalia N. Ivanova,Wells Fargo,company
-2805081,N. Kyrpides,Stanford University,university
 152354805,Yunchuan Sun,Walgreens Boots Alliance,company
 48081155,Yufeng Shi,University of British Columbia,university
 2148904286,Zhengjun Zhang,Ford Motor,company
@@ -4257,7 +3865,6 @@ authorId,name,Affiliations,Affiliation_type
 2204699413,Jian Jiang,Pfizer,company
 2218326293,Xuan Yang,Verizon Communications,company
 2217936172,Jia-Ru Yan,Microsoft,company
-2022124,Barbara Plank,"University of California, Berkeley (UCB)",university
 2152663837,Xin Huang,Massachusetts Institute of Technology (MIT) ,university
 3083159,A. Khetan,PepsiCo Beverages,company
 2008176653,Milan Cvitkovic,McGill University,university
@@ -4321,8 +3928,6 @@ authorId,name,Affiliations,Affiliation_type
 50651835,Mingjie Li,The University of Sydney,university
 145011556,T. Chai,UCL,university
 103949847,Hanaa Elgohari,University of Cambridge,university
-41097607,H. Yousof,The University of Edinburgh,university
-145619185,Zhiqiang Ge,Cigna,company
 2109110276,Xinru Chen,Seoul National University,university
 145044852,Feras A. Saad,Stanford University,university
 1397895859,Marco F. Cusumano-Towner,JPMorgan Chase,company
@@ -4352,11 +3957,9 @@ authorId,name,Affiliations,Affiliation_type
 6315093,P. Bloomfield,Citigroup,company
 46174961,O. Howes,The University of Melbourne,university
 2991080,A. Bertoldo,University of Pennsylvania,university
-8804828,M. Schlichtkrull,Peking University,university
 41016725,Thomas Kipf,Stanford University,university
 2789097,Peter Bloem,Microsoft,company
 9965217,Rianne van den Berg,The London School of Economics and Political Science (LSE),university
-144889265,Ivan Titov,General Electric,company
 1678311,M. Welling,Meta Platforms,company
 1573289908,Stéphane Cédric KOUMETIO TEKOUABOU,University of Cambridge,university
 9398749,Walid Cherif,Lowe's,company
@@ -4409,7 +4012,6 @@ authorId,name,Affiliations,Affiliation_type
 94403669,Da‐Wen Sun,CVS Health,company
 46581019,Qiang Liu,Microsoft,company
 143609842,S. Qin,FedEx,company
-145011556,T. Chai,Target,company
 51041947,R. A. S. N. Soransso,"University of California, Berkeley (UCB)",university
 1986662,M. C. Cavalcanti,The University of Tokyo,university
 11754930,Aleksandar Bojchevski,Cigna,company
@@ -4454,7 +4056,6 @@ authorId,name,Affiliations,Affiliation_type
 119001322,Lewis Alexander,Cornell University,university
 152220539,Sanjiv Ranjan Das,Meta Platforms,company
 1804315,Z. Ives,The University of Edinburgh,university
-145531067,H. V. Jagadish,AT&T,company
 1806678,C. Monteleoni,King's College London,university
 144911623,André Ribeiro,Northwestern University,university
 2110015092,Afonso Silva,Zhejiang University,university
@@ -4527,17 +4128,14 @@ authorId,name,Affiliations,Affiliation_type
 2055082539,M. M. Huda,Zhejiang University,university
 72677405,D. R. L. Hayun,Archer Daniels Midland,company
 73379819,Zhin Martun,UPS,company
-1779967,Luyi Bai,IBM,company
 47002265,Li Yan,IBM,company
 2200379863,Z. Ma,Kyoto University,university
 3200403,M. Sarstedt,UCL,university
 50572945,C. Ringle,Fannie Mae,company
 2448849,Joseph F. Hair,FedEx,company
-115504645,Yang Song,The Australian National University,university
 1407546424,Jascha Narain Sohl-Dickstein,Meta Platforms,company
 1726807,Diederik P. Kingma,UnitedHealth Group,company
 2109224633,Abhishek Kumar,McGill University,university
-2490652,Stefano Ermon,State Farm Insurance,company
 16443937,Ben Poole,Tsinghua University,university
 2144379732,Weijun Liu,Cardinal Health,company
 2121283749,Xiaowei Wang,CVS Health,company
@@ -4546,7 +4144,6 @@ authorId,name,Affiliations,Affiliation_type
 153160317,Robert C. Wilson,The University of Edinburgh,university
 50593332,A. Collins,Walmart,company
 144484983,J. Kutz,General Electric,company
-3083169,S. Brunton,ETH Zurich - Swiss Federal Institute of Technology,university
 1824880,Bingni W. Brunton,Berkshire Hathaway,company
 2424683,J. Proctor,The Chinese University of Hong Kong (CUHK),university
 145153297,Hao Zhu,UCL,university
@@ -4564,7 +4161,6 @@ authorId,name,Affiliations,Affiliation_type
 3717195,Andrew W. Han,McKesson,company
 47646523,A. J. Johnson,Kroger,company
 32750186,S. Holmes,Apple,company
-2741023,Miyuru Dayarathna,University of British Columbia,university
 145868454,Yonggang Wen,Humana,company
 96185978,Rania Albalawi,The Australian National University,university
 2391149,T. Yeap,Elevance Health,company
@@ -4586,7 +4182,6 @@ authorId,name,Affiliations,Affiliation_type
 2444919,Florian Tramèr,MetLife,company
 1718064,B. Balle,New York University (NYU),university
 7975935,Daphne Ippolito,"University of California, Berkeley (UCB)",university
-145217343,Eric Wallace,Walgreens Boots Alliance,company
 2130462,R. Hijmans,Harvard University,university
 2145774899,Chengjie Chen,Citigroup,company
 2149052058,Hao Chen,University of British Columbia,university
@@ -4600,10 +4195,8 @@ authorId,name,Affiliations,Affiliation_type
 2150744,D. Acharjya,Princeton University,university
 2285074747,P. KauserAhmed,General Motors,company
 2247408324,C. J. Wang,Kroger,company
-2247408324,C. J. Wang,Seoul National University,university
 2230234351,Chun Y. Ng,UPS,company
 2247441477,Robert H. Brook,Verizon Communications,company
-2247441477,Robert H. Brook,Tsinghua University,university
 2855934,Ali Hassani,Walgreens Boots Alliance,company
 102471415,Steven Walton,Elevance Health,company
 2087066452,Nikhil Shah,Columbia University,university
@@ -4659,7 +4252,6 @@ authorId,name,Affiliations,Affiliation_type
 2776290,Qiusheng Wu,AT&T,company
 2555673,B. Brisco,CVS Health,company
 119723024,John T. Hancock,Valero Energy,company
-1725285,T. Khoshgoftaar,The University of Melbourne,university
 2275848903,Itay Goldstein,Institut Polytechnique de Paris,university
 102309470,Chester Spatt,Université PSL,university
 2240347692,Mao Ye,Lowe's,company
@@ -4680,7 +4272,6 @@ authorId,name,Affiliations,Affiliation_type
 2055791334,Lian Duan,Université PSL,university
 1809915,Naeem Seliya,McKesson,company
 1723353821,Azadeh Abdollah Zadeh,Johnson & Johnson,company
-1725285,T. Khoshgoftaar,Phillips 66,company
 48724197,A. Sandhu,University of Toronto,university
 46584628,Junliang Wang,McGill University,university
 153250242,Chuqiao Xu,Princeton University,university
@@ -4701,7 +4292,6 @@ authorId,name,Affiliations,Affiliation_type
 46994990,S. Kawano,King's College London,university
 48576550,Shujiro Okuda,The University of Tokyo,university
 49701119,Yu Watanabe,Archer Daniels Midland,company
-1785886,H. Hermjakob,Wells Fargo,company
 144252544,B. MacLean,Kroger,company
 2167765,M. MacCoss,Princeton University,university
 2762241,Yun-ping Zhu,King's College London,university
@@ -4710,7 +4300,6 @@ authorId,name,Affiliations,Affiliation_type
 2424691,Patrick Mikalef,General Motors,company
 52222865,Maria Boura,The University of Queensland,university
 3357578,G. Lekakos,UCL,university
-1716522,J. Krogstie,University of Toronto,university
 2277231466,Martin Strohbach,The University of Tokyo,university
 2288855760,AS A Commodity,Chevron,company
 8752082,Sam Goundar,ETH Zurich - Swiss Federal Institute of Technology,university
@@ -4718,7 +4307,6 @@ authorId,name,Affiliations,Affiliation_type
 2108409767,Shavindar Singh,King's College London,university
 2159706268,Mandeep Singh,Johns Hopkins University,university
 9313397,H. Gururaj,The University of New South Wales (UNSW Sydney),university
-2881033,Solon Barocas,State Farm Insurance,company
 46432110,Andrew D. Selbst,Walmart,company
 152117542,S. Singhal,Cornell University,university
 38608914,G. T. Reddy,Berkshire Hathaway,company
@@ -4728,7 +4316,6 @@ authorId,name,Affiliations,Affiliation_type
 32336300,D. Rajput,The Chinese University of Hong Kong (CUHK),university
 2176030144,Gautam Srivastava,The University of Tokyo,university
 2287603163,Ieee Thar Baker Senior Member,Fudan University,university
-2176030144,Gautam Srivastava,The University of Hong Kong,university
 2144586446,Jin Yang,The University of Sydney,university
 12013287,Yuan-jie Li,The London School of Economics and Political Science (LSE),university
 50384351,Qingqing Liu,Imperial College London,university
@@ -4754,7 +4341,6 @@ authorId,name,Affiliations,Affiliation_type
 3059861,C. Verdouw,General Electric,company
 98639980,M. Bogaardt,General Electric,company
 145963904,I. A. T. Hashem,Wells Fargo,company
-3264408,Ibrar Yaqoob,Apple,company
 1940692,N. B. Anuar,Chevron,company
 145463228,Salimah Mokhtar,McGill University,university
 143930319,A. Gani,PepsiCo Beverages,company
@@ -4864,33 +4450,18 @@ authorId,name,Affiliations,Affiliation_type
 71693831,M. R. Yeganegi,The University of Manchester,university
 33367477,Dingde Jiang,EPFL,university
 2108035003,Yuqing Wang,King's College London,university
-1792647,Zhihan Lv,Home Depot,company
 6353833,Sheng Qi,Bank of America,company
 143978827,Surjit Singh,Northwestern University,university
 107864595,Z. Allam,Archer Daniels Midland,company
 121660594,Zaynah A. Dhunny,The Chinese University of Hong Kong (CUHK),university
-2424691,Patrick Mikalef,UPS,company
-1716522,J. Krogstie,Berkshire Hathaway,company
 2749823,S. Wamba,Kroger,company
-143809890,A. Gunasekaran,The Chinese University of Hong Kong (CUHK),university
 1864298,Shahriar Akter,Cardinal Health,company
 121781054,S. Ren,Citigroup,company
-2051250,Rameshwar Dubey,Costco Wholesale,company
-2327630,S. Childe,The University of Sydney,university
-30757622,Sayantan Khanra,EPFL,university
-1889986,A. Dhir,Cardinal Health,company
-3062994,Matti Mäntymäki,FedEx,company
 46933871,M.S. Mahmud,Elevance Health,company
 152292148,J. Huang,Stanford University,university
 2128523,Salman Salloum,University of Cambridge,university
 2894178,Tamer Z. Emara,Yale University,university
 1680649161,Kuanishbay Sadatdiynov,Pfizer,company
-29011153,Qinglin Qi,Humana,company
-50556355,F. Tao,AT&T,company
-2424691,Patrick Mikalef,"University of California, Berkeley (UCB)",university
-52222865,Maria Boura,ExxonMobil,company
-3357578,G. Lekakos,Peking University,university
-1716522,J. Krogstie,IBM,company
 145772858,Zhihan Lv,New York University (NYU),university
 2116431916,Xiaoming Li,State Farm Insurance,company
 38929912,Haibin Lv,Delft University of Technology,university
@@ -4903,8 +4474,6 @@ authorId,name,Affiliations,Affiliation_type
 3615640,S. Vermeire,ExxonMobil,company
 1979817,M. M. Najafabadi,Yale University,university
 2142983,Flavio Villanustre,AmerisourceBergen,company
-1725285,T. Khoshgoftaar,The University of Tokyo,university
-1809915,Naeem Seliya,McKesson,company
 145539319,Randall Wald,Johns Hopkins University,university
 50076239,Edin A. Muharemagic,Target,company
 2125885487,P. S. G. Aruna Sri,Kyoto University,university
@@ -4949,7 +4518,6 @@ authorId,name,Affiliations,Affiliation_type
 150202182,Mohamed Ahzam Amanullah,Delft University of Technology,university
 96997078,Riyaz Ahamed Ariyaluran Habeeb,National University of Singapore (NUS),university
 2215941,F. Nasaruddin,Johns Hopkins University,university
-143930319,A. Gani,University of British Columbia,university
 145993580,E. Ahmed,Columbia University,university
 1504149495,Abdul Salam Mohamed Nainar,General Electric,company
 1504080542,Nazihah Md. Akim,Pfizer,company
@@ -4975,9 +4543,6 @@ authorId,name,Affiliations,Affiliation_type
 98495275,Yesheng Cui,MetLife,company
 143894735,S. Kara,Berkshire Hathaway,company
 115609123,Ka-Ching Chan,Bank of America,company
-2051250,Rameshwar Dubey,Massachusetts Institute of Technology (MIT) ,university
-143809890,A. Gunasekaran,UPS,company
-2327630,S. Childe,New York University (NYU),university
 2464154,Hongning Dai,Harvard University,university
 2789275,Hao Wang,McKesson,company
 7322490,Guangquan Xu,Cardinal Health,company
@@ -4990,14 +4555,12 @@ authorId,name,Affiliations,Affiliation_type
 50663909,G. Andrienko,The University of New South Wales (UNSW Sydney),university
 1780833,N. Andrienko,Massachusetts Institute of Technology (MIT) ,university
 144386157,C. Boldrini,Walgreens Boots Alliance,company
-2288804757,M. Conti,Zhejiang University,university
 1685102,F. Giannotti,Technical University of Munich,university
 1704327,Riccardo Guidotti,EPFL,university
 30912359,Simone Bertoli,JPMorgan Chase,company
 65925190,Jisu Kim,King's College London,university
 144263850,Cristina Ioana Muntean,Intel,company
 3145906,L. Pappalardo,Technical University of Munich,university
-1739490,A. Passarella,Walgreens Boots Alliance,company
 1693341,D. Pedreschi,Kroger,company
 28956425,Laura Pollacci,General Electric,company
 33769943,Francesca Pratesi,Intel,company
@@ -5008,11 +4571,9 @@ authorId,name,Affiliations,Affiliation_type
 2000360258,Xindi Wang,Kroger,company
 144055554,X. Zuo,Seoul National University,university
 143656578,Y. Zang,JPMorgan Chase,company
-3422872,Dan Hendrycks,ETH Zurich - Swiss Federal Institute of Technology,university
 52227748,Norman Mu,Université PSL,university
 8132903,E. D. Cubuk,General Motors,company
 2368067,Barret Zoph,Archer Daniels Midland,company
-2058362,J. Gilmer,University of Pennsylvania,university
 40627523,Balaji Lakshminarayanan,National University of Singapore (NUS),university
 91328365,Ben Orsburn,Johns Hopkins University,university
 2598130,Jianbo Fu,Seoul National University,university
@@ -5035,7 +4596,6 @@ authorId,name,Affiliations,Affiliation_type
 2797270,Carole-Jean Wu,Bank of America,company
 1896817,D. Brooks,Université PSL,university
 2255803,Gu-Yeon Wei,University of British Columbia,university
-20154699,D. Murray,Kyoto University,university
 38300863,Jiří Šimša,Northwestern University,university
 2285439911,Ana Klimovic,CVS Health,company
 120658773,Ihor Indyk,Peking University,university
@@ -5049,12 +4609,7 @@ authorId,name,Affiliations,Affiliation_type
 1774783,N. Koziris,The Australian National University,university
 2825685,G. Goumas,Alphabet,company
 145929920,O. Mutlu,University of British Columbia,university
-2598130,Jianbo Fu,ExxonMobil,company
-2153391126,Ying Zhang,University of Cambridge,university
-2108458186,Jin Liu,Chevron,company
 2052006581,Xichen Lian,Humana,company
-145101368,Jing Tang,Cigna,company
-144571173,Feng Zhu,Fannie Mae,company
 3971274,Euan Pyle,Peking University,university
 47355822,G. Zanetti,Centene,company
 2115647226,Yajun Wang,Cornell University,university
@@ -5148,9 +4703,7 @@ authorId,name,Affiliations,Affiliation_type
 2403754,Tomer Kaftan,Meta Platforms,company
 143666627,M. Franklin,The University of Melbourne,university
 38565890,A. Ghodsi,IBM,company
-143834867,M. Zaharia,MetLife,company
 2969659,R. Krishnamurthi,Dell Technologies,company
-1712222777,Adarsh Kumar,The London School of Economics and Political Science (LSE),university
 1931824459,Dhanalekshmi Gopinathan,PepsiCo Beverages,company
 3286242,A. Nayyar,Comcast,company
 145100089,B. Qureshi,Fudan University,university
@@ -5226,14 +4779,10 @@ authorId,name,Affiliations,Affiliation_type
 2043402,S. Venkatakrishnan,EPFL,university
 40071013,Zili Meng,Cardinal Health,company
 79404966,Mohammad Alizadeh,UnitedHealth Group,company
-2061067079,Ivan Fernandez,McKesson,company
 1939292,Ricardo Quislant,UPS,company
-46175739,Christina Giannoula,Johnson & Johnson,company
 3387282,M. Alser,The University of New South Wales (UNSW Sydney),university
-1474355913,Juan G'omez-Luna,The Chinese University of Hong Kong (CUHK),university
 2059547812,Eladio Gutiérrez,Procter & Gamble,company
 3190187,O. Plata,Johnson & Johnson,company
-145929920,O. Mutlu,University of Cambridge,university
 8880101,G. Aujla,The University of Manchester,university
 48775545,Amritpal Singh,Chevron,company
 2110675251,Maninderpal Singh,The London School of Economics and Political Science (LSE),university
@@ -5363,12 +4912,7 @@ authorId,name,Affiliations,Affiliation_type
 2235966,D. Graux,Wells Fargo,company
 2362078,Hajira Jabeen,PepsiCo Beverages,company
 1739608,Emanuel Sallinger,AT&T,company
-96997078,Riyaz Ahamed Ariyaluran Habeeb,Berkshire Hathaway,company
-2215941,F. Nasaruddin,Technical University of Munich,university
 2139962580,A. Gani,Technical University of Munich,university
-145963904,I. A. T. Hashem,National University of Singapore (NUS),university
-145993580,E. Ahmed,Amazon,company
-143948775,M. Imran,Alphabet,company
 1580778072,Oleksandr Solomentse,The Australian National University,university
 27023181,T. Herasymenko,Ford Motor,company
 26926447,O. Kozhokhina,PepsiCo Beverages,company
@@ -5389,7 +4933,6 @@ authorId,name,Affiliations,Affiliation_type
 145153097,Ting Cao,Citigroup,company
 3260130,J. Zigman,King's College London,university
 144041053,Haris Volos,ExxonMobil,company
-145929920,O. Mutlu,Archer Daniels Midland,company
 46496975,Fang Lv,Peking University,university
 32215073,Xiaobing Feng,Comcast,company
 38394648,G. Xu,Phillips 66,company
@@ -5443,8 +4986,6 @@ authorId,name,Affiliations,Affiliation_type
 3369856,Dorin Moldovan,Pfizer,company
 1718066,C. Pop,Massachusetts Institute of Technology (MIT) ,university
 1706937,I. Salomie,Centene,company
-9223889,M. Zaliskyi,Marathon Petroleum,company
-66906393,Y. Petrova,EPFL,university
 9100577,M. Asanov,University of Chicago,university
 9106080,E. Bekirov,Procter & Gamble,company
 40068409,H. Thornton,The University of Tokyo,university
@@ -5488,11 +5029,8 @@ authorId,name,Affiliations,Affiliation_type
 48730399,Sihui Luo,Amazon,company
 3446883,T. Adão,Bank of America,company
 16660204,Jonás Hruska,Apple,company
-143632492,L. Pádua,Marathon Petroleum,company
 2060408270,J. Bessa,Tsinghua University,university
-40655700,Emanuel Peres,Université PSL,university
 145104644,R. Morais,New York University (NYU),university
-80240841,J. Sousa,PepsiCo Beverages,company
 143940815,P. Kuppusamy,Yale University,university
 2065953003,R. Kalpana,Chevron,company
 2096307729,P. Venkateswara Rao,California Institute of Technology (Caltech),university
@@ -5529,10 +5067,6 @@ authorId,name,Affiliations,Affiliation_type
 2147261221,Lei Fan,The Australian National University,university
 2119407396,Pu Huang,Delft University of Technology,university
 103474705,Hai Li,Archer Daniels Midland,company
-2913270,Muhammad Syafrudin,Stanford University,university
-3212733,Ganjar Alfian,EPFL,university
-31380410,Norma Latif Fitriyani,Walmart,company
-3353468,J. Rhee,Verizon Communications,company
 2084846760,Hossein Ahmadvand,Walmart,company
 1768091,M. Goudarzi,University of Pennsylvania,university
 80784428,Fouzhan Foroutan,PepsiCo Beverages,company
@@ -5542,9 +5076,7 @@ authorId,name,Affiliations,Affiliation_type
 1939440,Duane Rinehart,Walgreens Boots Alliance,company
 143877861,H. P. Benton,Citigroup,company
 2809395,B. Warth,Institut Polytechnique de Paris,university
-2809395,B. Warth,McGill University,university
 10767606,Brian Hilmers,Stanford University,university
-2099119,G. Siuzdak,University of Cambridge,university
 3317889,Jeyhun Karimov,Delft University of Technology,university
 1731210,T. Rabl,Lowe's,company
 1680579,Asterios Katsifodimos,Phillips 66,company
@@ -5552,7 +5084,6 @@ authorId,name,Affiliations,Affiliation_type
 2868254,Henri Heiskanen,ExxonMobil,company
 1733290,V. Markl,AT&T,company
 17563188,S. Singh,The University of Edinburgh,university
-3286242,A. Nayyar,Fannie Mae,company
 49165821,R. Kumar,State Farm Insurance,company
 47443371,Anju Sharma,Kyoto University,university
 144625909,A. Shelestov,Verizon Communications,company
@@ -5563,12 +5094,6 @@ authorId,name,Affiliations,Affiliation_type
 13736628,K. Yamashita,Université PSL,university
 47781577,K. Hirata,The University of Sydney,university
 2243646160,Masaki Yamamoto,EPFL,university
-3212733,Ganjar Alfian,The University of New South Wales (UNSW Sydney),university
-2913270,Muhammad Syafrudin,Intel,company
-48761825,M. Ijaz,Zhejiang University,university
-2060154,M. A. Syaekhoni,Elevance Health,company
-31380410,Norma Latif Fitriyani,Fudan University,university
-3353468,J. Rhee,Costco Wholesale,company
 3181960,Junfei Qiu,University of British Columbia,university
 145447232,Qi-hui Wu,University of Toronto,university
 1788703,Guoru Ding,Massachusetts Institute of Technology (MIT) ,university
@@ -5724,7 +5249,6 @@ authorId,name,Affiliations,Affiliation_type
 51376287,R. Saha,Humana,company
 2111100791,Tai-Hoon Kim,Dell Technologies,company
 1800004,Ilan Shomorony,Seoul National University,university
-145639495,Reinhard Heckel,The University of Hong Kong,university
 2186480691,Mohan Naik Ramachandra,University of Cambridge,university
 2200758545,Madala Srinivasa Rao,Walmart,company
 2150706913,W. Lai,University of Michigan-Ann Arbor,university
@@ -5773,47 +5297,32 @@ authorId,name,Affiliations,Affiliation_type
 119935593,Hsing-Yeh Parker,FedEx,company
 2058303089,R. Carlson,ExxonMobil,company
 52129431,Douglas M. Carmean,Zhejiang University,university
-1717411,L. Ceze,Ford Motor,company
-145033446,K. Strauss,Marathon Petroleum,company
-2040448821,Lifu Song,The University of Tokyo,university
 2114054420,Zheng-Hua Deng,Amazon,company
 2053583938,Ziying Gong,University of Michigan-Ann Arbor,university
 2118416936,Lulu Li,Université PSL,university
 20798015,Bing-Zhi Li,McKesson,company
 23757022,Lee Organick,Pfizer,company
-29865576,S. Ang,The University of Sydney,university
 2886004,Yuan-Jyue Chen,University of Toronto,university
 32697055,Randolph Lopez,The Australian National University,university
-1729804,S. Yekhanin,Harvard University,university
 1721446,K. Makarychev,Cardinal Health,company
 150228028,Miklós Z. Rácz,Kroger,company
 1837061,G. Kamath,Stanford University,university
 1718214,Parikshit Gopalan,Columbia University,university
-38697713,Bichlien H. Nguyen,CVS Health,company
-35479753,Christopher N. Takahashi,Johnson & Johnson,company
 47170423,Sharon Newman,Imperial College London,university
-119935593,Hsing-Yeh Parker,Valero Energy,company
 3125805,Cyrus Rashtchian,Citigroup,company
 145966834,Kendall Stewart,Bank of America,company
-2061294792,Gagan Gupta,Fannie Mae,company
 47530702,Robert Carlson,Monash University,university
 2073961872,J. Mulligan,University of Toronto,university
-52129431,Douglas M. Carmean,Institut Polytechnique de Paris,university
 49997612,Georg Seelig,Intel,company
-1717411,L. Ceze,Seoul National University,university
-145033446,K. Strauss,The Australian National University,university
 1515428357,Chengtao Xu,Massachusetts Institute of Technology (MIT) ,university
 151480423,Chao Zhao,Walgreens Boots Alliance,company
 2084599260,Biao Ma,Centene,company
 2118902636,Hong Liu,Fudan University,university
 50037350,G. Molas,PepsiCo Beverages,company
 47019161,E. Nowak,Verizon Communications,company
-1515428357,Chengtao Xu,Institut Polytechnique de Paris,university
-2084599260,Biao Ma,ETH Zurich - Swiss Federal Institute of Technology,university
 97709033,Z. Gao,Fannie Mae,company
 93610956,Xing Dong,University of Toronto,university
 2112728651,Chao Zhao,UPS,company
-2118902636,Hong Liu,FedEx,company
 2108781632,Lejun Zhang,Humana,company
 2055642882,Ming-Wei Peng,Northwestern University,university
 2108438707,Weizheng Wang,AT&T,company
@@ -5821,23 +5330,11 @@ authorId,name,Affiliations,Affiliation_type
 2269644,Yansen Su,Chevron,company
 2155550922,Huiling Chen,Pfizer,company
 1729912945,Callista Bee,The University of New South Wales (UNSW Sydney),university
-2886004,Yuan-Jyue Chen,PepsiCo Beverages,company
 2095044923,Melissa Queen,Target,company
-2056913832,David Ward,Cardinal Health,company
 2111120410,Xiaomeng Liu,UnitedHealth Group,company
-23757022,Lee Organick,Microsoft,company
-49997612,Georg Seelig,FedEx,company
-145033446,K. Strauss,General Motors,company
-1717411,L. Ceze,Amazon,company
-23757022,Lee Organick,Pfizer,company
-38697713,Bichlien H. Nguyen,Apple,company
 1957273475,Rachel McAmis,Ford Motor,company
 2111830587,Weida D. Chen,Yale University,university
 13163128,A. X. Kohll,The University of Hong Kong,university
-29865576,S. Ang,The University of Queensland,university
-48560944,R. Grass,Delft University of Technology,university
-1717411,L. Ceze,Delft University of Technology,university
-145033446,K. Strauss,Home Depot,company
 2155585620,Huan Yang,AT&T,company
 1481721504,Feng Li,Marathon Petroleum,company
 34707388,Dongxiao Yu,The Australian National University,university
@@ -5851,8 +5348,6 @@ authorId,name,Affiliations,Affiliation_type
 6954941,Kyle J Tomek,Humana,company
 108338565,Kevin Volkel,California Institute of Technology (Caltech),university
 107837062,Elaine W. Indermaur,Procter & Gamble,company
-143973917,James M. Tuck,Apple,company
-37021971,Albert J. Keung,Northwestern University,university
 46184417,Jia-Qin Yang,"University of California, Los Angeles (UCLA)",university
 49455213,Ye Zhou,EPFL,university
 6350222,Su‐Ting Han,The University of Melbourne,university
@@ -5904,7 +5399,6 @@ authorId,name,Affiliations,Affiliation_type
 47964724,Junyeon Kim,Elevance Health,company
 32102344,K. Kondou,Zhejiang University,university
 143674076,Y. Otani,Berkshire Hathaway,company
-122358516,Omar Alghushairy,McGill University,university
 2136453743,Xiaogang Ma,University of Toronto,university
 1949846202,K. Kwak,Meta Platforms,company
 2109464590,Da Eun Lee,New York University (NYU),university
@@ -5915,8 +5409,6 @@ authorId,name,Affiliations,Affiliation_type
 1796253611,Mohammad Zalbagi Darestani,University of British Columbia,university
 4428768,M. Somoza,IBM,company
 32073567,W. Stark,EPFL,university
-145639495,Reinhard Heckel,Humana,company
-48560944,R. Grass,Zhejiang University,university
 1740614098,S. Ravikumar,"University of California, Berkeley (UCB)",university
 145636706,D. Kavitha,University of Michigan-Ann Arbor,university
 24463293,M. Javed,Procter & Gamble,company
@@ -5928,15 +5420,10 @@ authorId,name,Affiliations,Affiliation_type
 8336569,Kaikai Chen,Delft University of Technology,university
 5499803,Jinbo Zhu,The London School of Economics and Political Science (LSE),university
 1402971229,F. Bošković,California Institute of Technology (Caltech),university
-3356500,U. Keyser,Marathon Petroleum,company
-2117689925,Xiao Lin,The University of Hong Kong,university
 153240174,Jinpeng Liu,Meta Platforms,company
-1752784087,Jianying Hao,Fudan University,university
-2119043585,Kun Wang,ExxonMobil,company
 2145793656,Yuanying Zhang,Johns Hopkins University,university
 2155493162,Hui Li,EPFL,university
 2159065,H. Horimai,"Nanyang Technological University, Singapore (NTU)",university
-48391667,X. Tan,Peking University,university
 27445282,T. T. Nguyen,Chevron,company
 3680574,K. Cai,Intel,company
 1741737,Kees A. Schouhamer Immink,Berkshire Hathaway,company
@@ -5972,16 +5459,8 @@ authorId,name,Affiliations,Affiliation_type
 2144355103,Yang Chen,National University of Singapore (NUS),university
 144434220,Xiaodong Yang,Wells Fargo,company
 2110618928,Jie Gao,Amazon,company
-2886004,Yuan-Jyue Chen,Delft University of Technology,university
-35479753,Christopher N. Takahashi,JPMorgan Chase,company
-23757022,Lee Organick,Fannie Mae,company
-1729912945,Callista Bee,Elevance Health,company
-29865576,S. Ang,The Australian National University,university
 120860510,P. Weiss,University of British Columbia,university
 1770271879,Bill J Peck,Lowe's,company
-49997612,Georg Seelig,Berkshire Hathaway,company
-1717411,L. Ceze,UnitedHealth Group,company
-145033446,K. Strauss,California Institute of Technology (Caltech),university
 39167624,Q. Cao,IBM,company
 2125860937,Weiming Lü,"University of California, Los Angeles (UCLA)",university
 2271498931,Renshaw Wang,Elevance Health,company
@@ -5990,19 +5469,11 @@ authorId,name,Affiliations,Affiliation_type
 145156796,Shishen Yan,UPS,company
 145123064,Tom Wu,EPFL,university
 2271726631,Xiaolin Wang,Fudan University,university
-47170423,Sharon Newman,Procter & Gamble,company
 83674573,Ashley P. Stephenson,Walmart,company
 8810543,Max Willsey,"University of California, Berkeley (UCB)",university
-38697713,Bichlien H. Nguyen,The University of Melbourne,university
-35479753,Christopher N. Takahashi,Northwestern University,university
-145033446,K. Strauss,Apple,company
-1717411,L. Ceze,IBM,company
-8336569,Kaikai Chen,University of Chicago,university
 50596731,Jinglin Kong,Lowe's,company
-5499803,Jinbo Zhu,National University of Singapore (NUS),university
 14869064,N. Ermann,Apple,company
 48627323,P. Predki,Kyoto University,university
-3356500,U. Keyser,The University of Tokyo,university
 2955771,Yongjun Ren,Harvard University,university
 1491631727,Y. Leng,Wells Fargo,company
 8259409,Yaping Cheng,Microsoft,company
@@ -6032,15 +5503,7 @@ authorId,name,Affiliations,Affiliation_type
 40596015,Daniel Seybold,ExxonMobil,company
 1718383,K. Kritikos,UCL,university
 1780731,Giannis Verginadis,Delft University of Technology,university
-32697055,Randolph Lopez,Peking University,university
-2886004,Yuan-Jyue Chen,General Motors,company
 150294933,Siena Dumas Ang,Valero Energy,company
-1729804,S. Yekhanin,The University of Hong Kong,university
-1721446,K. Makarychev,Valero Energy,company
-150228028,Miklós Z. Rácz,Imperial College London,university
-49997612,Georg Seelig,Elevance Health,company
-145033446,K. Strauss,MetLife,company
-1717411,L. Ceze,Pfizer,company
 151480936,S. Yakout,Microsoft,company
 41211459,Chuzhe Tang,Université PSL,university
 2115725948,Youyun Wang,FedEx,company
@@ -6053,25 +5516,14 @@ authorId,name,Affiliations,Affiliation_type
 143768623,Qian Li,Harvard University,university
 144593304,C. Fan,FedEx,company
 1810701173,Fei Wang,University of Chicago,university
-73509301,Yeongjae Choi,"Nanyang Technological University, Singapore (NTU)",university
 15994978,H. Bae,Berkshire Hathaway,company
-31399475,A. C. Lee,McGill University,university
-2111389723,Hansol Choi,Citigroup,company
 50403503,Daewon Lee,Zhejiang University,university
-5430731,Taehoon Ryu,ETH Zurich - Swiss Federal Institute of Technology,university
 2058870027,Jinwoo Hyun,Walgreens Boots Alliance,company
-2109559620,Seojoo Kim,Centene,company
-114449847,Hyeli Kim,MetLife,company
-51163989,Suk-Heung Song,EPFL,university
 2110007025,Kibeom Kim,Procter & Gamble,company
-145720154,W. Park,McKesson,company
-88396204,Sunghoon Kwon,AT&T,company
 2702121,Kristina Chodorow,Walgreens Boots Alliance,company
 2906454,Michael Dirolf,Walmart,company
-2143717442,Jin Wang,"University of California, Los Angeles (UCLA)",university
 2134802777,Wencheng Chen,University of Michigan-Ann Arbor,university
 2152506888,Lei Wang,Kroger,company
-2955771,Yongjun Ren,Delft University of Technology,university
 145165793,R. Sherratt,FedEx,company
 1380082069,Benzheng Lyu,Berkshire Hathaway,company
 49146822,Yongsuk Choi,Delft University of Technology,university
@@ -6084,12 +5536,9 @@ authorId,name,Affiliations,Affiliation_type
 38298800,Surjeet Dalal,Procter & Gamble,company
 66519890,Vivek Jaglan,Cigna,company
 34956744,Dac-Nhuong Le,Ford Motor,company
-150302778,Senthilkumar Mohan,"University of California, Los Angeles (UCLA)",university
-144369609,Gautam Srivastava,General Motors,company
 35365766,Shengmei Luo,Kyoto University,university
 8274453,Guangyan Zhang,UCL,university
 1980434,Chengwen Wu,McGill University,university
-1740261,S. Khan,New York University (NYU),university
 2181606,Keqin Li,Yale University,university
 2151482262,Jinbo Yu,Cardinal Health,company
 143908713,M. Luo,McKesson,company
@@ -6097,25 +5546,15 @@ authorId,name,Affiliations,Affiliation_type
 2028636649,Shenming Huang,Intel,company
 145862504,Hsiao-Hsuan Hsu,Valero Energy,company
 15902590,Chi‐Ching Kuo,AmerisourceBergen,company
-6350222,Su‐Ting Han,"University of California, Los Angeles (UCLA)",university
-49455213,Ye Zhou,Phillips 66,company
-2143717442,Jin Wang,Pfizer,company
-2134802777,Wencheng Chen,Columbia University,university
-2955771,Yongjun Ren,Kyoto University,university
 50525349,O. Alfarraj,Apple,company
-2152506888,Lei Wang,Institut Polytechnique de Paris,university
 1411256149,Mahdi Ghafoorian,University of Pennsylvania,university
 1410127739,Dariush Abbasinezhad-Mood,Chevron,company
 11531589,Hassan Shakeri,The London School of Economics and Political Science (LSE),university
 2109763489,Junjie Wang,Walmart,company
 102838950,Fangsheng Qian,The University of Melbourne,university
-2028636649,Shenming Huang,Columbia University,university
-3233701,Ziyu Lv,The University of Manchester,university
 2152540073,Yan Wang,California Institute of Technology (Caltech),university
 48992350,Xuechao Xing,Bank of America,company
 2125045949,Meng Chen,The University of Hong Kong,university
-6350222,Su‐Ting Han,ExxonMobil,company
-49455213,Ye Zhou,Harvard University,university
 146980396,Ian Kosen,Fannie Mae,company
 2139704735,Can Huang,The Australian National University,university
 2117099308,Zhi Chen,Delft University of Technology,university
@@ -6134,10 +5573,7 @@ authorId,name,Affiliations,Affiliation_type
 2005254164,Silambarasan Elkana Ebinazer,McKesson,company
 48480677,N. Savarimuthu,Valero Energy,company
 1801761,S. M. Bhanu,McKesson,company
-2955771,Yongjun Ren,FedEx,company
-1491631727,Y. Leng,Technical University of Munich,university
 108621123,Fujian Zhu,University of Pennsylvania,university
-2143717442,Jin Wang,The University of Manchester,university
 79987966,Hye-jin Kim,Procter & Gamble,company
 2108734743,Yixin Wang,ExxonMobil,company
 1398730731,Md. Noor-A.-Rahim,University of Cambridge,university
@@ -6167,15 +5603,10 @@ authorId,name,Affiliations,Affiliation_type
 4722422,Orna Atar,Technical University of Munich,university
 7690785,Roee Amit,The University of Sydney,university
 81546514,Z. Yakhini,EPFL,university
-48775545,Amritpal Singh,ExxonMobil,company
 144529280,S. Garg,The University of Sydney,university
 46555602,K. Kaur,MetLife,company
 2818166,Shalini Batra,Massachusetts Institute of Technology (MIT) ,university
-144996075,Neeraj Kumar,AT&T,company
-2840539,Kim-Kwang Raymond Choo,Microsoft,company
-145843577,Zheng Yan,Intel,company
 2108025636,Lifang Zhang,PepsiCo Beverages,company
-2234493,Wenxiu Ding,Valero Energy,company
 50320297,Q. Zheng,The Australian National University,university
 13132066,Zhi Ping,Columbia University,university
 146515004,Dongzhao Ma,Meta Platforms,company
@@ -6187,12 +5618,6 @@ authorId,name,Affiliations,Affiliation_type
 145295899,Yue Shen,PepsiCo Beverages,company
 2288759936,S. M. I. M. Thangavel,"University of California, Berkeley (UCB)",university
 48919600,P. Varalakshmi,Johnson & Johnson,company
-52129431,Douglas M. Carmean,National University of Singapore (NUS),university
-1717411,L. Ceze,ETH Zurich - Swiss Federal Institute of Technology,university
-49997612,Georg Seelig,University of Toronto,university
-145966834,Kendall Stewart,Costco Wholesale,company
-145033446,K. Strauss,University of Cambridge,university
-8810543,Max Willsey,Marathon Petroleum,company
 1843181,Jun-Song Fu,McKesson,company
 2144443688,Yun Liu,The London School of Economics and Political Science (LSE),university
 144861189,H. Chao,University of British Columbia,university
@@ -6231,18 +5656,12 @@ authorId,name,Affiliations,Affiliation_type
 1731776,Yongfeng Huang,Zhejiang University,university
 2115403807,Jing Lu,FedEx,company
 2797933,Yongqian Du,Peking University,university
-2108734743,Yixin Wang,The Chinese University of Hong Kong (CUHK),university
-1398730731,Md. Noor-A.-Rahim,Costco Wholesale,company
 153389954,Jingyun Zhang,Harvard University,university
-143884284,E. Gunawan,Meta Platforms,company
-1737045,Y. Guan,Berkshire Hathaway,company
-10310238,C. Poh,The University of Edinburgh,university
 2431843,Zhuofan Liao,Berkshire Hathaway,company
 2109960523,Ruiming Zhang,Université PSL,university
 32434251,Shiming He,The University of Edinburgh,university
 1796706,Daojian Zeng,Massachusetts Institute of Technology (MIT) ,university
 2143716755,Jin Wang,ExxonMobil,company
-79987966,Hye-jin Kim,Massachusetts Institute of Technology (MIT) ,university
 1500391633,Tianli Zhou,Dell Technologies,company
 143804003,C. Tian,Johns Hopkins University,university
 34560963,Marcel von Maltitz,UPS,company
@@ -6274,8 +5693,6 @@ authorId,name,Affiliations,Affiliation_type
 50593801,G. Lyon,Bank of America,company
 48901174,D. Hadley,PepsiCo Beverages,company
 48391237,H. Hakonarson,Verizon Communications,company
-2701137,M. V. Sande,The London School of Economics and Political Science (LSE),university
-1723397,R. Verborgh,Elevance Health,company
 32435123,J. Herwegen,Elevance Health,company
 1691320,E. Mannens,Ford Motor,company
 144520698,R. Walle,Technical University of Munich,university
@@ -6284,7 +5701,6 @@ authorId,name,Affiliations,Affiliation_type
 2950550,M. Masson,Northwestern University,university
 2111335853,Zhida Chen,Massachusetts Institute of Technology (MIT) ,university
 2297264,Lisi Chen,Imperial College London,university
-144145211,G. Cong,Pfizer,company
 145917501,Christian S. Jensen,University of Toronto,university
 153475895,Bridger Herman,University of Toronto,university
 2089478126,Maxwell Omdal,Bank of America,company
@@ -6301,11 +5717,8 @@ authorId,name,Affiliations,Affiliation_type
 2279576,R. Chikhi,Target,company
 144759563,Vraj Shah,Home Depot,company
 47319783,Side Li,The University of New South Wales (UNSW Sydney),university
-2119303314,Arun Kumar,Centene,company
 1796044,L. Saul,Home Depot,company
 2108545581,Yuhao Zhang,Tsinghua University,university
-2119303314,Arun Kumar,State Farm Insurance,company
-2984224,Qinglei Kong,Costco Wholesale,company
 103073143,Rongxing Lu,Marathon Petroleum,company
 144637915,M. Ma,ETH Zurich - Swiss Federal Institute of Technology,university
 3326354,Haiyong Bao,Microsoft,company
@@ -6330,9 +5743,7 @@ authorId,name,Affiliations,Affiliation_type
 9248001,Zhiyin Li,Monash University,university
 4671421,Jingwei Cheng,University of Oxford,university
 3059455,Mohamed Nadjib Mami,The University of Melbourne,university
-2235966,D. Graux,King's College London,university
 1705658,S. Scerri,Delft University of Technology,university
-2362078,Hajira Jabeen,State Farm Insurance,company
 145044578,S. Auer,State Farm Insurance,company
 1899648,Kisung Lee,University of Pennsylvania,university
 46458150,Ling Liu,Verizon Communications,company
@@ -6349,7 +5760,6 @@ authorId,name,Affiliations,Affiliation_type
 35195456,B. Vries,McKesson,company
 151067933,J. Werbrouck,Ford Motor,company
 89551211,M. Senthilvel,Comcast,company
-144204299,J. Beetz,Phillips 66,company
 39454836,P. Pauwels,Fudan University,university
 144105942,S. Brandt,Massachusetts Institute of Technology (MIT) ,university
 3449760,E. G. Kalayci,Cardinal Health,company
@@ -6364,9 +5774,6 @@ authorId,name,Affiliations,Affiliation_type
 143972996,Fatma Özcan,Seoul National University,university
 2108123758,Yunhao Zhang,Target,company
 144593763,Rong Chen,AT&T,company
-2118438836,Haibo Chen,University of Michigan-Ann Arbor,university
-2701137,M. V. Sande,Phillips 66,company
-1723397,R. Verborgh,King's College London,university
 2911425,Patrick Hochstenbach,Cigna,company
 8050194,H. Sompel,Technical University of Munich,university
 145619750,R. Andrews,CVS Health,company
@@ -6375,13 +5782,10 @@ authorId,name,Affiliations,Affiliation_type
 120850714,E. Poppe,New York University (NYU),university
 2285196231,Leonid Libkin,UnitedHealth Group,company
 2243335778,Wim Martens,Monash University,university
-2434366,D. Vrgoc,Wells Fargo,company
 3319633,Kemele M. Endris,The University of Manchester,university
 2066369448,Mikhail Galkin,CVS Health,company
 2115114,Ioanna Lytra,AmerisourceBergen,company
-3059455,Mohamed Nadjib Mami,ExxonMobil,company
 143858195,Maria-Esther Vidal,Seoul National University,university
-145044578,S. Auer,McGill University,university
 39663634,M. Malki,Peking University,university
 35318166,Hamdi Ben Hamadou,Bank of America,company
 143696205,M. Chevalier,PepsiCo Beverages,company
@@ -6390,10 +5794,7 @@ authorId,name,Affiliations,Affiliation_type
 2108533,Marcin Wylot,University of Cambridge,university
 1393644275,P. Cudré-Mauroux,Stanford University,university
 1733076,M. Hauswirth,Lowe's,company
-1727784,Paul T. Groth,University of Toronto,university
 145749443,I. Abdelaziz,Columbia University,university
-1801187,Essam Mansour,"Nanyang Technological University, Singapore (NTU)",university
-2168047,M. Ouzzani,Lowe's,company
 1704622,Ashraf Aboulnaga,Walgreens Boots Alliance,company
 2000187,Panos Kalnis,UPS,company
 1690504,Thierry Hamon,University of Cambridge,university
@@ -6412,43 +5813,26 @@ authorId,name,Affiliations,Affiliation_type
 1697928,E. Kharlamov,Verizon Communications,company
 3342377,Özgür L. Özçep,Pfizer,company
 2028218,C. Neuenstadt,Stanford University,university
-144105942,S. Brandt,Humana,company
 1876123,A. Eldawy,Costco Wholesale,company
-1756679,M. Mokbel,EPFL,university
 1388622435,Saif Al-Harthi,National University of Singapore (NUS),university
 1404602362,Abdulhadi Alzaidy,University of Michigan-Ann Arbor,university
 32653213,Kareem Tarek,Kyoto University,university
 2635216,Sohaib Ghani,UnitedHealth Group,company
-3319633,Kemele M. Endris,University of Michigan-Ann Arbor,university
-2066369448,Mikhail Galkin,Citigroup,company
-2115114,Ioanna Lytra,Wells Fargo,company
-3059455,Mohamed Nadjib Mami,Monash University,university
-143858195,Maria-Esther Vidal,Humana,company
-145044578,S. Auer,University of Michigan-Ann Arbor,university
 2899295,G. I. Diaz,Microsoft,company
-144658846,M. Arenas,University of Toronto,university
 1750856,Michael Benedikt,ETH Zurich - Swiss Federal Institute of Technology,university
-144145211,G. Cong,Cardinal Health,company
-145917501,Christian S. Jensen,UCL,university
 39527078,Mengchu Cai,Lowe's,company
 2062848,M. Grund,Monash University,university
 2110760082,Anurag Gupta,EPFL,university
 12421844,F. Nagel,Meta Platforms,company
-2754078,Ippokratis Pandis,Wells Fargo,company
 1786049,Y. Papakonstantinou,State Farm Insurance,company
 1835963,M. Petropoulos,Phillips 66,company
-35318166,Hamdi Ben Hamadou,Princeton University,university
 1702822,Faïza Ghozzi,Tsinghua University,university
-1761667,A. Péninou,The University of Manchester,university
-2862341,O. Teste,Imperial College London,university
 2840853,Javad Chamanara,"University of California, Los Angeles (UCLA)",university
 1389035902,B. König-Ries,Humana,company
-145531067,H. V. Jagadish,Chevron,company
 3415323,Ying-Ti Liao,FedEx,company
 2143543532,Jiazheng Zhou,CVS Health,company
 2110037201,Chia-Hung Lu,Comcast,company
 50358415,Shih-Chang Chen,The London School of Economics and Political Science (LSE),university
-145377105,Ching-Hsien Hsu,Bank of America,company
 1712168,Wenguang Chen,Pfizer,company
 2180080,M. Jiang,The University of Edinburgh,university
 2114033769,Yeh-Ching Chung,FedEx,company
@@ -6478,44 +5862,34 @@ authorId,name,Affiliations,Affiliation_type
 98150490,Yong Hu,MetLife,company
 2931093,Linyao Feng,The Australian National University,university
 145555027,A. Zhu,Cardinal Health,company
-1735083,Vikash K. Mansinghka,General Electric,company
 6304049,R. Tibbetts,Seoul National University,university
 1679603,Jay Baxter,University of Chicago,university
 3210220,Patrick Shafto,The University of New South Wales (UNSW Sydney),university
 31900173,Baxter S. Eaves,General Motors,company
-2115811945,Chi Zhang,Cardinal Health,company
-144204299,J. Beetz,Delft University of Technology,university
 2810491,Vijay Ingalalli,Intel,company
 1789397,D. Ienco,University of Chicago,university
 1744598,P. Poncelet,Kyoto University,university
 1725656,S. Villata,Walmart,company
 1758301,P. Upadhyaya,The University of Manchester,university
 1718134,M. Balazinska,Technical University of Munich,university
-144823759,Dan Suciu,Cardinal Health,company
 2393008,P. Fafalios,Cornell University,university
 2910199,Thanos Yannakis,Lowe's,company
 1801959,Yannis Tzitzikas,Procter & Gamble,company
 2064746531,Fabio Benedetti,ExxonMobil,company
 2724566,S. Bergamaschi,Walgreens Boots Alliance,company
 3081813,Laura Po,Johns Hopkins University,university
-2393008,P. Fafalios,The University of Tokyo,university
-1801959,Yannis Tzitzikas,Cornell University,university
 2586969,Lorena Etcheverry,The University of Sydney,university
 2070105034,A. Vaisman,UnitedHealth Group,company
 51413028,Dan P. K. Seedah,Microsoft,company
 72448716,Carine Choubassi,Chevron,company
 1483964179,Fernanda Leite,Peking University,university
-1741623,O. Pivert,McGill University,university
-50458739,Olfa Slama,University of British Columbia,university
 145433223,Grégory Smits,Valero Energy,company
-2673479,Virginie Thion,Wells Fargo,company
 6435323,Florian Haag,Fudan University,university
 1703432,S. Lohmann,Pfizer,company
 25871431,Stephan Siek,FedEx,company
 2255769385,Thomas Ertl,Northwestern University,university
 90981528,Ahmed El-Roby,Technical University of Munich,university
 2073283133,Khalid Ammar,MetLife,company
-1704622,Ashraf Aboulnaga,UCL,university
 145580839,Jimmy J. Lin,Harvard University,university
 144094041,A. Ginsburg,Massachusetts Institute of Technology (MIT) ,university
 88708678,B. SipHocz,Harvard University,university
@@ -6541,13 +5915,8 @@ authorId,name,Affiliations,Affiliation_type
 3422937,I. Valtchanov,McGill University,university
 7961622,J. Woillez,Intel,company
 103064303,the Astroquery collaboration,UCL,university
-1876123,A. Eldawy,"University of California, Berkeley (UCB)",university
-1388622435,Saif Al-Harthi,Northwestern University,university
-1404602362,Abdulhadi Alzaidy,Technical University of Munich,university
 2279240,Anas Daghistani,AT&T,company
-2635216,Sohaib Ghani,University of Pennsylvania,university
 3087877,Saleh M. Basalamah,Delft University of Technology,university
-1756679,M. Mokbel,Pfizer,company
 3262907,Aziz Sözer,Stanford University,university
 144502489,A. Yazıcı,The University of Queensland,university
 1712420,Halit Oğuztüzün,Costco Wholesale,company
@@ -6557,10 +5926,6 @@ authorId,name,Affiliations,Affiliation_type
 3045042,Wensheng Gan,The University of Sydney,university
 2111880710,Jian Weng,EPFL,university
 144019071,Philip S. Yu,Microsoft,company
-2483738,Nicholas Carlini,Procter & Gamble,company
-2444919,Florian Tramèr,Johns Hopkins University,university
-145217343,Eric Wallace,Humana,company
-40844378,Matthew Jagielski,King's College London,university
 1404060687,Ariel Herbert-Voss,UnitedHealth Group,company
 3844009,Katherine Lee,"University of California, Los Angeles (UCLA)",university
 145625142,Adam Roberts,"University of California, Los Angeles (UCLA)",university
@@ -6568,7 +5933,6 @@ authorId,name,Affiliations,Affiliation_type
 143711382,D. Song,Meta Platforms,company
 1758110,Ú. Erlingsson,Zhejiang University,university
 3046437,Alina Oprea,New York University (NYU),university
-2402716,Colin Raffel,Tsinghua University,university
 47302605,Shi-Yu Liang,University of Oxford,university
 2113917675,Kurt Stockinger,Procter & Gamble,company
 1725471,T. M. Farias,Bank of America,company
@@ -6577,7 +5941,6 @@ authorId,name,Affiliations,Affiliation_type
 32212787,D. Yagoubi,Fannie Mae,company
 1709023,Reza Akbarinia,Columbia University,university
 2028901,F. Masseglia,Marathon Petroleum,company
-1725167,Themis Palpanas,The University of Melbourne,university
 20829758,Amr Azzam,Yale University,university
 144341429,Javier D. Fernández,Imperial College London,university
 144841747,Maribel Acosta,Costco Wholesale,company
@@ -6614,7 +5977,6 @@ authorId,name,Affiliations,Affiliation_type
 2793790,Xuefeng Guan,State Farm Insurance,company
 2212203,E. Verbree,Institut Polytechnique de Paris,university
 2286551494,Mike Horhammer,General Motors,company
-144658846,M. Arenas,ExxonMobil,company
 1684745,G. Gottlob,Phillips 66,company
 1771740,Andreas Pieris,Stanford University,university
 3691987,Jiwen Xin,Microsoft,company
@@ -6629,7 +5991,6 @@ authorId,name,Affiliations,Affiliation_type
 2529397,O. Griffith,Harvard University,university
 3286188,A. Torkamani,Johnson & Johnson,company
 1758453,P. Whetzel,McKesson,company
-52038267,C. Mungall,Wells Fargo,company
 1712935,S. Mooney,The London School of Economics and Political Science (LSE),university
 1759053,A. Su,The London School of Economics and Political Science (LSE),university
 39929911,Chunlei Wu,Ford Motor,company
@@ -6681,17 +6042,14 @@ authorId,name,Affiliations,Affiliation_type
 1799376,G. Graefe,Kroger,company
 1918781,S. Sardashti,Fudan University,university
 145204762,Ahmed M. Aly,Apple,company
-143970078,D. Agrawal,Valero Energy,company
 50179113,A. Gupta,CVS Health,company
 1710223,S. Venkataraman,UCL,university
 40964207,M. Mannino,Phillips 66,company
 1698925,A. Abouzeid,ExxonMobil,company
 39872583,M. Wang,Target,company
 2144408488,Ruijie Wang,Delft University of Technology,university
-9756930,Jun Liu,State Farm Insurance,company
 2116613685,Yihe Chen,Monash University,university
 1490729436,Lei Zhang,Seoul National University,university
-1730054,G. Qi,New York University (NYU),university
 2384588,Alexander Lachmann,University of Chicago,university
 32269119,Denis Torre,Wells Fargo,company
 143865031,A. Keenan,Seoul National University,university
@@ -6700,20 +6058,10 @@ authorId,name,Affiliations,Affiliation_type
 2117931506,Lily Wang,Intel,company
 14024404,Moshe C. Silverstein,Princeton University,university
 2064231224,Avi Ma’ayan,Institut Polytechnique de Paris,university
-143811079,A. Magdy,Zhejiang University,university
 2877140,Louai Alarabi,Johnson & Johnson,company
-1388622435,Saif Al-Harthi,Monash University,university
 2186764,Mashaal Musleh,Zhejiang University,university
 35205093,Thanaa M. Ghanem,Université PSL,university
-2635216,Sohaib Ghani,Fudan University,university
-3087877,Saleh M. Basalamah,Université PSL,university
-1756679,M. Mokbel,Verizon Communications,company
-36994619,A. Lysenko,University of Michigan-Ann Arbor,university
 2835741,Irina A. Roznovat,The University of Sydney,university
-50701671,M. Saqi,UnitedHealth Group,company
-48107154,A. Mazein,Delft University of Technology,university
-31590259,C. Rawlings,Alphabet,company
-48662628,C. Auffray,Princeton University,university
 119136574,M. Pitkin,Verizon Communications,company
 35301620,Katrien Laenen,Fudan University,university
 3348963,Susana Zoghbi,Wells Fargo,company
@@ -6721,10 +6069,7 @@ authorId,name,Affiliations,Affiliation_type
 1784772,Stefan Borgwardt,Fannie Mae,company
 49633004,I. Ceylan,The London School of Economics and Political Science (LSE),university
 1690572,Thomas Lukasiewicz,Centene,company
-2131714,A. Schätzle,Walgreens Boots Alliance,company
-1403683697,Martin Przyjaciel-Zablocki,University of Toronto,university
 40459882,Thorsten Berberich,Centene,company
-1809410,G. Lausen,National University of Singapore (NUS),university
 29629766,I. Zhbannikov,Princeton University,university
 2183217,K. Arbeev,The University of Sydney,university
 2040119,A. Yashin,Kyoto University,university
@@ -6767,7 +6112,6 @@ authorId,name,Affiliations,Affiliation_type
 3200296,A. Endert,The University of Melbourne,university
 1687984,S. Navathe,Walmart,company
 8163721,Hanghang Tong,Amazon,company
-1793506,Duen Horng Chau,Yale University,university
 40275640,Ramya Korlakai Vinayak,UPS,company
 1736279,B. Hassibi,ETH Zurich - Swiss Federal Institute of Technology,university
 7617146,Sutanay Choudhury,The University of Edinburgh,university
