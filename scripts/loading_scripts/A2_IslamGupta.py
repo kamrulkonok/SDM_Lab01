@@ -18,6 +18,13 @@ class DataLoader:
             session.execute_write(load_function, csv_path)
 
     @staticmethod
+    def _delete_existing_data(tx, csv_filename):
+        query = f"""
+        MATCH(n) DETACH DELETE n
+        """
+        tx.run(query)
+
+    @staticmethod
     def _load_authors(tx, csv_filename):
         query = f"""
         LOAD CSV WITH HEADERS FROM 'file:///{csv_filename}' AS row
@@ -123,7 +130,7 @@ class DataLoader:
 if __name__ == "__main__":
     config = load_config()
     loader = DataLoader(config)
-
+    loader.load_csv_data("",DataLoader._delete_existing_data)
     loader.load_csv_data("conference_info.csv", DataLoader._load_papers)
     loader.load_csv_data("journal_info.csv", DataLoader._load_papers)
     loader.load_csv_data("workshop_info.csv", DataLoader._load_papers)

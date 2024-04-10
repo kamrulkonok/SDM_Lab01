@@ -116,7 +116,7 @@ class DataLoader:
         UNWIND split(row.reviewers, ',') AS reviewerId
         MATCH (r:Author {{authorId: reviewerId}})
         MERGE (r)-[review:REVIEWED]->(p)
-        ON CREATE SET review.approved = row.approved, review.comments = row.comments
+        SET review.approved = row.approved, review.comments = row.comments
         """
         tx.run(query)
 
@@ -135,24 +135,8 @@ class DataLoader:
 if __name__ == "__main__":
     config = load_config()
     loader = DataLoader(config)
-    loader.load_csv_data("conference_info.csv", DataLoader._load_papers)
-    loader.load_csv_data("journal_info.csv", DataLoader._load_papers)
-    loader.load_csv_data("workshop_info.csv", DataLoader._load_papers)
-    loader.load_csv_data("conference_info.csv", lambda tx, csv_path: DataLoader._load_publication_venues(tx, csv_path, 'Conference'))
-    loader.load_csv_data("journal_info.csv", lambda tx, csv_path: DataLoader._load_publication_venues(tx, csv_path, 'Journal'))
-    loader.load_csv_data("workshop_info.csv", lambda tx, csv_path: DataLoader._load_publication_venues(tx, csv_path, 'Workshop'))
-    loader.load_csv_data("authors_info.csv", DataLoader._load_authors)
-    loader.load_csv_data("journal_info.csv", DataLoader._load_authors_relations)
-    loader.load_csv_data("workshop_info.csv", DataLoader._load_authors_relations)
-    loader.load_csv_data("conference_info.csv", DataLoader._load_authors_relations)
-    loader.load_csv_data("conference_info.csv", DataLoader._load_citations)
-    loader.load_csv_data("journal_info.csv", DataLoader._load_citations)
-    loader.load_csv_data("workshop_info.csv", DataLoader._load_citations)
     loader.load_csv_data("conference_info.csv", DataLoader._load_reviews)
     loader.load_csv_data("journal_info.csv", DataLoader._load_reviews)
     loader.load_csv_data("workshop_info.csv", DataLoader._load_reviews)
     loader.load_csv_data("authors_info.csv", DataLoader._load_authors_and_affiliations)
-    loader.load_csv_data("conference_info.csv", lambda tx, path: DataLoader._load_keywords_and_relations(tx, path))
-    loader.load_csv_data("journal_info.csv", lambda tx, path: DataLoader._load_keywords_and_relations(tx, path))
-    loader.load_csv_data("workshop_info.csv", lambda tx, path: DataLoader._load_keywords_and_relations(tx, path))
     loader.close()
